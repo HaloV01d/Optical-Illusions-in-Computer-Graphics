@@ -203,24 +203,45 @@ renderer.domElement.addEventListener("click", (event) => {
     }
 });
 
-// Convert world position to screen pixel coordinates
-function worldToScreenPixel(worldPos) {
-    const v = worldPos.clone().project(camera);
-
-  let x = Math.round((v.x * 0.5 + 0.5) * (rt.width - 1));
-  let y = Math.round(((-v.y) * 0.5 + 0.5) * (rt.height - 1));
-
-    x = Math.max(0, Math.min(rt.width - 1, x));
-    y = Math.max(0, Math.min(rt.height - 1, y));
-
-    return { x, y };
+// Get checkerboard color from texture at given UV coordinates
+function getCheckerboardColorAtUV(u, v) {
+    const size = 512;
+    const squares = 8;
+    const squareSize = size / squares;
+    
+    // Normalize UV to checkerboard space
+    u = u % 1;
+    v = v % 1;
+    if (u < 0) u += 1;
+    if (v < 0) v += 1;
+    
+    const x = Math.floor((u * squares) % squares);
+    const y = Math.floor((v * squares) % squares);
+    
+    // Determine color based on checkerboard pattern
+    const isLight = (x + y) % 2 === 0;
+    
+    if (isLight) {
+        return { r: 207, g: 207, b: 207 }; // #cfcfcf
+    } else {
+        return { r: 58, g: 58, b: 58 }; // #3a3a3a
+    }
 }
 
-// Read pixel color from render target
-function readPixelRGB(x, y) {
-    const pixel = new Uint8Array(4);
-    renderer.readRenderTargetPixels(rt, x, rt.height - 1 - y, 1, 1, pixel);
-    return { r: pixel[0], g: pixel[1], b: pixel[2], a: pixel[3] };
+// Read the actual material color (not the rendered/lit color)
+function readMaterialColor(worldPos) {
+    // For floor geometry, convert world position to UV coordinates
+    const geometry = floor.geometry;
+    const material = floor.material;
+    
+    // World position relative to floor
+    const localPos = worldPos.clone().sub(floor.position);
+    
+    // Assuming floor is 10x10 centered at origin
+    const u = (localPos.x + 5) / 10;
+    const v = (localPos.z + 5) / 10;
+    
+    return getCheckerboardColorAtUV(u, v);
 }
 
 // Animation loop
@@ -239,18 +260,15 @@ function animate() {
 
   // If both points selected, display RGB
     if (pickedA && pickedB && panel) {
-    const aPix = worldToScreenPixel(pickedA.worldPos);
-    const bPix = worldToScreenPixel(pickedB.worldPos);
-
-    const A = readPixelRGB(aPix.x, aPix.y);
-    const B = readPixelRGB(bPix.x, bPix.y);
+    const A = readMaterialColor(pickedA.worldPos);
+    const B = readMaterialColor(pickedB.worldPos);
 
     panel.textContent =
 `A RGB: (${A.r}, ${A.g}, ${A.b})
 B RGB: (${B.r}, ${B.g}, ${B.b})
 
-Tip: If A and B look different but RGB is similar,
-that's the illusion effect.`;
+Tip: If A and B look different but RGB is the same,
+that's the illusion effect! Your eyes are being fooled.`;
     }
 }
 animate();
