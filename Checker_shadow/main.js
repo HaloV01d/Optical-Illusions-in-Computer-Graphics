@@ -184,7 +184,7 @@ renderer.domElement.addEventListener("click", (event) => {
 
   // Toggle: A then B then reset back to A
     if (!pickedA || (pickedA && pickedB)) {
-    pickedA = { worldPos: hitPoint };
+    pickedA = { worldPos: hitPoint, ndc: ndc };
     pickedB = null;
 
     markerA.position.copy(hitPoint).add(new THREE.Vector3(0, 0.12, 0));
@@ -194,7 +194,7 @@ renderer.domElement.addEventListener("click", (event) => {
 
     if (panel) panel.textContent = "Picked A. Now click point B...";
     } else {
-    pickedB = { worldPos: hitPoint };
+    pickedB = { worldPos: hitPoint, ndc: ndc };
 
     markerB.position.copy(hitPoint).add(new THREE.Vector3(0, 0.12, 0));
     markerB.visible = true;
@@ -244,6 +244,28 @@ function readMaterialColor(worldPos) {
     return getCheckerboardColorAtUV(u, v);
 }
 
+// Read the actual rendered pixel color from the scene
+function readRenderedPixelColor(ndc) {
+    // Create a 1x1 pixel buffer to read from
+    const pixels = new Uint8Array(4);
+    
+    // Set the read position based on NDC (normalized device coordinates)
+    const pixelRatio = renderer.getPixelRatio();
+    const x = Math.floor(((ndc.x + 1) / 2) * window.innerWidth * pixelRatio);
+    const y = Math.floor(((1 - (ndc.y + 1) / 2)) * window.innerHeight * pixelRatio);
+    
+    // Read the pixel from the current render target
+    const gl = renderer.getContext();
+    gl.readPixels(x, y, 1, 1, gl.RGBA, gl.UNSIGNED_BYTE, pixels);
+    
+    return {
+        r: pixels[0],
+        g: pixels[1],
+        b: pixels[2],
+        a: pixels[3]
+    };
+}
+
 // Animation loop
 function animate() {
     requestAnimationFrame(animate);
@@ -260,15 +282,24 @@ function animate() {
 
   // If both points selected, display RGB
     if (pickedA && pickedB && panel) {
-    const A = readMaterialColor(pickedA.worldPos);
-    const B = readMaterialColor(pickedB.worldPos);
+    const matA = readMaterialColor(pickedA.worldPos);
+    const matB = readMaterialColor(pickedB.worldPos);
+    
+    const rendA = readRenderedPixelColor(pickedA.ndc);
+    const rendB = readRenderedPixelColor(pickedB.ndc);
 
     panel.textContent =
-`A RGB: (${A.r}, ${A.g}, ${A.b})
-B RGB: (${B.r}, ${B.g}, ${B.b})
+`MATERIAL COLORS (actual texture):
+A Material: (${matA.r}, ${matA.g}, ${matA.b})
+B Material: (${matB.r}, ${matB.g}, ${matB.b})
 
-Tip: If A and B look different but RGB is the same,
-that's the illusion effect! Your eyes are being fooled.`;
+RENDERED COLORS (with shadow/lighting):
+A Rendered: (${rendA.r}, ${rendA.g}, ${rendA.b})
+B Rendered: (${rendB.r}, ${rendB.g}, ${rendB.b})
+
+✓ If Material colors MATCH but Rendered colors DIFFER,
+  the illusion is working! Your eyes perceive different
+  brightness due to the shadow, but the squares are identical.`;
     }
 }
 animate();
