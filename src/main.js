@@ -21,13 +21,52 @@ renderer.shadowMap.enabled = true; // Enable shadow mapping in the renderer
 document.body.appendChild(renderer.domElement); // Append the renderer's canvas element to the document body
 
 // Add a directional light to the scene
-const light = new THREE.DirectionalLight(0xffffff, 1); // Create a directional light with white color and intensity of 1
+const light = new THREE.DirectionalLight(0xffffff, 2); // Create a directional light with white color and intensity of 1
 light.position.set(5, 5, -5); // Set the position of the light
 light.castShadow = true; // Enable shadow casting for the light
 scene.add(light); // Add the light to the scene
 
 // Add an ambient light to the scene
-scene.add(new THREE.AmbientLight(0xffffff, 0.3)); // Add an ambient light to the scene with white color and intensity of 0.3
+scene.add(new THREE.AmbientLight(0xffffff, 1)); // Add an ambient light to the scene with white color and intensity of 0.3
+
+// Lighting picker UI (HSL + intensity)
+const lightHueInput = document.getElementById('lightHue');
+const lightSatInput = document.getElementById('lightSat');
+const lightLightInput = document.getElementById('lightLight');
+const lightIntensityInput = document.getElementById('lightIntensity');
+const lightPreview = document.getElementById('lightPreview');
+const lightHex = document.getElementById('lightHex');
+
+function updateLightPreview(hsl) {
+    const previewColor = new THREE.Color().setHSL(hsl.h, hsl.s, hsl.l);
+    const { hex } = colorToRGB(previewColor);
+    lightPreview.style.backgroundColor = hex;
+    lightHex.textContent = hex;
+}
+
+function syncLightSlidersFromScene() {
+    const hsl = { h: 0, s: 0, l: 0 };
+    light.color.getHSL(hsl);
+    lightHueInput.value = Math.round(hsl.h * 360);
+    lightSatInput.value = Math.round(hsl.s * 100);
+    lightLightInput.value = Math.round(hsl.l * 100);
+    lightIntensityInput.value = light.intensity;
+    updateLightPreview(hsl);
+}
+
+function handleLightInput() {
+    const h = Number(lightHueInput.value) / 360;
+    const s = Number(lightSatInput.value) / 100;
+    const l = Number(lightLightInput.value) / 100;
+    light.color.setHSL(h, s, l);
+    light.intensity = Number(lightIntensityInput.value);
+    updateLightPreview({ h, s, l });
+}
+
+lightHueInput.addEventListener('input', handleLightInput);
+lightSatInput.addEventListener('input', handleLightInput);
+lightLightInput.addEventListener('input', handleLightInput);
+lightIntensityInput.addEventListener('input', handleLightInput);
 
 // Create the chessboard
 const boardSize = 5; // Define the size of the chessboard
@@ -37,7 +76,7 @@ const boardGroup = new THREE.Group(); // Create a group to hold the chessboard t
 
 for (let x = 0; x < boardSize; x++) {
     for (let z = 0; z < boardSize; z++) {
-        const color = (x + z) % 2 === 0 ? 0x787878 : 0xcecece; // Alternate colors for the chessboard tiles
+        const color = (x + z) % 2 === 0 ? 0xcecece : 0x787878; // Alternate colors for the chessboard tiles
         const geometry = new THREE.BoxGeometry(tileSize, 0.5, tileSize); // Create a box geometry for the tile
         const material = new THREE.MeshStandardMaterial({ color }); // Create a standard material with the specified color
         const tile = new THREE.Mesh(geometry, material); // Create a mesh from the geometry and material
@@ -79,6 +118,8 @@ function colorToRGB(color) {
     const b = Math.round(color.b * 255);
     return { r, g, b, hex: '#' + [r, g, b].map(x => x.toString(16).padStart(2, '0').toUpperCase()).join('') };
 }
+
+syncLightSlidersFromScene();
 
 // Parameters for tile selection
 function compareTiles() { 
@@ -130,7 +171,7 @@ const cylinder = new THREE.Mesh(
     new THREE.CylinderGeometry(1, 1, 3, 32), // Create a cylinder geometry with top and bottom radius of 1, height of 3, and 32 radial segments
     new THREE.MeshStandardMaterial({ color: 0x8ab090 }) // Create a standard material with green color for the cylinder
 );
-cylinder.position.set(1, 1.5, -1); // Position the cylinder on the chessboard
+cylinder.position.set(1.2, 1.5, -1.5); // Position the cylinder on the chessboard
 cylinder.castShadow = true; // Enable shadow casting for the cylinder
 scene.add(cylinder); // Add the cylinder to the scene
 

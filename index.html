@@ -7,7 +7,62 @@
     <style>
         body {
             margin: 0;
-            font-family: Arial, sans-serif;
+            font-family: "Trebuchet MS", sans-serif;
+        }
+
+        #lightPanel {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            background: linear-gradient(135deg, #f8f9fb, #eef2f7);
+            color: #1f2933;
+            padding: 16px;
+            border-radius: 10px;
+            width: 280px;
+            box-shadow: 0 10px 25px rgba(31, 41, 55, 0.15);
+            border: 1px solid rgba(0, 0, 0, 0.08);
+            z-index: 100;
+        }
+
+        #lightPanel .panel-title {
+            font-weight: bold;
+            font-size: 15px;
+            margin-bottom: 12px;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .control-row {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 10px;
+        }
+
+        .control-row label {
+            width: 68px;
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
+            color: #52606d;
+        }
+
+        .control-row input[type="range"] {
+            flex: 1;
+        }
+
+        #lightPreview {
+            width: 38px;
+            height: 38px;
+            border-radius: 8px;
+            border: 1px solid #cbd2d9;
+            background: #ffffff;
+        }
+
+        #lightHex {
+            font-family: "Courier New", monospace;
+            font-size: 12px;
+            color: #3e4c59;
         }
         
         #colorPanel {
@@ -56,6 +111,32 @@
 </head>
 
 <body>
+    <div id="lightPanel">
+        <div class="panel-title">Lighting Picker</div>
+        <div class="control-row">
+            <label for="lightHue">Hue</label>
+            <input id="lightHue" type="range" min="0" max="360" step="1" value="0">
+        </div>
+        <div class="control-row">
+            <label for="lightSat">Saturation</label>
+            <input id="lightSat" type="range" min="0" max="100" step="1" value="0">
+        </div>
+        <div class="control-row">
+            <label for="lightLight">Lightness</label>
+            <input id="lightLight" type="range" min="0" max="100" step="1" value="100">
+        </div>
+        <div class="control-row">
+            <label for="lightIntensity">Intensity</label>
+            <input id="lightIntensity" type="range" min="0" max="3" step="0.05" value="2">
+        </div>
+        <div class="control-row">
+            <div id="lightPreview" aria-hidden="true"></div>
+            <div>
+                <div style="font-size: 11px; text-transform: uppercase; letter-spacing: 0.04em; color: #52606d;">Light Color</div>
+                <div id="lightHex">#FFFFFF</div>
+            </div>
+        </div>
+    </div>
     <div id="colorPanel">
         <div style="font-weight: bold; font-size: 16px; margin-bottom: 10px;">Color Comparison</div>
         <div id="colorOutput"></div>
