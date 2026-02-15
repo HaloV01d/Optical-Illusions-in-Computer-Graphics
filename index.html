@@ -4,9 +4,62 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Optical Illusions in Computer Graphics</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        
+        #colorPanel {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: rgba(0, 0, 0, 0.85);
+            color: white;
+            padding: 20px;
+            border-radius: 8px;
+            min-width: 300px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+            font-size: 14px;
+            z-index: 100;
+            display: none;
+        }
+        
+        #colorPanel.show {
+            display: block;
+        }
+        
+        .color-display {
+            margin-top: 12px;
+            padding: 10px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 4px;
+            margin-bottom: 10px;
+        }
+        
+        .color-box {
+            display: inline-block;
+            width: 50px;
+            height: 50px;
+            border-radius: 4px;
+            margin-right: 10px;
+            vertical-align: middle;
+            border: 2px solid white;
+        }
+        
+        .color-label {
+            font-weight: bold;
+            margin-bottom: 5px;
+            text-transform: uppercase;
+        }
+    </style>
 </head>
 
 <body>
+    <div id="colorPanel">
+        <div style="font-weight: bold; font-size: 16px; margin-bottom: 10px;">Color Comparison</div>
+        <div id="colorOutput"></div>
+    </div>
     <script type="module" src="./src/main.js"></script>
 </body>
 
