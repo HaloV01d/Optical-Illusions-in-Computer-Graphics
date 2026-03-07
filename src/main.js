@@ -7,6 +7,42 @@ const params = {
     tileColor: new THREE.Color(0xff0000) // Red color for selected tiles
 };
 
+const selectionColors = [0x2563eb, 0xf97316];
+
+function highlightTile(tile, selectionIndex) {
+    if (!tile.userData.selectionOutline) {
+        const outlineGeometry = new THREE.EdgesGeometry(tile.geometry);
+        const outlineMaterial = new THREE.LineBasicMaterial({ color: selectionColors[selectionIndex] || selectionColors[0] });
+        const outline = new THREE.LineSegments(outlineGeometry, outlineMaterial);
+        outline.scale.setScalar(1.03);
+        outline.visible = false;
+        tile.add(outline);
+        tile.userData.selectionOutline = outline;
+    }
+
+    tile.userData.selectionOutline.material.color.setHex(selectionColors[selectionIndex] || selectionColors[0]);
+    tile.userData.selectionOutline.visible = true;
+}
+
+function clearTileHighlight(tile) {
+    if (tile.userData.selectionOutline) {
+        tile.userData.selectionOutline.visible = false;
+    }
+}
+
+function clearSelectedTiles() {
+    params.selectedTile.forEach(clearTileHighlight);
+    params.selectedTile = [];
+}
+
+function getTileFromHitObject(object) {
+    let current = object;
+    while (current && current.parent && current.parent !== boardGroup) {
+        current = current.parent;
+    }
+    return current && current.parent === boardGroup ? current : null;
+}
+
 // Create the scene, camera, and renderer
 const scene = new THREE.Scene(); // Create a new scene
 scene.background = new THREE.Color(0xffffff); // Set the background color to white
@@ -21,21 +57,38 @@ renderer.shadowMap.enabled = true; // Enable shadow mapping in the renderer
 document.body.appendChild(renderer.domElement); // Append the renderer's canvas element to the document body
 
 // Add a directional light to the scene
-const light = new THREE.DirectionalLight(0xffffff, 2); // Create a directional light with white color and intensity of 1
+const light = new THREE.DirectionalLight(0xffffff, 1.1); // Create a directional light with white color and intensity of 1.1
 light.position.set(5, 5, -5); // Set the position of the light
 light.castShadow = true; // Enable shadow casting for the light
+light.shadow.radius = 6;
+light.shadow.mapSize.width = 2048;
+light.shadow.mapSize.height = 2048;
 scene.add(light); // Add the light to the scene
 
 // Add an ambient light to the scene
-scene.add(new THREE.AmbientLight(0xffffff, 1)); // Add an ambient light to the scene with white color and intensity of 0.3
+scene.add(new THREE.AmbientLight(0xffffff, 0.35)); // Add an ambient light to the scene with white color and intensity of 0.35
 
 // Lighting picker UI (HSL + intensity)
 const lightHueInput = document.getElementById('lightHue');
 const lightSatInput = document.getElementById('lightSat');
 const lightLightInput = document.getElementById('lightLight');
 const lightIntensityInput = document.getElementById('lightIntensity');
+const lightHueValue = document.getElementById('lightHueValue');
+const lightSatValue = document.getElementById('lightSatValue');
+const lightLightValue = document.getElementById('lightLightValue');
+const lightIntensityValue = document.getElementById('lightIntensityValue');
+const shadowSoftnessInput = document.getElementById('shadowSoftness');
+const shadowSoftnessValue = document.getElementById('shadowSoftnessValue');
 const lightPreview = document.getElementById('lightPreview');
 const lightHex = document.getElementById('lightHex');
+
+function updateLightControlValues() {
+    lightHueValue.textContent = lightHueInput.value;
+    lightSatValue.textContent = `${lightSatInput.value}%`;
+    lightLightValue.textContent = `${lightLightInput.value}%`;
+    lightIntensityValue.textContent = Number(lightIntensityInput.value).toFixed(2);
+    shadowSoftnessValue.textContent = shadowSoftnessInput.value;
+}
 
 function updateLightPreview(hsl) {
     const previewColor = new THREE.Color().setHSL(hsl.h, hsl.s, hsl.l);
@@ -51,6 +104,8 @@ function syncLightSlidersFromScene() {
     lightSatInput.value = Math.round(hsl.s * 100);
     lightLightInput.value = Math.round(hsl.l * 100);
     lightIntensityInput.value = light.intensity;
+    shadowSoftnessInput.value = light.shadow.radius;
+    updateLightControlValues();
     updateLightPreview(hsl);
 }
 
@@ -60,6 +115,7 @@ function handleLightInput() {
     const l = Number(lightLightInput.value) / 100;
     light.color.setHSL(h, s, l);
     light.intensity = Number(lightIntensityInput.value);
+    updateLightControlValues();
     updateLightPreview({ h, s, l });
 }
 
@@ -67,6 +123,11 @@ lightHueInput.addEventListener('input', handleLightInput);
 lightSatInput.addEventListener('input', handleLightInput);
 lightLightInput.addEventListener('input', handleLightInput);
 lightIntensityInput.addEventListener('input', handleLightInput);
+shadowSoftnessInput.addEventListener('input', () => {
+    light.shadow.radius = Number(shadowSoftnessInput.value);
+    updateLightControlValues();
+});
+
 
 // Create the chessboard
 const boardSize = 5; // Define the size of the chessboard
@@ -80,6 +141,7 @@ for (let x = 0; x < boardSize; x++) {
         const geometry = new THREE.BoxGeometry(tileSize, 0.5, tileSize); // Create a box geometry for the tile
         const material = new THREE.MeshStandardMaterial({ color }); // Create a standard material with the specified color
         const tile = new THREE.Mesh(geometry, material); // Create a mesh from the geometry and material
+        tile.userData.baseColor = new THREE.Color(color);
         tile.position.set(x * tileSize - (boardSize * tileSize) / 2 + tileSize / 2, -0.05, z * tileSize - (boardSize * tileSize) / 2 + tileSize / 2); // Position the tile on the chessboard
         tile.receiveShadow = true; // Enable shadow reception for the tile
         boardGroup.add(tile); // Add the tile to the chessboard group
@@ -98,12 +160,27 @@ window.addEventListener('click', (event) => {
 
     raycaster.setFromCamera(mouse, camera);
 
-    const intersects = raycaster.intersectObjects(boardGroup.children);
+    const intersects = raycaster.intersectObjects(boardGroup.children, true);
 
     if (intersects.length > 0) {
-        const tile = intersects[0].object;
+        const tile = getTileFromHitObject(intersects[0].object);
+        if (!tile) {
+            return;
+        }
+
+        // Keep both selected tiles outlined until the next click, then start a new pair.
+        if (params.selectedTile.length === 2) {
+            clearSelectedTiles();
+        }
+
+        // Prevent selecting the same tile twice in one comparison.
+        if (params.selectedTile.includes(tile)) {
+            return;
+        }
+
         if (params.selectedTile.length < 2) {
             params.selectedTile.push(tile);
+            highlightTile(tile, params.selectedTile.length - 1);
         }
         if (params.selectedTile.length === 2) {
             compareTiles();
@@ -124,8 +201,8 @@ syncLightSlidersFromScene();
 // Parameters for tile selection
 function compareTiles() { 
     const [A, B] = params.selectedTile; 
-    const colorA = colorToRGB(A.material.color);
-    const colorB = colorToRGB(B.material.color);
+    const colorA = colorToRGB(A.userData.baseColor || A.material.color);
+    const colorB = colorToRGB(B.userData.baseColor || B.material.color);
     
     console.log('Tile A color:', colorA); 
     console.log('Tile B color:', colorB);
@@ -156,7 +233,6 @@ function compareTiles() {
     `;
     
     panel.classList.add('show');
-    params.selectedTile = []; 
 }
 
 // Handle window resize
