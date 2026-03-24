@@ -24,6 +24,107 @@
             z-index: 100;
         }
 
+        #illusionPanel {
+            position: fixed;
+            top: 20px;
+            left: 330px;
+            background: linear-gradient(130deg, #e6f7ff, #dbeafe);
+            color: #1f2933;
+            padding: 14px;
+            border-radius: 10px;
+            width: 240px;
+            box-shadow: 0 10px 25px rgba(31, 41, 55, 0.15);
+            border: 1px solid rgba(15, 23, 42, 0.1);
+            z-index: 100;
+        }
+
+        .illusion-actions {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 8px;
+        }
+
+        .illusion-btn {
+            appearance: none;
+            border: 1px solid #93c5fd;
+            background: #eff6ff;
+            color: #1e3a8a;
+            border-radius: 8px;
+            font-size: 13px;
+            font-weight: bold;
+            padding: 10px;
+            cursor: pointer;
+            transition: transform 0.15s ease, background-color 0.15s ease;
+        }
+
+        .illusion-btn:hover {
+            transform: translateY(-1px);
+            background: #dbeafe;
+        }
+
+        .illusion-btn.is-active {
+            background: #1d4ed8;
+            color: #f8fafc;
+            border-color: #1d4ed8;
+        }
+
+        #guidePanel {
+            position: fixed;
+            bottom: 20px;
+            left: 20px;
+            background: linear-gradient(145deg, #fff7ed, #ffedd5);
+            color: #7c2d12;
+            padding: 16px;
+            border-radius: 10px;
+            width: 320px;
+            box-shadow: 0 10px 25px rgba(124, 45, 18, 0.18);
+            border: 1px solid rgba(124, 45, 18, 0.15);
+            z-index: 100;
+        }
+
+        .guide-title {
+            font-weight: bold;
+            text-transform: uppercase;
+            font-size: 12px;
+            letter-spacing: 0.04em;
+            margin-bottom: 8px;
+        }
+
+        .guide-copy {
+            font-size: 13px;
+            line-height: 1.4;
+            margin-bottom: 12px;
+        }
+
+        .guide-actions {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-bottom: 10px;
+        }
+
+        .guide-btn {
+            border: 1px solid #ea580c;
+            background: #fff7ed;
+            color: #9a3412;
+            border-radius: 8px;
+            font-size: 12px;
+            font-weight: bold;
+            padding: 7px 10px;
+            cursor: pointer;
+        }
+
+        .guide-btn:disabled {
+            opacity: 0.55;
+            cursor: not-allowed;
+        }
+
+        .guide-status {
+            font-size: 12px;
+            font-weight: bold;
+            color: #7c2d12;
+        }
+
         #lightPanel .panel-title {
             font-weight: bold;
             font-size: 15px;
@@ -49,6 +150,14 @@
 
         .control-row input[type="range"] {
             flex: 1;
+        }
+
+        .control-value {
+            width: 48px;
+            text-align: right;
+            font-family: "Courier New", monospace;
+            font-size: 11px;
+            color: #3e4c59;
         }
 
         #lightPreview {
@@ -107,6 +216,36 @@
             margin-bottom: 5px;
             text-transform: uppercase;
         }
+
+        @media (max-width: 980px) {
+            #lightPanel {
+                width: calc(100vw - 40px);
+                max-width: 340px;
+                left: 10px;
+                top: 10px;
+            }
+
+            #illusionPanel {
+                width: calc(100vw - 40px);
+                max-width: 340px;
+                left: 10px;
+                top: 280px;
+            }
+
+            #guidePanel {
+                width: calc(100vw - 40px);
+                left: 10px;
+                right: 10px;
+                bottom: 10px;
+            }
+
+            #colorPanel {
+                top: 10px;
+                right: 10px;
+                min-width: 260px;
+                max-width: calc(100vw - 20px);
+            }
+        }
     </style>
 </head>
 
@@ -114,20 +253,30 @@
     <div id="lightPanel">
         <div class="panel-title">Lighting Picker</div>
         <div class="control-row">
+            <label for="shadowSoftness">Shadow Softness</label>
+            <input id="shadowSoftness" type="range" min="5" max="8" step="1" value="6">
+            <span id="shadowSoftnessValue" class="control-value">6</span>
+        </div>
+
+        <div class="control-row">
             <label for="lightHue">Hue</label>
             <input id="lightHue" type="range" min="0" max="360" step="1" value="0">
+            <span id="lightHueValue" class="control-value">0</span>
         </div>
         <div class="control-row">
             <label for="lightSat">Saturation</label>
             <input id="lightSat" type="range" min="0" max="100" step="1" value="0">
+            <span id="lightSatValue" class="control-value">0%</span>
         </div>
         <div class="control-row">
             <label for="lightLight">Lightness</label>
             <input id="lightLight" type="range" min="0" max="100" step="1" value="100">
+            <span id="lightLightValue" class="control-value">100%</span>
         </div>
         <div class="control-row">
             <label for="lightIntensity">Intensity</label>
-            <input id="lightIntensity" type="range" min="0" max="3" step="0.05" value="2">
+            <input id="lightIntensity" type="range" min="0" max="1.0" step="0.05" value="1">
+            <span id="lightIntensityValue" class="control-value">1.00</span>
         </div>
         <div class="control-row">
             <div id="lightPreview" aria-hidden="true"></div>
@@ -137,11 +286,12 @@
             </div>
         </div>
     </div>
+    <div id="illusionPanel"></div>
+    <div id="guidePanel"></div>
     <div id="colorPanel">
-        <div style="font-weight: bold; font-size: 16px; margin-bottom: 10px;">Color Comparison</div>
         <div id="colorOutput"></div>
     </div>
-    <script type="module" src="./src/main.js"></script>
+    <script type="module" src="./src/SceneManager.js"></script> // Load the SceneManager module, which initializes the application, sets up the illusion switcher, and manages the different illusions and their interactions.
 </body>
 
 </html>

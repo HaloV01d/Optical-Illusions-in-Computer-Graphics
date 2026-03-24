@@ -48,7 +48,7 @@ npm install
 ### Development
 
 ```bash
-npm run dev
+npx vite 
 ```
 
 Open your browser to view the interactive 3D optical illusion.
