@@ -29,6 +29,12 @@ The Checker Shadow illusion is a classic demonstration of how our visual system 
 - The angled strokes bias orientation perception so the long lines appear non-parallel
 - Use the reveal control to overlay parallel guide lines and verify the geometry
 
+### Rotating Snakes Illusion
+
+- Concentric circles arrange in a pattern that appears to continuously rotate
+- The alternating colors and ring arrangement trigger motion perception
+- The entire scene is completely static; use the reveal control to see unmaked guide circles
+
 ## Project Structure
 
 ```
@@ -37,11 +43,12 @@ Optical-Illusions-in-Computer-Graphics/
 ├── package.json    # Dependencies and project configuration
 ├── README.md       # This file
 └── src/
-  ├── IllusionBase.js      # Shared scene, camera, lighting, UI, and interaction utilities
-  ├── SceneManager.js      # Illusion switching and guide panel management
-  ├── Checker_Shadow.js    # Checker Shadow illusion implementation
-  ├── Ponzo.js             # Ponzo illusion implementation
-  └── Zollner.js           # Zollner illusion implementation
+  ├── IllusionBase.js        # Shared scene, camera, lighting, UI, and interaction utilities
+  ├── SceneManager.js        # Illusion switching and guide panel management
+  ├── Checker_Shadow.js      # Checker Shadow illusion implementation
+  ├── Ponzo.js               # Ponzo illusion implementation
+  ├── Zollner.js             # Zollner illusion implementation
+  └── RotatingSnakes.js      # Rotating Snakes illusion implementation
 ```
 
 ### Files
@@ -52,6 +59,7 @@ Optical-Illusions-in-Computer-Graphics/
 - **src/Checker_Shadow.js** - Checker Shadow interactions and color comparison logic
 - **src/Ponzo.js** - Ponzo guessing flow and length reveal markers
 - **src/Zollner.js** - Zollner line orientation illusion and parallel guide reveal
+- **src/RotatingSnakes.js** - Rotating Snakes motion illusion with animated patterns and static guide reveal
 
 ## Getting Started
 

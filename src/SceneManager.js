@@ -1,6 +1,7 @@
 import { CheckerShadowIllusion } from './Checker_Shadow.js';
 import { PonzoIllusion } from './Ponzo.js';
 import { ZollnerIllusion } from './Zollner.js';
+import { RotatingSnakesIllusion } from './RotatingSnakes.js';
 
 class SceneManager { // The SceneManager class is responsible for managing the different illusions, handling the UI for switching between illusions, and updating the guide panel with instructions for each illusion. It maintains a reference to the current illusion and provides methods to switch illusions and update the UI accordingly.
     constructor() {
@@ -10,7 +11,8 @@ class SceneManager { // The SceneManager class is responsible for managing the d
         this.factories = {
             checker: () => new CheckerShadowIllusion({ container: document.body }),
             ponzo: () => new PonzoIllusion({ container: document.body }),
-            zollner: () => new ZollnerIllusion({ container: document.body })
+            zollner: () => new ZollnerIllusion({ container: document.body }),
+            snakes: () => new RotatingSnakesIllusion({ container: document.body })
         };
 
         this.switcherNode = document.getElementById('illusionPanel');
@@ -33,6 +35,7 @@ class SceneManager { // The SceneManager class is responsible for managing the d
                 <button class="illusion-btn" data-illusion="checker" role="tab" aria-selected="true">Checker Shadow</button>
                 <button class="illusion-btn" data-illusion="ponzo" role="tab" aria-selected="false">Ponzo</button>
                 <button class="illusion-btn" data-illusion="zollner" role="tab" aria-selected="false">Zollner</button>
+                <button class="illusion-btn" data-illusion="snakes" role="tab" aria-selected="false">Rotating Snakes</button>
             </div>
         `;
 
