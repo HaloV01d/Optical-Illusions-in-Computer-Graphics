@@ -33,25 +33,20 @@ class SceneManager { // The SceneManager class is responsible for managing the d
 
         this.switcherNode.innerHTML = `
             <div class="panel-title">Illusion Picker</div>
-            <div class="illusion-actions" role="tablist" aria-label="Select illusion">
-                <button class="illusion-btn" data-illusion="checker" role="tab" aria-selected="true">Checker Shadow</button>
-                <button class="illusion-btn" data-illusion="mach" role="tab" aria-selected="false">Mach Bands</button>
-                <button class="illusion-btn" data-illusion="ponzo" role="tab" aria-selected="false">Ponzo</button>
-                <button class="illusion-btn" data-illusion="zollner" role="tab" aria-selected="false">Zollner</button>
-                <button class="illusion-btn" data-illusion="snakes" role="tab" aria-selected="false">Rotating Snakes</button>
-            </div>
+            <select id="illusionSelect" class="illusion-select" aria-label="Select illusion">
+                <option value="checker">Checker Shadow</option>
+                <option value="mach">Mach Bands</option>
+                <option value="ponzo">Ponzo</option>
+                <option value="zollner">Zollner</option>
+                <option value="snakes">Rotating Snakes</option>
+            </select>
         `;
 
-        const buttons = this.switcherNode.querySelectorAll('.illusion-btn');
-        buttons.forEach((button) => {
-            button.addEventListener('click', () => {
-                const key = button.getAttribute('data-illusion');
-                if (!key) {
-                    return;
-                }
-
-                this.switchTo(key);
-            });
+        const select = this.switcherNode.querySelector('#illusionSelect');
+        select.addEventListener('change', () => {
+            if (select.value) {
+                this.switchTo(select.value);
+            }
         });
     }
 
@@ -76,19 +71,15 @@ class SceneManager { // The SceneManager class is responsible for managing the d
         this.current.mount();
     }
 
-    updateSwitcherState(activeKey) { // Update the state of the illusion switcher buttons in the UI to reflect which illusion is currently active. This method iterates through the buttons in the switcher panel and toggles the 'is-active' class and 'aria-selected' attribute based on whether the button's associated illusion key matches the active key.
+    updateSwitcherState(activeKey) {
         if (!this.switcherNode) {
             return;
         }
 
-        const buttons = this.switcherNode.querySelectorAll('.illusion-btn');
-        buttons.forEach((button) => {
-            const buttonKey = button.getAttribute('data-illusion');
-            const isActive = buttonKey === activeKey;
-
-            button.classList.toggle('is-active', isActive);
-            button.setAttribute('aria-selected', isActive ? 'true' : 'false');
-        });
+        const select = this.switcherNode.querySelector('#illusionSelect');
+        if (select) {
+            select.value = activeKey;
+        }
     }
 
     updateGuidePanel() { // Update the guide panel with the instructions for the current illusion. This method checks if there is a current illusion and if it has a getGuideMarkup method, and if so, it sets the inner HTML of the guide panel to the markup returned by that method. If there is no current illusion or it does not have a getGuideMarkup method, it clears the guide panel content.

@@ -32,40 +32,33 @@
             color: #1f2933;
             padding: 14px;
             border-radius: 10px;
-            width: 240px;
+            width: 200px;
             box-shadow: 0 10px 25px rgba(31, 41, 55, 0.15);
             border: 1px solid rgba(15, 23, 42, 0.1);
             z-index: 100;
         }
 
-        .illusion-actions {
-            display: grid;
-            grid-template-columns: 1fr;
-            gap: 8px;
-        }
-
-        .illusion-btn {
+        .illusion-select {
+            width: 100%;
             appearance: none;
+            background: #eff6ff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath fill='%231e3a8a' d='M0 0l6 8 6-8z'/%3E%3C/svg%3E") no-repeat right 10px center;
+            background-size: 10px 7px;
             border: 1px solid #93c5fd;
-            background: #eff6ff;
             color: #1e3a8a;
             border-radius: 8px;
             font-size: 13px;
             font-weight: bold;
-            padding: 10px;
+            font-family: "Trebuchet MS", sans-serif;
+            padding: 9px 32px 9px 10px;
             cursor: pointer;
-            transition: transform 0.15s ease, background-color 0.15s ease;
+            transition: background-color 0.15s ease, border-color 0.15s ease;
         }
 
-        .illusion-btn:hover {
-            transform: translateY(-1px);
-            background: #dbeafe;
-        }
-
-        .illusion-btn.is-active {
-            background: #1d4ed8;
-            color: #f8fafc;
+        .illusion-select:hover,
+        .illusion-select:focus {
+            background-color: #dbeafe;
             border-color: #1d4ed8;
+            outline: none;
         }
 
         #guidePanel {
