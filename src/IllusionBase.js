@@ -20,7 +20,7 @@ export class IllusionBase { // Base class for optical illusions, providing commo
         this.camera.position.set(5, 6, 8);
         this.camera.lookAt(0, 0, 0);
 
-        this.renderer = new THREE.WebGLRenderer({ antialias: true });
+        this.renderer = new THREE.WebGLRenderer({ antialias: true, preserveDrawingBuffer: true });
         this.renderer.setSize(window.innerWidth, window.innerHeight);
         this.renderer.shadowMap.enabled = true;
 
@@ -322,6 +322,25 @@ export class IllusionBase { // Base class for optical illusions, providing commo
 
         this.light.shadow.radius = Number(shadowSoftnessInput.value);
         this.updateLightControlValues();
+    }
+
+    getPixelColor(worldPosition) { // Sample the apparent rendered color at a world-space position by projecting it to screen space and reading back the WebGL pixel, so the result reflects current lighting, intensity, and shadows
+        this.renderer.render(this.scene, this.camera);
+
+        const ndc = worldPosition.clone().project(this.camera);
+        const canvas = this.renderer.domElement;
+        const x = Math.round((ndc.x * 0.5 + 0.5) * canvas.width);
+        const y = Math.round((1 - (ndc.y * 0.5 + 0.5)) * canvas.height);
+
+        const gl = this.renderer.getContext();
+        const pixel = new Uint8Array(4);
+        gl.readPixels(x, canvas.height - y, 1, 1, gl.RGBA, gl.UNSIGNED_BYTE, pixel);
+
+        const r = pixel[0];
+        const g = pixel[1];
+        const b = pixel[2];
+        const hex = '#' + [r, g, b].map((c) => c.toString(16).padStart(2, '0').toUpperCase()).join('');
+        return { r, g, b, hex };
     }
 
     showColorPanel(title, html) { // Show the color panel in the UI with the specified title and HTML content, which is used to display information about the colors of selected tiles or other relevant details for the illusion. This method updates the inner HTML of the color output element and makes the panel visible.

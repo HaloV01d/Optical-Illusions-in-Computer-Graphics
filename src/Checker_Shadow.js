@@ -124,28 +124,47 @@ export class CheckerShadowIllusion extends IllusionBase { // Implementation of t
         this.selectedTiles = [];
     }
 
-    compareTiles() { // Compare the base colors of the two selected tiles and display the results in a color panel, showing both RGB and HEX values and whether they are the same color
+    compareTiles() { // Compare the apparent rendered color and the base material color of the two selected tiles. The apparent color reflects current lighting intensity, hue, saturation, and shadow, while the base color is the raw material value.
         const [tileA, tileB] = this.selectedTiles;
-        const colorA = colorToRGB(tileA.userData.baseColor || tileA.material.color);
-        const colorB = colorToRGB(tileB.userData.baseColor || tileB.material.color);
+
+        const baseA = colorToRGB(tileA.userData.baseColor || tileA.material.color);
+        const baseB = colorToRGB(tileB.userData.baseColor || tileB.material.color);
+
+        const posA = new THREE.Vector3();
+        tileA.getWorldPosition(posA);
+        posA.y += 0.26;
+
+        const posB = new THREE.Vector3();
+        tileB.getWorldPosition(posB);
+        posB.y += 0.26;
+
+        const apparentA = this.getPixelColor(posA);
+        const apparentB = this.getPixelColor(posB);
+
+        const baseSame = baseA.hex === baseB.hex;
+        const apparentSame = apparentA.hex === apparentB.hex;
 
         const html = `
             <div class="color-display">
-                <div class="color-label">Tile A</div>
-                <div><span class="color-box" style="background-color: ${colorA.hex};"></span></div>
-                <div>RGB: (${colorA.r}, ${colorA.g}, ${colorA.b})</div>
-                <div>HEX: ${colorA.hex}</div>
+                <div class="color-label">Tile A — Apparent</div>
+                <div><span class="color-box" style="background-color: ${apparentA.hex};"></span></div>
+                <div>RGB: (${apparentA.r}, ${apparentA.g}, ${apparentA.b})</div>
+                <div>HEX: ${apparentA.hex}</div>
             </div>
             <div class="color-display">
-                <div class="color-label">Tile B</div>
-                <div><span class="color-box" style="background-color: ${colorB.hex};"></span></div>
-                <div>RGB: (${colorB.r}, ${colorB.g}, ${colorB.b})</div>
-                <div>HEX: ${colorB.hex}</div>
+                <div class="color-label">Tile B — Apparent</div>
+                <div><span class="color-box" style="background-color: ${apparentB.hex};"></span></div>
+                <div>RGB: (${apparentB.r}, ${apparentB.g}, ${apparentB.b})</div>
+                <div>HEX: ${apparentB.hex}</div>
             </div>
             <div style="margin-top: 10px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.2);">
-                <div style="font-size: 12px; color: #aaa;">Are they the same?</div>
-                <div style="font-weight: bold; color: ${colorA.hex === colorB.hex ? '#4ade80' : '#f87171'};">
-                    ${colorA.hex === colorB.hex ? 'YES - Identical colors!' : 'NO - Different colors'}
+                <div style="font-size: 12px; color: #aaa;">Apparent colors match?</div>
+                <div style="font-weight: bold; color: ${apparentSame ? '#4ade80' : '#f87171'}; margin-bottom: 8px;">
+                    ${apparentSame ? 'YES — look identical under this light' : 'NO — look different under this light'}
+                </div>
+                <div style="font-size: 12px; color: #aaa;">Base material colors match?</div>
+                <div style="font-weight: bold; color: ${baseSame ? '#4ade80' : '#f87171'};">
+                    ${baseSame ? `YES — same base color (${baseA.hex})` : `NO — ${baseA.hex} vs ${baseB.hex}`}
                 </div>
             </div>
         `;
