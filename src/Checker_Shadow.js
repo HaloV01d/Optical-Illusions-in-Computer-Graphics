@@ -60,6 +60,12 @@ export class CheckerShadowIllusion extends IllusionBase { // Implementation of t
         this.hideColorPanel();
     }
 
+    onLightChanged() {
+        if (this.selectedTiles.length === 2) {
+            this.compareTiles();
+        }
+    }
+
     handlePointerDown(event) { // Handle pointer down events to allow the user to select tiles and compare their colors
         const intersects = this.getIntersections(event, this.boardGroup.children);
         if (!intersects.length) {

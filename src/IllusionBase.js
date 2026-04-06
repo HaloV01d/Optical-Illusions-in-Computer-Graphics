@@ -143,6 +143,10 @@ export class IllusionBase { // Base class for optical illusions, providing commo
         // Optional lifecycle hook for subclasses.
     }
 
+    onLightChanged() {
+        // Optional lifecycle hook for subclasses.
+    }
+
     onPointerDown(event) { // Handle pointer down events, but ignore them if they originate from UI panels to prevent interference with the illusion interactions. If the event is not from a panel, delegate to the handlePointerDown method for subclasses to implement specific interaction logic.
         if (this.isEventFromPanel(event)) {
             return;
@@ -312,6 +316,7 @@ export class IllusionBase { // Base class for optical illusions, providing commo
 
         this.updateLightControlValues();
         this.updateLightPreview({ h, s, l });
+        this.onLightChanged();
     }
 
     handleShadowSoftnessInput() { // Handle input events from the shadow softness slider by updating the directional light's shadow radius based on the slider value, and then updating the display value in the UI to reflect the change.
@@ -322,6 +327,7 @@ export class IllusionBase { // Base class for optical illusions, providing commo
 
         this.light.shadow.radius = Number(shadowSoftnessInput.value);
         this.updateLightControlValues();
+        this.onLightChanged();
     }
 
     getPixelColor(worldPosition) { // Sample the apparent rendered color at a world-space position by projecting it to screen space and reading back the WebGL pixel, so the result reflects current lighting, intensity, and shadows
@@ -329,12 +335,14 @@ export class IllusionBase { // Base class for optical illusions, providing commo
 
         const ndc = worldPosition.clone().project(this.camera);
         const canvas = this.renderer.domElement;
-        const x = Math.round((ndc.x * 0.5 + 0.5) * canvas.width);
-        const y = Math.round((1 - (ndc.y * 0.5 + 0.5)) * canvas.height);
+        const rawX = Math.round((ndc.x * 0.5 + 0.5) * (canvas.width - 1));
+        const rawY = Math.round((ndc.y * 0.5 + 0.5) * (canvas.height - 1));
+        const x = Math.max(0, Math.min(canvas.width - 1, rawX));
+        const y = Math.max(0, Math.min(canvas.height - 1, rawY));
 
         const gl = this.renderer.getContext();
         const pixel = new Uint8Array(4);
-        gl.readPixels(x, canvas.height - y, 1, 1, gl.RGBA, gl.UNSIGNED_BYTE, pixel);
+        gl.readPixels(x, y, 1, 1, gl.RGBA, gl.UNSIGNED_BYTE, pixel);
 
         const r = pixel[0];
         const g = pixel[1];
