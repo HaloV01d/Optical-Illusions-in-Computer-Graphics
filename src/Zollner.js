@@ -20,11 +20,11 @@ export class ZollnerIllusion extends IllusionBase {
         this.controls.maxDistance = 12;
     }
 
-    getTitle() {
+    getTitle() { // Return the title of the illusion to be displayed in the UI
         return 'Zollner Illusion';
     }
 
-    getGuideMarkup() {
+    getGuideMarkup() { // Return the HTML markup for the guide panel, including instructions and buttons for interaction
         return `
             <div class="guide-title">Zollner Illusion</div>
             <div class="guide-copy">The two long horizontal lines are truly parallel, but the angled short strokes make them look tilted relative to each other.</div>
@@ -36,7 +36,7 @@ export class ZollnerIllusion extends IllusionBase {
         `;
     }
 
-    buildScene() {
+    buildScene() { // Set up the 3D scene with two long horizontal lines, short diagonal strokes that create the illusion of divergence, and reference guides that can be revealed to show the true parallel nature of the long lines. A floor plane is also added for context.
         const floor = new THREE.Mesh(
             new THREE.PlaneGeometry(18, 14),
             new THREE.MeshStandardMaterial({ color: 0xf8fafc, roughness: 0.92, metalness: 0 })
@@ -53,7 +53,7 @@ export class ZollnerIllusion extends IllusionBase {
         this.setRevealVisible(false);
     }
 
-    onMount() {
+    onMount() { // Set up event listeners for the guide panel buttons when the illusion is mounted
         const revealButton = document.getElementById('zollnerReveal');
         const resetButton = document.getElementById('zollnerReset');
 
@@ -66,7 +66,7 @@ export class ZollnerIllusion extends IllusionBase {
         this.refreshGuideStatus();
     }
 
-    onDispose() {
+    onDispose() { // Clean up any resources or event listeners when the illusion is disposed
         const revealButton = document.getElementById('zollnerReveal');
         const resetButton = document.getElementById('zollnerReset');
 
@@ -78,7 +78,7 @@ export class ZollnerIllusion extends IllusionBase {
         this.hideColorPanel();
     }
 
-    buildMainLines() {
+    buildMainLines() { // Create the two long horizontal lines that are the basis of the illusion, and add them to the scene
         const mainMaterial = new THREE.LineBasicMaterial({ color: 0x0f172a });
         const yValues = [0.72, -0.72];
 
@@ -90,7 +90,7 @@ export class ZollnerIllusion extends IllusionBase {
         });
     }
 
-    buildCrossStrokes() {
+    buildCrossStrokes() { // Create the short diagonal strokes that intersect the long lines and create the illusion of divergence, and add them to the scene
         const strokeLength = 0.68;
         const spacing = 0.95;
         const topAngle = THREE.MathUtils.degToRad(38);
@@ -118,7 +118,7 @@ export class ZollnerIllusion extends IllusionBase {
         });
     }
 
-    buildReferenceGuides() {
+    buildReferenceGuides() { // Create the reference guides that can be revealed to show the true parallel nature of the long lines, and add them to the scene
         const guideMaterial = new THREE.LineDashedMaterial({
             color: 0x16a34a,
             dashSize: 0.2,
@@ -136,7 +136,7 @@ export class ZollnerIllusion extends IllusionBase {
         });
     }
 
-    revealGuides() {
+    revealGuides() { // Change the state to reveal, make the reference guides visible, and display a color panel with explanations of what the user is seeing and the ground truth of the illusion
         this.state = STATE_REVEAL;
         this.setRevealVisible(true);
 

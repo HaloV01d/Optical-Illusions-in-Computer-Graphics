@@ -4,7 +4,7 @@ import { IllusionBase } from './IllusionBase.js';
 const STATE_OBSERVE = 'observe';
 const STATE_REVEAL = 'reveal';
 
-export class MachBandIllusion extends IllusionBase {
+export class MachBandIllusion extends IllusionBase { // Define a new class for the Mach Band illusion that extends the base illusion class
     constructor(options = {}) {
         super(options);
         this.state = STATE_OBSERVE;
@@ -22,11 +22,11 @@ export class MachBandIllusion extends IllusionBase {
         this.controls.maxDistance = 12;
     }
 
-    getTitle() {
+    getTitle() { // Return the title of the illusion to be displayed in the UI
         return 'Mach Band Illusion';
     }
 
-    getGuideMarkup() {
+    getGuideMarkup() { // Return the HTML markup for the guide panel, including instructions and buttons for interaction
         return `
             <div class="guide-title">Mach Bands</div>
             <div class="guide-copy">This version matches the classic grayscale-strip demonstration: each vertical band is uniformly shaded, but the boundaries appear to have extra bright and dark rims. Stare at the edges, then reveal the actual profile.</div>
@@ -38,7 +38,7 @@ export class MachBandIllusion extends IllusionBase {
         `;
     }
 
-    buildScene() {
+    buildScene() { // Set up the 3D scene with a backdrop, a band of vertical gray strips that create the Mach band illusion, and an overlay for the profile graph. The actual luminance profile is a staircase function, but the perceived profile has overshoots at the boundaries that create the illusion of bright and dark rims. A frame is added around the band for context.
         this.light.visible = false;
         this.ambient.visible = false;
 
@@ -76,7 +76,7 @@ export class MachBandIllusion extends IllusionBase {
         this.scene.add(this.profileGroup);
     }
 
-    onMount() {
+    onMount() { // Set up event listeners for the guide panel buttons when the illusion is mounted
         const revealButton = document.getElementById('machReveal');
         const resetButton = document.getElementById('machReset');
 
@@ -88,7 +88,7 @@ export class MachBandIllusion extends IllusionBase {
         this.refreshGuideStatus();
     }
 
-    onDispose() {
+    onDispose() { // Clean up any resources or event listeners when the illusion is disposed
         const revealButton = document.getElementById('machReveal');
         const resetButton = document.getElementById('machReset');
 
@@ -105,11 +105,11 @@ export class MachBandIllusion extends IllusionBase {
         }
     }
 
-    createSamples() {
+    createSamples() { // Create the initial luminance samples for the Mach band illusion
         return [0.14, 0.26, 0.38, 0.5, 0.62, 0.74, 0.86];
     }
 
-    createPerceivedSamples(samples) {
+    createPerceivedSamples(samples) { // Create the perceived luminance samples, which include the Mach band effect
         return samples.map((sample, index) => {
             if (index === 0 || index === samples.length - 1) {
                 return sample;
@@ -130,7 +130,7 @@ export class MachBandIllusion extends IllusionBase {
         return positions;
     }
 
-    createBandTexture(samples) {
+    createBandTexture(samples) { // Create a texture for the band of vertical gray strips based on the luminance samples, which will be used to create the Mach band illusion   
         const canvas = document.createElement('canvas');
         canvas.width = 1600;
         canvas.height = 420;
@@ -165,7 +165,7 @@ export class MachBandIllusion extends IllusionBase {
         return this.bandTexture;
     }
 
-    buildProfileOverlay() {
+    buildProfileOverlay() { // Build the overlay for the profile graph, including axes, actual and perceived profiles, and boundary guides
         const graphWidth = 8.6;
         const graphHeight = 1.8;
         const graphOriginX = -graphWidth / 2;
@@ -207,7 +207,7 @@ export class MachBandIllusion extends IllusionBase {
         });
     }
 
-    createStepProfilePoints(originX, originY, width, height, samples, z) {
+    createStepProfilePoints(originX, originY, width, height, samples, z) { // Create the points for the actual luminance profile, which is a staircase function
         const bandWidth = width / samples.length;
         const points = [new THREE.Vector3(originX, originY + samples[0] * height, z)];
 
@@ -231,7 +231,7 @@ export class MachBandIllusion extends IllusionBase {
         return points;
     }
 
-    createPerceivedProfilePoints(originX, originY, width, height, samples, z) {
+    createPerceivedProfilePoints(originX, originY, width, height, samples, z) { // Create the points for the perceived luminance profile, which includes overshoots at the boundaries to represent the Mach band effect
         const bandWidth = width / samples.length;
         const points = [];
         const rimWidth = bandWidth * 0.16;
@@ -265,7 +265,7 @@ export class MachBandIllusion extends IllusionBase {
         return points;
     }
 
-    revealProfile() {
+    revealProfile() { // Reveal the profile overlay and update the guide panel with an explanation of the illusion and the actual vs perceived profiles
         this.state = STATE_REVEAL;
         this.profileGroup.visible = true;
 
@@ -284,14 +284,14 @@ export class MachBandIllusion extends IllusionBase {
         this.refreshGuideStatus();
     }
 
-    reset() {
+    reset() { // Reset the illusion to its initial state, hiding the profile overlay and updating the guide panel with instructions to observe the illusion again
         this.state = STATE_OBSERVE;
         this.profileGroup.visible = false;
         this.hideColorPanel();
         this.refreshGuideStatus();
     }
 
-    refreshGuideStatus() {
+    refreshGuideStatus() { // Update the status text in the guide panel based on the current state of the illusion
         const statusNode = document.getElementById('machStatus');
         if (!statusNode) {
             return;

@@ -4,7 +4,7 @@ import { IllusionBase } from './IllusionBase.js';
 const STATE_OBSERVE = 'observe';
 const STATE_REVEAL = 'reveal';
 
-export class RotatingSnakesIllusion extends IllusionBase {
+export class RotatingSnakesIllusion extends IllusionBase { // Define a new class for the Rotating Snakes illusion that extends the base illusion class
     constructor(options = {}) {
         super(options);
         this.state = STATE_OBSERVE;
@@ -21,11 +21,11 @@ export class RotatingSnakesIllusion extends IllusionBase {
         this.controls.maxDistance = 14;
     }
 
-    getTitle() {
+    getTitle() { // Return the title of the illusion to be displayed in the UI
         return 'Rotating Snakes Illusion';
     }
 
-    getGuideMarkup() {
+    getGuideMarkup() { // Return the HTML markup for the guide panel, including instructions and buttons for interaction
         return `
             <div class="guide-title">Rotating Snakes</div>
             <div class="guide-copy">Concentric circles arranged in patterns appear to rotate continuously, even though the image is completely static.</div>
@@ -37,7 +37,7 @@ export class RotatingSnakesIllusion extends IllusionBase {
         `;
     }
 
-    buildScene() {
+    buildScene() { // Set up the 3D scene with concentric circles arranged in patterns that create the illusion of continuous rotation, and add a floor plane for context
         const floor = new THREE.Mesh(
             new THREE.PlaneGeometry(18, 18),
             new THREE.MeshStandardMaterial({ color: 0xf8fafc, roughness: 0.92, metalness: 0 })
@@ -54,7 +54,7 @@ export class RotatingSnakesIllusion extends IllusionBase {
         this.setReferenceVisible(false);
     }
 
-    onMount() {
+    onMount() { // Set up event listeners for the guide panel buttons when the illusion is mounted
         const revealButton = document.getElementById('snakesReveal');
         const resetButton = document.getElementById('snakesReset');
 
@@ -67,7 +67,7 @@ export class RotatingSnakesIllusion extends IllusionBase {
         this.refreshGuideStatus();
     }
 
-    onDispose() {
+    onDispose() { // Clean up any resources or event listeners when the illusion is disposed
         const revealButton = document.getElementById('snakesReveal');
         const resetButton = document.getElementById('snakesReset');
 
@@ -79,14 +79,14 @@ export class RotatingSnakesIllusion extends IllusionBase {
         this.hideColorPanel();
     }
 
-    onFrame() {
+    onFrame() { // Update the rotation of the snake group on each frame if the illusion is in the observe state
         if (this.state === STATE_OBSERVE) {
             this.rotationAngle += this.animationSpeed;
             this.snakeGroup.rotation.z = this.rotationAngle;
         }
     }
 
-    buildSnakes() {
+    buildSnakes() { // Create the concentric circles arranged in patterns that create the illusion of continuous rotation, and add them to the snake group
         const numRings = 6;
         const baseRadius = 0.8;
         const ringSpacing = 0.65;
@@ -131,7 +131,7 @@ export class RotatingSnakesIllusion extends IllusionBase {
         }
     }
 
-    buildReferenceGuides() {
+    buildReferenceGuides() { // Create the reference guides that can be revealed to show the true static nature of the rings, and add them to the scene
         const numRings = 6;
         const baseRadius = 0.8;
         const ringSpacing = 0.65;
@@ -159,7 +159,7 @@ export class RotatingSnakesIllusion extends IllusionBase {
         }
     }
 
-    revealGuides() {
+    revealGuides() { // Change the state to reveal, make the reference guides visible, and display a color panel with explanations of what the user is seeing and the ground truth of the illusion
         this.state = STATE_REVEAL;
         this.snakeGroup.rotation.z = 0;
         this.rotationAngle = 0;
@@ -180,7 +180,7 @@ export class RotatingSnakesIllusion extends IllusionBase {
         this.refreshGuideStatus();
     }
 
-    reset() {
+    reset() { // Reset the illusion to its initial state, hiding reference guides and stopping any rotation
         this.state = STATE_OBSERVE;
         this.rotationAngle = 0;
         this.snakeGroup.rotation.z = 0;
@@ -195,7 +195,7 @@ export class RotatingSnakesIllusion extends IllusionBase {
         });
     }
 
-    refreshGuideStatus() {
+    refreshGuideStatus() { // Update the status text in the guide panel based on the current state of the illusion
         const statusNode = document.getElementById('snakesStatus');
         if (!statusNode) {
             return;
