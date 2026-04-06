@@ -1,4 +1,5 @@
 import { CheckerShadowIllusion } from './Checker_Shadow.js';
+import { MachBandIllusion } from './MachBand.js';
 import { PonzoIllusion } from './Ponzo.js';
 import { ZollnerIllusion } from './Zollner.js';
 import { RotatingSnakesIllusion } from './RotatingSnakes.js';
@@ -10,6 +11,7 @@ class SceneManager { // The SceneManager class is responsible for managing the d
 
         this.factories = {
             checker: () => new CheckerShadowIllusion({ container: document.body }),
+            mach: () => new MachBandIllusion({ container: document.body }),
             ponzo: () => new PonzoIllusion({ container: document.body }),
             zollner: () => new ZollnerIllusion({ container: document.body }),
             snakes: () => new RotatingSnakesIllusion({ container: document.body })
@@ -33,6 +35,7 @@ class SceneManager { // The SceneManager class is responsible for managing the d
             <div class="panel-title">Illusion Picker</div>
             <div class="illusion-actions" role="tablist" aria-label="Select illusion">
                 <button class="illusion-btn" data-illusion="checker" role="tab" aria-selected="true">Checker Shadow</button>
+                <button class="illusion-btn" data-illusion="mach" role="tab" aria-selected="false">Mach Bands</button>
                 <button class="illusion-btn" data-illusion="ponzo" role="tab" aria-selected="false">Ponzo</button>
                 <button class="illusion-btn" data-illusion="zollner" role="tab" aria-selected="false">Zollner</button>
                 <button class="illusion-btn" data-illusion="snakes" role="tab" aria-selected="false">Rotating Snakes</button>
