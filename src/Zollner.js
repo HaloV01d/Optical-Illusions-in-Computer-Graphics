@@ -126,9 +126,12 @@ export class ZollnerIllusion extends IllusionBase {
             linewidth: 1
         });
 
-        this.mainLines.forEach((line) => {
-            const y = line.geometry.attributes.position.getY(0);
-            const points = [new THREE.Vector3(-4.6, y + 0.22, 0), new THREE.Vector3(4.6, y + 0.22, 0)];
+        const floorY = -2.2;
+        const topY = 0.95;
+        const cornerX = [-4.6, 4.6];
+
+        cornerX.forEach((x) => {
+            const points = [new THREE.Vector3(x, floorY, 0.02), new THREE.Vector3(x, topY, 0.02)];
             const guide = new THREE.Line(new THREE.BufferGeometry().setFromPoints(points), guideMaterial.clone());
             guide.computeLineDistances();
             this.referenceGuides.push(guide);
