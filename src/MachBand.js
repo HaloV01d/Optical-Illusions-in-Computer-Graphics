@@ -166,9 +166,9 @@ export class MachBandIllusion extends IllusionBase { // Define a new class for t
     }
 
     buildProfileOverlay() { // Build the overlay for the profile graph, including axes, actual and perceived profiles, and boundary guides
-        const graphWidth = 8.6;
+        const graphWidth = 9.2;
         const graphHeight = 1.8;
-        const graphOriginX = -graphWidth / 2;
+        const graphOriginX = -4.6;
         const graphOriginY = -2.2;
 
         const axisMaterial = new THREE.LineBasicMaterial({ color: 0x334155 });
@@ -182,29 +182,32 @@ export class MachBandIllusion extends IllusionBase { // Define a new class for t
         const axes = new THREE.LineSegments(axisGeometry, axisMaterial);
         this.profileGroup.add(axes);
 
-        const actualProfile = new THREE.Line(
-            new THREE.BufferGeometry().setFromPoints(this.createStepProfilePoints(graphOriginX, graphOriginY, graphWidth, graphHeight, this.samples, 0.06)),
-            new THREE.LineBasicMaterial({ color: 0xdc2626 })
-        );
-        this.profileGroup.add(actualProfile);
-
-        const perceivedProfile = new THREE.Line(
-            new THREE.BufferGeometry().setFromPoints(this.createPerceivedProfilePoints(graphOriginX, graphOriginY, graphWidth, graphHeight, this.samples, 0.08)),
-            new THREE.LineBasicMaterial({ color: 0x2563eb })
-        );
-        this.profileGroup.add(perceivedProfile);
-
         this.boundaries.forEach((boundary) => {
             const x = graphOriginX + boundary * graphWidth;
             const guide = new THREE.Line(
                 new THREE.BufferGeometry().setFromPoints([
                     new THREE.Vector3(x, graphOriginY - 0.1, 0.04),
-                    new THREE.Vector3(x, graphOriginY + graphHeight + 0.1, 0.04)
+                    new THREE.Vector3(x, 2.8, 0.04)
                 ]),
-                new THREE.LineBasicMaterial({ color: 0x16a34a })
+                new THREE.LineBasicMaterial({ color: 0x16a34a, depthTest: false })
             );
+            guide.renderOrder = 2;
             this.profileGroup.add(guide);
         });
+
+        const actualProfile = new THREE.Line(
+            new THREE.BufferGeometry().setFromPoints(this.createStepProfilePoints(graphOriginX, graphOriginY, graphWidth, graphHeight, this.samples, 0.06)),
+            new THREE.LineBasicMaterial({ color: 0xdc2626, depthTest: false })
+        );
+        actualProfile.renderOrder = 3;
+        this.profileGroup.add(actualProfile);
+
+        const perceivedProfile = new THREE.Line(
+            new THREE.BufferGeometry().setFromPoints(this.createPerceivedProfilePoints(graphOriginX, graphOriginY, graphWidth, graphHeight, this.samples, 0.08)),
+            new THREE.LineBasicMaterial({ color: 0x2563eb, depthTest: false })
+        );
+        perceivedProfile.renderOrder = 4;
+        this.profileGroup.add(perceivedProfile);
     }
 
     createStepProfilePoints(originX, originY, width, height, samples, z) { // Create the points for the actual luminance profile, which is a staircase function
