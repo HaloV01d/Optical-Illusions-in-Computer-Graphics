@@ -33,6 +33,7 @@ class SceneManager { // The SceneManager class is responsible for managing the d
 
         this.boundPickDatasetFolder = this.pickDatasetFolder.bind(this);
         this.boundCaptureCurrentIllusion = this.captureCurrentIllusion.bind(this);
+        this.boundCaptureAllIllusions = this.captureAllIllusions.bind(this);
     }
 
     init() {
@@ -76,6 +77,7 @@ class SceneManager { // The SceneManager class is responsible for managing the d
             <div class="dataset-actions">
                 <button id="chooseDatasetBtn" class="dataset-btn" type="button">Choose dataset folder</button>
                 <button id="captureDatasetBtn" class="dataset-btn" type="button">Capture current illusion</button>
+                <button id="captureAllBtn" class="dataset-btn" type="button">Capture all illusions</button>
             </div>
             <div id="datasetStatus" class="dataset-status" role="status" aria-live="polite"></div>
         `;
@@ -89,6 +91,11 @@ class SceneManager { // The SceneManager class is responsible for managing the d
 
         if (captureButton) {
             captureButton.addEventListener('click', this.boundCaptureCurrentIllusion);
+        }
+
+        const captureAllButton = this.datasetNode.querySelector('#captureAllBtn');
+        if (captureAllButton) {
+            captureAllButton.addEventListener('click', this.boundCaptureAllIllusions);
         }
 
         this.setDatasetStatus('Choose your dataset folder to enable direct saves.');
@@ -192,6 +199,62 @@ class SceneManager { // The SceneManager class is responsible for managing the d
         await writable.write(blob);
         await writable.close();
         this.setDatasetStatus(`Saved ${filename} to dataset folder.`);
+    }
+
+    waitFrames(n) {
+        return new Promise((resolve) => {
+            let count = 0;
+            const tick = () => {
+                count++;
+                if (count >= n) {
+                    resolve();
+                } else {
+                    requestAnimationFrame(tick);
+                }
+            };
+            requestAnimationFrame(tick);
+        });
+    }
+
+    async captureAllIllusions() {
+        if (this.isCapturing) {
+            return;
+        }
+
+        this.isCapturing = true;
+        const originalKey = this.currentKey;
+        const keys = Object.keys(this.factories);
+        let saved = 0;
+
+        try {
+            for (const key of keys) {
+                this.setDatasetStatus(`Capturing ${this.illusionNames[key] || key}\u2026 (${saved + 1}/${keys.length})`);
+                this.switchTo(key);
+                await this.waitFrames(3);
+
+                const canvas = this.getRendererCanvas();
+                if (!canvas) {
+                    continue;
+                }
+
+                const slug = this.illusionNames[key] || key;
+                const timestamp = new Date().toISOString().replace(/[:.]/g, '-');
+                const filename = `${slug}-${timestamp}.png`;
+                const blob = await this.canvasToBlob(canvas);
+                await this.saveBlobToDataset(blob, filename);
+                saved++;
+            }
+
+            this.setDatasetStatus(`Captured all ${saved} illusion${saved !== 1 ? 's' : ''}.`);
+        } catch (error) {
+            this.setDatasetStatus('Batch capture failed. Check the browser console.');
+            console.error(error);
+        } finally {
+            this.isCapturing = false;
+            if (originalKey) {
+                this.switchTo(originalKey);
+            }
+        }
     }
 
     async captureCurrentIllusion() {
