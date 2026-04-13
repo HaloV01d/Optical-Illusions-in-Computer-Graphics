@@ -38,9 +38,16 @@ This project demonstrates how perception can be distorted by context, contrast, 
 ## Core UI Features
 
 - Illusion picker to switch scenes.
+- Dataset capture panel to save illusion snapshots as PNG images.
 - Guide panel with contextual instructions and reveal/reset actions.
 - Lighting controls (shadow softness, HSL, intensity) shared across scenes.
 - Color comparison panel used by applicable illusions.
+
+## Dataset Capture
+
+- Use the Dataset Capture panel to save an image of the active illusion.
+- Choose a folder once, and the app creates/uses a dataset subfolder for direct saves.
+- If folder access is not available in the browser, capture falls back to a normal file download.
 
 ## Project Structure
 

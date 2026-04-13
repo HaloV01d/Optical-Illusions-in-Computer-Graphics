@@ -8,6 +8,8 @@ class SceneManager { // The SceneManager class is responsible for managing the d
     constructor() {
         this.current = null;
         this.currentKey = null;
+        this.datasetDirHandle = null;
+        this.isCapturing = false;
 
         this.factories = {
             checker: () => new CheckerShadowIllusion({ container: document.body }),
@@ -18,11 +20,24 @@ class SceneManager { // The SceneManager class is responsible for managing the d
         };
 
         this.switcherNode = document.getElementById('illusionPanel');
+        this.datasetNode = document.getElementById('datasetPanel');
         this.guideNode = document.getElementById('guidePanel');
+
+        this.illusionNames = {
+            checker: 'checker-shadow',
+            mach: 'mach-bands',
+            ponzo: 'ponzo',
+            zollner: 'zollner',
+            snakes: 'rotating-snakes'
+        };
+
+        this.boundPickDatasetFolder = this.pickDatasetFolder.bind(this);
+        this.boundCaptureCurrentIllusion = this.captureCurrentIllusion.bind(this);
     }
 
     init() {
         this.renderSwitcher();
+        this.renderDatasetPanel();
         this.switchTo('checker');
     }
 
@@ -48,6 +63,161 @@ class SceneManager { // The SceneManager class is responsible for managing the d
                 this.switchTo(select.value);
             }
         });
+    }
+
+    renderDatasetPanel() {
+        if (!this.datasetNode) {
+            return;
+        }
+
+        this.datasetNode.innerHTML = `
+            <div class="panel-title">Dataset Capture</div>
+            <div class="dataset-copy">Save PNG snapshots of the active illusion. Pick your local dataset folder once, then capture as needed.</div>
+            <div class="dataset-actions">
+                <button id="chooseDatasetBtn" class="dataset-btn" type="button">Choose dataset folder</button>
+                <button id="captureDatasetBtn" class="dataset-btn" type="button">Capture current illusion</button>
+            </div>
+            <div id="datasetStatus" class="dataset-status" role="status" aria-live="polite"></div>
+        `;
+
+        const chooseButton = this.datasetNode.querySelector('#chooseDatasetBtn');
+        const captureButton = this.datasetNode.querySelector('#captureDatasetBtn');
+
+        if (chooseButton) {
+            chooseButton.addEventListener('click', this.boundPickDatasetFolder);
+        }
+
+        if (captureButton) {
+            captureButton.addEventListener('click', this.boundCaptureCurrentIllusion);
+        }
+
+        this.setDatasetStatus('Choose your dataset folder to enable direct saves.');
+    }
+
+    setDatasetStatus(message) {
+        if (!this.datasetNode) {
+            return;
+        }
+
+        const statusNode = this.datasetNode.querySelector('#datasetStatus');
+        if (statusNode) {
+            statusNode.textContent = message;
+        }
+    }
+
+    getDatasetFilename() {
+        const slug = this.illusionNames[this.currentKey] || this.currentKey || 'illusion';
+        const timestamp = new Date().toISOString().replace(/[:.]/g, '-');
+        return `${slug}-${timestamp}.png`;
+    }
+
+    getRendererCanvas() {
+        if (!this.current || !this.current.renderer || !this.current.renderer.domElement) {
+            return null;
+        }
+
+        this.current.renderer.render(this.current.scene, this.current.camera);
+        return this.current.renderer.domElement;
+    }
+
+    async canvasToBlob(canvas) {
+        return new Promise((resolve, reject) => {
+            canvas.toBlob((blob) => {
+                if (!blob) {
+                    reject(new Error('Unable to capture image from canvas.'));
+                    return;
+                }
+
+                resolve(blob);
+            }, 'image/png');
+        });
+    }
+
+    async pickDatasetFolder() {
+        if (!window.showDirectoryPicker) {
+            this.setDatasetStatus('Folder picker unsupported here. Capture uses browser download instead.');
+            return;
+        }
+
+        try {
+            const rootHandle = await window.showDirectoryPicker({
+                id: 'optical-illusions-dataset',
+                mode: 'readwrite'
+            });
+
+            this.datasetDirHandle = await rootHandle.getDirectoryHandle('dataset', { create: true });
+            this.setDatasetStatus('Dataset folder ready. Captures save directly into dataset.');
+        } catch (error) {
+            if (error && error.name === 'AbortError') {
+                this.setDatasetStatus('Folder selection canceled.');
+                return;
+            }
+
+            this.setDatasetStatus('Could not open dataset folder. Try again.');
+            console.error(error);
+        }
+    }
+
+    downloadBlob(blob, filename) {
+        const url = URL.createObjectURL(blob);
+        const anchor = document.createElement('a');
+        anchor.href = url;
+        anchor.download = filename;
+        document.body.appendChild(anchor);
+        anchor.click();
+        anchor.remove();
+        URL.revokeObjectURL(url);
+    }
+
+    async saveBlobToDataset(blob, filename) {
+        if (!this.datasetDirHandle) {
+            this.downloadBlob(blob, filename);
+            this.setDatasetStatus(`Downloaded ${filename}. Select dataset folder for direct saves.`);
+            return;
+        }
+
+        const permission = await this.datasetDirHandle.queryPermission({ mode: 'readwrite' });
+        const needsRequest = permission !== 'granted';
+        if (needsRequest) {
+            const requested = await this.datasetDirHandle.requestPermission({ mode: 'readwrite' });
+            if (requested !== 'granted') {
+                this.downloadBlob(blob, filename);
+                this.setDatasetStatus(`Permission denied. Downloaded ${filename} instead.`);
+                return;
+            }
+        }
+
+        const fileHandle = await this.datasetDirHandle.getFileHandle(filename, { create: true });
+        const writable = await fileHandle.createWritable();
+        await writable.write(blob);
+        await writable.close();
+        this.setDatasetStatus(`Saved ${filename} to dataset folder.`);
+    }
+
+    async captureCurrentIllusion() {
+        if (this.isCapturing) {
+            return;
+        }
+
+        const canvas = this.getRendererCanvas();
+        if (!canvas) {
+            this.setDatasetStatus('No active illusion available to capture yet.');
+            return;
+        }
+
+        this.isCapturing = true;
+        this.setDatasetStatus('Capturing image...');
+
+        try {
+            const filename = this.getDatasetFilename();
+            const blob = await this.canvasToBlob(canvas);
+            await this.saveBlobToDataset(blob, filename);
+        } catch (error) {
+            this.setDatasetStatus('Capture failed. Check the browser console for details.');
+            console.error(error);
+        } finally {
+            this.isCapturing = false;
+        }
     }
 
     switchTo(key) { // Switch to a different illusion based on the provided key. This method checks if the requested illusion is already active, and if not, it disposes of the current illusion (if any), creates a new instance of the requested illusion using the factory method, updates the switcher button states, updates the guide panel with instructions for the new illusion, and mounts the new illusion to set up its scene and interactions.

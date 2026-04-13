@@ -165,7 +165,7 @@ export class IllusionBase { // Base class for optical illusions, providing commo
             return false;
         }
 
-        return Boolean(target.closest('#lightPanel, #colorPanel, #illusionPanel, #guidePanel'));
+        return Boolean(target.closest('#lightPanel, #colorPanel, #illusionPanel, #datasetPanel, #guidePanel'));
     }
 
     getNormalizedPointer(event) { // Convert the pointer event's client coordinates to normalized device coordinates (NDC) in the range [-1, 1] for use with raycasting in Three.js. This method updates the mouse vector with the normalized coordinates and returns it.
