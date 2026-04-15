@@ -3,6 +3,7 @@ import { MachBandIllusion } from './MachBand.js';
 import { PonzoIllusion } from './Ponzo.js';
 import { ZollnerIllusion } from './Zollner.js';
 import { RotatingSnakesIllusion } from './RotatingSnakes.js';
+import { DatasetGenerator } from './DatasetGenerator.js';
 
 class SceneManager { // The SceneManager class is responsible for managing the different illusions, handling the UI for switching between illusions, and updating the guide panel with instructions for each illusion. It maintains a reference to the current illusion and provides methods to switch illusions and update the UI accordingly.
     constructor() {
@@ -34,6 +35,8 @@ class SceneManager { // The SceneManager class is responsible for managing the d
         this.boundPickDatasetFolder = this.pickDatasetFolder.bind(this);
         this.boundCaptureCurrentIllusion = this.captureCurrentIllusion.bind(this);
         this.boundCaptureAllIllusions = this.captureAllIllusions.bind(this);
+        this.boundGenerateFullDataset = this.generateFullDataset.bind(this);
+        this.datasetGenerator = null;
     }
 
     init() {
@@ -78,6 +81,7 @@ class SceneManager { // The SceneManager class is responsible for managing the d
                 <button id="chooseDatasetBtn" class="dataset-btn" type="button">Choose dataset folder</button>
                 <button id="captureDatasetBtn" class="dataset-btn" type="button">Capture current illusion</button>
                 <button id="captureAllBtn" class="dataset-btn" type="button">Capture all illusions</button>
+                <button id="generateDatasetBtn" class="dataset-btn" type="button">Generate Full Dataset</button>
             </div>
             <div id="datasetStatus" class="dataset-status" role="status" aria-live="polite"></div>
         `;
@@ -96,6 +100,11 @@ class SceneManager { // The SceneManager class is responsible for managing the d
         const captureAllButton = this.datasetNode.querySelector('#captureAllBtn');
         if (captureAllButton) {
             captureAllButton.addEventListener('click', this.boundCaptureAllIllusions);
+        }
+
+        const generateButton = this.datasetNode.querySelector('#generateDatasetBtn');
+        if (generateButton) {
+            generateButton.addEventListener('click', this.boundGenerateFullDataset);
         }
 
         this.setDatasetStatus('Choose your dataset folder to enable direct saves.');
@@ -280,6 +289,50 @@ class SceneManager { // The SceneManager class is responsible for managing the d
             console.error(error);
         } finally {
             this.isCapturing = false;
+        }
+    }
+
+    async generateFullDataset() {
+        if (!this.datasetDirHandle) {
+            if (!window.showDirectoryPicker) {
+                this.setDatasetStatus('Folder picker unsupported. Cannot generate dataset.');
+                return;
+            }
+
+            try {
+                const rootHandle = await window.showDirectoryPicker({
+                    id: 'optical-illusions-dataset',
+                    mode: 'readwrite'
+                });
+                this.datasetDirHandle = await rootHandle.getDirectoryHandle('dataset', { create: true });
+            } catch (error) {
+                if (error && error.name === 'AbortError') {
+                    this.setDatasetStatus('Folder selection canceled.');
+                    return;
+                }
+
+                this.setDatasetStatus('Could not open dataset folder.');
+                console.error(error);
+                return;
+            }
+        }
+
+        if (!this.datasetGenerator) {
+            this.datasetGenerator = new DatasetGenerator({ imagesPerIllusion: 500 });
+        }
+
+        const generateButton = this.datasetNode?.querySelector('#generateDatasetBtn');
+        if (generateButton) {
+            generateButton.disabled = true;
+        }
+
+        await this.datasetGenerator.generateAll(
+            this.datasetDirHandle,
+            (message) => this.setDatasetStatus(message)
+        );
+
+        if (generateButton) {
+            generateButton.disabled = false;
         }
     }
 
