@@ -1,0 +1,3502 @@
+[
+  {
+    "image": "ponzo_001.png",
+    "rail_convergence": 0.51,
+    "bar_length": 3.13,
+    "bar_separation": 2.88,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_002.png",
+    "rail_convergence": 0.51,
+    "bar_length": 2.49,
+    "bar_separation": 1.01,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_003.png",
+    "rail_convergence": 0.24,
+    "bar_length": 1.85,
+    "bar_separation": 1.69,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_004.png",
+    "rail_convergence": 0.57,
+    "bar_length": 2.27,
+    "bar_separation": 1.68,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_005.png",
+    "rail_convergence": 0.28,
+    "bar_length": 3.03,
+    "bar_separation": 2.24,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_006.png",
+    "rail_convergence": 0.59,
+    "bar_length": 2.3,
+    "bar_separation": 2.84,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_007.png",
+    "rail_convergence": 0.25,
+    "bar_length": 2.83,
+    "bar_separation": 1.03,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_008.png",
+    "rail_convergence": 0.43,
+    "bar_length": 1.85,
+    "bar_separation": 2.57,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_009.png",
+    "rail_convergence": 0.5,
+    "bar_length": 1.54,
+    "bar_separation": 1.44,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_010.png",
+    "rail_convergence": 0.19,
+    "bar_length": 2.71,
+    "bar_separation": 2.77,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_011.png",
+    "rail_convergence": 0.5,
+    "bar_length": 3.4,
+    "bar_separation": 1.38,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_012.png",
+    "rail_convergence": 0.57,
+    "bar_length": 2.77,
+    "bar_separation": 1.55,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_013.png",
+    "rail_convergence": 0.26,
+    "bar_length": 1.72,
+    "bar_separation": 1.91,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_014.png",
+    "rail_convergence": 0.51,
+    "bar_length": 2.31,
+    "bar_separation": 1.12,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_015.png",
+    "rail_convergence": 0.43,
+    "bar_length": 2.43,
+    "bar_separation": 2.82,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_016.png",
+    "rail_convergence": 0.53,
+    "bar_length": 1.58,
+    "bar_separation": 1.93,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_017.png",
+    "rail_convergence": 0.44,
+    "bar_length": 2.07,
+    "bar_separation": 1.82,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_018.png",
+    "rail_convergence": 0.45,
+    "bar_length": 2.23,
+    "bar_separation": 1.27,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_019.png",
+    "rail_convergence": 0.53,
+    "bar_length": 1.96,
+    "bar_separation": 1.48,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_020.png",
+    "rail_convergence": 0.2,
+    "bar_length": 2.98,
+    "bar_separation": 1.3,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_021.png",
+    "rail_convergence": 0.46,
+    "bar_length": 2.08,
+    "bar_separation": 1.62,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_022.png",
+    "rail_convergence": 0.51,
+    "bar_length": 2.15,
+    "bar_separation": 2.27,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_023.png",
+    "rail_convergence": 0.52,
+    "bar_length": 2.93,
+    "bar_separation": 1.71,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_024.png",
+    "rail_convergence": 0.19,
+    "bar_length": 1.73,
+    "bar_separation": 2.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_025.png",
+    "rail_convergence": 0.56,
+    "bar_length": 3.12,
+    "bar_separation": 2.11,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_026.png",
+    "rail_convergence": 0.16,
+    "bar_length": 2.71,
+    "bar_separation": 1.03,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_027.png",
+    "rail_convergence": 0.57,
+    "bar_length": 2.63,
+    "bar_separation": 1.95,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_028.png",
+    "rail_convergence": 0.53,
+    "bar_length": 2.18,
+    "bar_separation": 2.34,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_029.png",
+    "rail_convergence": 0.46,
+    "bar_length": 3.02,
+    "bar_separation": 1.09,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_030.png",
+    "rail_convergence": 0.15,
+    "bar_length": 1.78,
+    "bar_separation": 1.38,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_031.png",
+    "rail_convergence": 0.34,
+    "bar_length": 1.74,
+    "bar_separation": 1.11,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_032.png",
+    "rail_convergence": 0.55,
+    "bar_length": 2.13,
+    "bar_separation": 2.5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_033.png",
+    "rail_convergence": 0.19,
+    "bar_length": 3.23,
+    "bar_separation": 2.04,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_034.png",
+    "rail_convergence": 0.4,
+    "bar_length": 2.42,
+    "bar_separation": 1.52,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_035.png",
+    "rail_convergence": 0.26,
+    "bar_length": 3.21,
+    "bar_separation": 2.15,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_036.png",
+    "rail_convergence": 0.2,
+    "bar_length": 3.47,
+    "bar_separation": 2.26,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_037.png",
+    "rail_convergence": 0.28,
+    "bar_length": 3.03,
+    "bar_separation": 2.86,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_038.png",
+    "rail_convergence": 0.21,
+    "bar_length": 2.46,
+    "bar_separation": 2.32,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_039.png",
+    "rail_convergence": 0.57,
+    "bar_length": 1.81,
+    "bar_separation": 1.39,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_040.png",
+    "rail_convergence": 0.35,
+    "bar_length": 2.46,
+    "bar_separation": 2.02,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_041.png",
+    "rail_convergence": 0.52,
+    "bar_length": 2.59,
+    "bar_separation": 2.79,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_042.png",
+    "rail_convergence": 0.25,
+    "bar_length": 3.31,
+    "bar_separation": 1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_043.png",
+    "rail_convergence": 0.33,
+    "bar_length": 2.4,
+    "bar_separation": 2.87,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_044.png",
+    "rail_convergence": 0.58,
+    "bar_length": 2.28,
+    "bar_separation": 2.37,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_045.png",
+    "rail_convergence": 0.43,
+    "bar_length": 3.3,
+    "bar_separation": 2.81,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_046.png",
+    "rail_convergence": 0.5,
+    "bar_length": 3.28,
+    "bar_separation": 2.42,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_047.png",
+    "rail_convergence": 0.34,
+    "bar_length": 3.33,
+    "bar_separation": 1.48,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_048.png",
+    "rail_convergence": 0.45,
+    "bar_length": 2.18,
+    "bar_separation": 2.05,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_049.png",
+    "rail_convergence": 0.46,
+    "bar_length": 1.8,
+    "bar_separation": 1.53,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_050.png",
+    "rail_convergence": 0.35,
+    "bar_length": 2.04,
+    "bar_separation": 2.71,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_051.png",
+    "rail_convergence": 0.24,
+    "bar_length": 1.96,
+    "bar_separation": 2.96,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_052.png",
+    "rail_convergence": 0.42,
+    "bar_length": 2.74,
+    "bar_separation": 1.9,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_053.png",
+    "rail_convergence": 0.51,
+    "bar_length": 2.19,
+    "bar_separation": 2.19,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_054.png",
+    "rail_convergence": 0.21,
+    "bar_length": 2.21,
+    "bar_separation": 1.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_055.png",
+    "rail_convergence": 0.22,
+    "bar_length": 1.74,
+    "bar_separation": 2.91,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_056.png",
+    "rail_convergence": 0.32,
+    "bar_length": 1.67,
+    "bar_separation": 2.72,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_057.png",
+    "rail_convergence": 0.42,
+    "bar_length": 2.81,
+    "bar_separation": 1.95,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_058.png",
+    "rail_convergence": 0.42,
+    "bar_length": 2.35,
+    "bar_separation": 2.74,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_059.png",
+    "rail_convergence": 0.27,
+    "bar_length": 1.93,
+    "bar_separation": 2.77,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_060.png",
+    "rail_convergence": 0.5,
+    "bar_length": 2.61,
+    "bar_separation": 2.75,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_061.png",
+    "rail_convergence": 0.3,
+    "bar_length": 2.23,
+    "bar_separation": 2.35,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_062.png",
+    "rail_convergence": 0.54,
+    "bar_length": 2.48,
+    "bar_separation": 2.07,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_063.png",
+    "rail_convergence": 0.38,
+    "bar_length": 3.01,
+    "bar_separation": 1.66,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_064.png",
+    "rail_convergence": 0.19,
+    "bar_length": 3.37,
+    "bar_separation": 1.6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_065.png",
+    "rail_convergence": 0.38,
+    "bar_length": 2.86,
+    "bar_separation": 1.31,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_066.png",
+    "rail_convergence": 0.33,
+    "bar_length": 2.54,
+    "bar_separation": 1.66,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_067.png",
+    "rail_convergence": 0.59,
+    "bar_length": 1.78,
+    "bar_separation": 2.88,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_068.png",
+    "rail_convergence": 0.49,
+    "bar_length": 2.3,
+    "bar_separation": 2.74,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_069.png",
+    "rail_convergence": 0.2,
+    "bar_length": 2.73,
+    "bar_separation": 2.59,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_070.png",
+    "rail_convergence": 0.22,
+    "bar_length": 1.91,
+    "bar_separation": 2.19,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_071.png",
+    "rail_convergence": 0.5,
+    "bar_length": 2.73,
+    "bar_separation": 2.72,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_072.png",
+    "rail_convergence": 0.58,
+    "bar_length": 2.26,
+    "bar_separation": 2.75,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_073.png",
+    "rail_convergence": 0.35,
+    "bar_length": 1.84,
+    "bar_separation": 2.35,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_074.png",
+    "rail_convergence": 0.45,
+    "bar_length": 1.96,
+    "bar_separation": 2.49,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_075.png",
+    "rail_convergence": 0.25,
+    "bar_length": 2.71,
+    "bar_separation": 1.1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_076.png",
+    "rail_convergence": 0.32,
+    "bar_length": 3.35,
+    "bar_separation": 2.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_077.png",
+    "rail_convergence": 0.21,
+    "bar_length": 3.12,
+    "bar_separation": 2.85,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_078.png",
+    "rail_convergence": 0.29,
+    "bar_length": 1.73,
+    "bar_separation": 1.3,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_079.png",
+    "rail_convergence": 0.38,
+    "bar_length": 1.69,
+    "bar_separation": 2.11,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_080.png",
+    "rail_convergence": 0.15,
+    "bar_length": 2.35,
+    "bar_separation": 2.73,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_081.png",
+    "rail_convergence": 0.44,
+    "bar_length": 2.73,
+    "bar_separation": 1.57,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_082.png",
+    "rail_convergence": 0.5,
+    "bar_length": 1.68,
+    "bar_separation": 2.72,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_083.png",
+    "rail_convergence": 0.26,
+    "bar_length": 1.63,
+    "bar_separation": 1.4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_084.png",
+    "rail_convergence": 0.21,
+    "bar_length": 3.22,
+    "bar_separation": 1.96,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_085.png",
+    "rail_convergence": 0.22,
+    "bar_length": 2.67,
+    "bar_separation": 1.08,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_086.png",
+    "rail_convergence": 0.24,
+    "bar_length": 2.21,
+    "bar_separation": 1.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_087.png",
+    "rail_convergence": 0.19,
+    "bar_length": 1.59,
+    "bar_separation": 1.95,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_088.png",
+    "rail_convergence": 0.36,
+    "bar_length": 2.74,
+    "bar_separation": 1.04,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_089.png",
+    "rail_convergence": 0.2,
+    "bar_length": 1.73,
+    "bar_separation": 1.63,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_090.png",
+    "rail_convergence": 0.35,
+    "bar_length": 1.85,
+    "bar_separation": 2.04,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_091.png",
+    "rail_convergence": 0.35,
+    "bar_length": 3.18,
+    "bar_separation": 2.19,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_092.png",
+    "rail_convergence": 0.58,
+    "bar_length": 2.74,
+    "bar_separation": 1.91,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_093.png",
+    "rail_convergence": 0.24,
+    "bar_length": 2.02,
+    "bar_separation": 1.89,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_094.png",
+    "rail_convergence": 0.38,
+    "bar_length": 2.46,
+    "bar_separation": 2.34,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_095.png",
+    "rail_convergence": 0.15,
+    "bar_length": 1.92,
+    "bar_separation": 2.29,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_096.png",
+    "rail_convergence": 0.27,
+    "bar_length": 1.62,
+    "bar_separation": 2.86,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_097.png",
+    "rail_convergence": 0.18,
+    "bar_length": 3.26,
+    "bar_separation": 2.79,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_098.png",
+    "rail_convergence": 0.37,
+    "bar_length": 2.12,
+    "bar_separation": 1.33,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_099.png",
+    "rail_convergence": 0.26,
+    "bar_length": 2.39,
+    "bar_separation": 1.9,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_100.png",
+    "rail_convergence": 0.37,
+    "bar_length": 2.89,
+    "bar_separation": 1.45,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_101.png",
+    "rail_convergence": 0.53,
+    "bar_length": 2.42,
+    "bar_separation": 2.38,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_102.png",
+    "rail_convergence": 0.42,
+    "bar_length": 3.46,
+    "bar_separation": 2.27,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_103.png",
+    "rail_convergence": 0.25,
+    "bar_length": 2.27,
+    "bar_separation": 2.87,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_104.png",
+    "rail_convergence": 0.25,
+    "bar_length": 2.53,
+    "bar_separation": 1.08,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_105.png",
+    "rail_convergence": 0.48,
+    "bar_length": 3.23,
+    "bar_separation": 1.89,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_106.png",
+    "rail_convergence": 0.57,
+    "bar_length": 3.16,
+    "bar_separation": 2.56,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_107.png",
+    "rail_convergence": 0.58,
+    "bar_length": 2.73,
+    "bar_separation": 2.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_108.png",
+    "rail_convergence": 0.4,
+    "bar_length": 1.9,
+    "bar_separation": 2.05,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_109.png",
+    "rail_convergence": 0.16,
+    "bar_length": 3.15,
+    "bar_separation": 1.43,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_110.png",
+    "rail_convergence": 0.57,
+    "bar_length": 2,
+    "bar_separation": 1.94,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_111.png",
+    "rail_convergence": 0.22,
+    "bar_length": 1.53,
+    "bar_separation": 2.34,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_112.png",
+    "rail_convergence": 0.24,
+    "bar_length": 2.95,
+    "bar_separation": 2.78,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_113.png",
+    "rail_convergence": 0.42,
+    "bar_length": 2.17,
+    "bar_separation": 1.69,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_114.png",
+    "rail_convergence": 0.53,
+    "bar_length": 2.23,
+    "bar_separation": 2.22,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_115.png",
+    "rail_convergence": 0.33,
+    "bar_length": 2.37,
+    "bar_separation": 1.55,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_116.png",
+    "rail_convergence": 0.53,
+    "bar_length": 1.51,
+    "bar_separation": 2.22,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_117.png",
+    "rail_convergence": 0.27,
+    "bar_length": 2.06,
+    "bar_separation": 2.11,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_118.png",
+    "rail_convergence": 0.29,
+    "bar_length": 3.32,
+    "bar_separation": 2.82,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_119.png",
+    "rail_convergence": 0.23,
+    "bar_length": 1.82,
+    "bar_separation": 1.31,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_120.png",
+    "rail_convergence": 0.2,
+    "bar_length": 1.79,
+    "bar_separation": 2.91,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_121.png",
+    "rail_convergence": 0.56,
+    "bar_length": 1.95,
+    "bar_separation": 2.91,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_122.png",
+    "rail_convergence": 0.2,
+    "bar_length": 2.28,
+    "bar_separation": 1.27,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_123.png",
+    "rail_convergence": 0.26,
+    "bar_length": 3.4,
+    "bar_separation": 1.82,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_124.png",
+    "rail_convergence": 0.38,
+    "bar_length": 2.12,
+    "bar_separation": 1.96,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_125.png",
+    "rail_convergence": 0.15,
+    "bar_length": 2.03,
+    "bar_separation": 2.44,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_126.png",
+    "rail_convergence": 0.2,
+    "bar_length": 2.89,
+    "bar_separation": 2.08,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_127.png",
+    "rail_convergence": 0.17,
+    "bar_length": 1.68,
+    "bar_separation": 1.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_128.png",
+    "rail_convergence": 0.32,
+    "bar_length": 2.83,
+    "bar_separation": 2.88,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_129.png",
+    "rail_convergence": 0.25,
+    "bar_length": 1.98,
+    "bar_separation": 2.8,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_130.png",
+    "rail_convergence": 0.38,
+    "bar_length": 1.62,
+    "bar_separation": 2.8,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_131.png",
+    "rail_convergence": 0.36,
+    "bar_length": 1.81,
+    "bar_separation": 1.53,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_132.png",
+    "rail_convergence": 0.25,
+    "bar_length": 1.65,
+    "bar_separation": 1.67,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_133.png",
+    "rail_convergence": 0.48,
+    "bar_length": 3.1,
+    "bar_separation": 1.18,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_134.png",
+    "rail_convergence": 0.17,
+    "bar_length": 3.24,
+    "bar_separation": 1.72,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_135.png",
+    "rail_convergence": 0.23,
+    "bar_length": 1.94,
+    "bar_separation": 1.04,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_136.png",
+    "rail_convergence": 0.2,
+    "bar_length": 3.09,
+    "bar_separation": 1.08,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_137.png",
+    "rail_convergence": 0.27,
+    "bar_length": 2.25,
+    "bar_separation": 2.49,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_138.png",
+    "rail_convergence": 0.53,
+    "bar_length": 3.39,
+    "bar_separation": 2.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_139.png",
+    "rail_convergence": 0.24,
+    "bar_length": 3.01,
+    "bar_separation": 1.29,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_140.png",
+    "rail_convergence": 0.29,
+    "bar_length": 1.59,
+    "bar_separation": 1.75,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_141.png",
+    "rail_convergence": 0.58,
+    "bar_length": 1.84,
+    "bar_separation": 1.06,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_142.png",
+    "rail_convergence": 0.46,
+    "bar_length": 1.92,
+    "bar_separation": 2.72,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_143.png",
+    "rail_convergence": 0.57,
+    "bar_length": 2,
+    "bar_separation": 2.79,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_144.png",
+    "rail_convergence": 0.35,
+    "bar_length": 3.27,
+    "bar_separation": 1.97,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_145.png",
+    "rail_convergence": 0.35,
+    "bar_length": 3.08,
+    "bar_separation": 2.67,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_146.png",
+    "rail_convergence": 0.43,
+    "bar_length": 2.67,
+    "bar_separation": 2.25,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_147.png",
+    "rail_convergence": 0.41,
+    "bar_length": 2.53,
+    "bar_separation": 2.52,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_148.png",
+    "rail_convergence": 0.24,
+    "bar_length": 2.23,
+    "bar_separation": 2.11,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_149.png",
+    "rail_convergence": 0.17,
+    "bar_length": 1.57,
+    "bar_separation": 2.54,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_150.png",
+    "rail_convergence": 0.25,
+    "bar_length": 2.61,
+    "bar_separation": 1.84,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_151.png",
+    "rail_convergence": 0.21,
+    "bar_length": 3.16,
+    "bar_separation": 2.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_152.png",
+    "rail_convergence": 0.45,
+    "bar_length": 1.6,
+    "bar_separation": 1.55,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_153.png",
+    "rail_convergence": 0.43,
+    "bar_length": 3.31,
+    "bar_separation": 1.94,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_154.png",
+    "rail_convergence": 0.27,
+    "bar_length": 2.22,
+    "bar_separation": 2.6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_155.png",
+    "rail_convergence": 0.38,
+    "bar_length": 3.31,
+    "bar_separation": 2.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_156.png",
+    "rail_convergence": 0.59,
+    "bar_length": 1.86,
+    "bar_separation": 2.26,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_157.png",
+    "rail_convergence": 0.43,
+    "bar_length": 2.91,
+    "bar_separation": 2.25,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_158.png",
+    "rail_convergence": 0.24,
+    "bar_length": 3.2,
+    "bar_separation": 2.4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_159.png",
+    "rail_convergence": 0.2,
+    "bar_length": 3.26,
+    "bar_separation": 1.96,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_160.png",
+    "rail_convergence": 0.45,
+    "bar_length": 2.84,
+    "bar_separation": 1.6,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_161.png",
+    "rail_convergence": 0.4,
+    "bar_length": 1.86,
+    "bar_separation": 1.62,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_162.png",
+    "rail_convergence": 0.24,
+    "bar_length": 1.66,
+    "bar_separation": 1.11,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_163.png",
+    "rail_convergence": 0.23,
+    "bar_length": 2.56,
+    "bar_separation": 1.81,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_164.png",
+    "rail_convergence": 0.25,
+    "bar_length": 2.71,
+    "bar_separation": 1.85,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_165.png",
+    "rail_convergence": 0.5,
+    "bar_length": 2.64,
+    "bar_separation": 1.67,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_166.png",
+    "rail_convergence": 0.48,
+    "bar_length": 2.19,
+    "bar_separation": 2.34,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_167.png",
+    "rail_convergence": 0.21,
+    "bar_length": 3.13,
+    "bar_separation": 2.6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_168.png",
+    "rail_convergence": 0.6,
+    "bar_length": 1.71,
+    "bar_separation": 2.47,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_169.png",
+    "rail_convergence": 0.51,
+    "bar_length": 3.45,
+    "bar_separation": 1.07,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_170.png",
+    "rail_convergence": 0.36,
+    "bar_length": 2.32,
+    "bar_separation": 2.1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_171.png",
+    "rail_convergence": 0.2,
+    "bar_length": 2.29,
+    "bar_separation": 1.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_172.png",
+    "rail_convergence": 0.22,
+    "bar_length": 2.31,
+    "bar_separation": 2.3,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_173.png",
+    "rail_convergence": 0.48,
+    "bar_length": 1.94,
+    "bar_separation": 1.42,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_174.png",
+    "rail_convergence": 0.51,
+    "bar_length": 2.69,
+    "bar_separation": 2.49,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_175.png",
+    "rail_convergence": 0.51,
+    "bar_length": 2.39,
+    "bar_separation": 1.42,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_176.png",
+    "rail_convergence": 0.46,
+    "bar_length": 2.53,
+    "bar_separation": 2.99,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_177.png",
+    "rail_convergence": 0.36,
+    "bar_length": 3.19,
+    "bar_separation": 1.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_178.png",
+    "rail_convergence": 0.46,
+    "bar_length": 2.4,
+    "bar_separation": 2.31,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_179.png",
+    "rail_convergence": 0.59,
+    "bar_length": 1.63,
+    "bar_separation": 1.15,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_180.png",
+    "rail_convergence": 0.51,
+    "bar_length": 3.19,
+    "bar_separation": 2.23,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_181.png",
+    "rail_convergence": 0.22,
+    "bar_length": 2.21,
+    "bar_separation": 1.74,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_182.png",
+    "rail_convergence": 0.53,
+    "bar_length": 1.94,
+    "bar_separation": 2.73,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_183.png",
+    "rail_convergence": 0.47,
+    "bar_length": 2.23,
+    "bar_separation": 2.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_184.png",
+    "rail_convergence": 0.17,
+    "bar_length": 1.7,
+    "bar_separation": 1.35,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_185.png",
+    "rail_convergence": 0.35,
+    "bar_length": 2.56,
+    "bar_separation": 1.86,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_186.png",
+    "rail_convergence": 0.29,
+    "bar_length": 2.6,
+    "bar_separation": 1.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_187.png",
+    "rail_convergence": 0.49,
+    "bar_length": 1.61,
+    "bar_separation": 1.37,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_188.png",
+    "rail_convergence": 0.58,
+    "bar_length": 2.48,
+    "bar_separation": 2.79,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_189.png",
+    "rail_convergence": 0.47,
+    "bar_length": 2.26,
+    "bar_separation": 2.02,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_190.png",
+    "rail_convergence": 0.27,
+    "bar_length": 2.47,
+    "bar_separation": 2.18,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_191.png",
+    "rail_convergence": 0.59,
+    "bar_length": 2.65,
+    "bar_separation": 1.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_192.png",
+    "rail_convergence": 0.27,
+    "bar_length": 1.65,
+    "bar_separation": 2.52,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_193.png",
+    "rail_convergence": 0.37,
+    "bar_length": 2.65,
+    "bar_separation": 2.74,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_194.png",
+    "rail_convergence": 0.49,
+    "bar_length": 1.72,
+    "bar_separation": 1.65,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_195.png",
+    "rail_convergence": 0.29,
+    "bar_length": 3.46,
+    "bar_separation": 2.01,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_196.png",
+    "rail_convergence": 0.58,
+    "bar_length": 2.7,
+    "bar_separation": 1.03,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_197.png",
+    "rail_convergence": 0.15,
+    "bar_length": 3.11,
+    "bar_separation": 1.01,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_198.png",
+    "rail_convergence": 0.46,
+    "bar_length": 3.1,
+    "bar_separation": 1.55,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_199.png",
+    "rail_convergence": 0.22,
+    "bar_length": 2.9,
+    "bar_separation": 1.7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_200.png",
+    "rail_convergence": 0.23,
+    "bar_length": 3.09,
+    "bar_separation": 2.62,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_201.png",
+    "rail_convergence": 0.36,
+    "bar_length": 3.14,
+    "bar_separation": 1.15,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_202.png",
+    "rail_convergence": 0.56,
+    "bar_length": 2.67,
+    "bar_separation": 1.54,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_203.png",
+    "rail_convergence": 0.35,
+    "bar_length": 3.04,
+    "bar_separation": 2.81,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_204.png",
+    "rail_convergence": 0.22,
+    "bar_length": 1.95,
+    "bar_separation": 2.73,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_205.png",
+    "rail_convergence": 0.19,
+    "bar_length": 1.84,
+    "bar_separation": 2.27,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_206.png",
+    "rail_convergence": 0.24,
+    "bar_length": 2,
+    "bar_separation": 1.74,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_207.png",
+    "rail_convergence": 0.42,
+    "bar_length": 3.07,
+    "bar_separation": 1.06,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_208.png",
+    "rail_convergence": 0.53,
+    "bar_length": 3.46,
+    "bar_separation": 2.63,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_209.png",
+    "rail_convergence": 0.35,
+    "bar_length": 2.43,
+    "bar_separation": 1.91,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_210.png",
+    "rail_convergence": 0.19,
+    "bar_length": 2.61,
+    "bar_separation": 2.36,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_211.png",
+    "rail_convergence": 0.28,
+    "bar_length": 3.19,
+    "bar_separation": 2.04,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_212.png",
+    "rail_convergence": 0.35,
+    "bar_length": 3.01,
+    "bar_separation": 2.35,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_213.png",
+    "rail_convergence": 0.19,
+    "bar_length": 2.01,
+    "bar_separation": 2.31,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_214.png",
+    "rail_convergence": 0.2,
+    "bar_length": 3.15,
+    "bar_separation": 1.43,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_215.png",
+    "rail_convergence": 0.21,
+    "bar_length": 2.23,
+    "bar_separation": 1.69,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_216.png",
+    "rail_convergence": 0.59,
+    "bar_length": 2.83,
+    "bar_separation": 1.43,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_217.png",
+    "rail_convergence": 0.35,
+    "bar_length": 1.81,
+    "bar_separation": 1.4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_218.png",
+    "rail_convergence": 0.51,
+    "bar_length": 3.13,
+    "bar_separation": 1.66,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_219.png",
+    "rail_convergence": 0.46,
+    "bar_length": 2,
+    "bar_separation": 2.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_220.png",
+    "rail_convergence": 0.58,
+    "bar_length": 2.66,
+    "bar_separation": 2.8,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_221.png",
+    "rail_convergence": 0.28,
+    "bar_length": 1.74,
+    "bar_separation": 1.8,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_222.png",
+    "rail_convergence": 0.31,
+    "bar_length": 3.18,
+    "bar_separation": 1.69,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_223.png",
+    "rail_convergence": 0.26,
+    "bar_length": 2.54,
+    "bar_separation": 2.72,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_224.png",
+    "rail_convergence": 0.38,
+    "bar_length": 2.81,
+    "bar_separation": 2.49,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_225.png",
+    "rail_convergence": 0.21,
+    "bar_length": 2.45,
+    "bar_separation": 2.84,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_226.png",
+    "rail_convergence": 0.4,
+    "bar_length": 2.92,
+    "bar_separation": 2.37,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_227.png",
+    "rail_convergence": 0.45,
+    "bar_length": 2.51,
+    "bar_separation": 2.55,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_228.png",
+    "rail_convergence": 0.5,
+    "bar_length": 2.81,
+    "bar_separation": 1.27,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_229.png",
+    "rail_convergence": 0.38,
+    "bar_length": 2.21,
+    "bar_separation": 1.47,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_230.png",
+    "rail_convergence": 0.32,
+    "bar_length": 1.54,
+    "bar_separation": 1.51,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_231.png",
+    "rail_convergence": 0.44,
+    "bar_length": 2.93,
+    "bar_separation": 2,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_232.png",
+    "rail_convergence": 0.58,
+    "bar_length": 2.49,
+    "bar_separation": 2.77,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_233.png",
+    "rail_convergence": 0.39,
+    "bar_length": 2.62,
+    "bar_separation": 2.01,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_234.png",
+    "rail_convergence": 0.48,
+    "bar_length": 2.97,
+    "bar_separation": 2.72,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_235.png",
+    "rail_convergence": 0.22,
+    "bar_length": 2.57,
+    "bar_separation": 2.03,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_236.png",
+    "rail_convergence": 0.35,
+    "bar_length": 3.29,
+    "bar_separation": 2.94,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_237.png",
+    "rail_convergence": 0.32,
+    "bar_length": 2.96,
+    "bar_separation": 2.71,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_238.png",
+    "rail_convergence": 0.48,
+    "bar_length": 2.03,
+    "bar_separation": 2.96,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_239.png",
+    "rail_convergence": 0.23,
+    "bar_length": 3.1,
+    "bar_separation": 1.42,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_240.png",
+    "rail_convergence": 0.24,
+    "bar_length": 2.68,
+    "bar_separation": 2.26,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_241.png",
+    "rail_convergence": 0.59,
+    "bar_length": 2.31,
+    "bar_separation": 2.1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_242.png",
+    "rail_convergence": 0.56,
+    "bar_length": 3.47,
+    "bar_separation": 2.3,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_243.png",
+    "rail_convergence": 0.45,
+    "bar_length": 2.37,
+    "bar_separation": 1.02,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_244.png",
+    "rail_convergence": 0.28,
+    "bar_length": 1.59,
+    "bar_separation": 2.06,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_245.png",
+    "rail_convergence": 0.37,
+    "bar_length": 3.33,
+    "bar_separation": 1.43,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_246.png",
+    "rail_convergence": 0.49,
+    "bar_length": 2.88,
+    "bar_separation": 2.4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_247.png",
+    "rail_convergence": 0.51,
+    "bar_length": 1.91,
+    "bar_separation": 1.97,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_248.png",
+    "rail_convergence": 0.52,
+    "bar_length": 3.23,
+    "bar_separation": 2.1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_249.png",
+    "rail_convergence": 0.31,
+    "bar_length": 1.66,
+    "bar_separation": 1.42,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_250.png",
+    "rail_convergence": 0.6,
+    "bar_length": 3.46,
+    "bar_separation": 2.46,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_251.png",
+    "rail_convergence": 0.48,
+    "bar_length": 1.94,
+    "bar_separation": 2.77,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_252.png",
+    "rail_convergence": 0.43,
+    "bar_length": 3.17,
+    "bar_separation": 1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_253.png",
+    "rail_convergence": 0.2,
+    "bar_length": 2.57,
+    "bar_separation": 2.88,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_254.png",
+    "rail_convergence": 0.5,
+    "bar_length": 1.58,
+    "bar_separation": 2.65,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_255.png",
+    "rail_convergence": 0.23,
+    "bar_length": 2.58,
+    "bar_separation": 2.58,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_256.png",
+    "rail_convergence": 0.48,
+    "bar_length": 1.52,
+    "bar_separation": 2.17,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_257.png",
+    "rail_convergence": 0.55,
+    "bar_length": 1.68,
+    "bar_separation": 1.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_258.png",
+    "rail_convergence": 0.55,
+    "bar_length": 2.72,
+    "bar_separation": 1.67,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_259.png",
+    "rail_convergence": 0.17,
+    "bar_length": 1.53,
+    "bar_separation": 1.17,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_260.png",
+    "rail_convergence": 0.39,
+    "bar_length": 2.19,
+    "bar_separation": 1.51,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_261.png",
+    "rail_convergence": 0.43,
+    "bar_length": 3.14,
+    "bar_separation": 1.53,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_262.png",
+    "rail_convergence": 0.23,
+    "bar_length": 2.9,
+    "bar_separation": 1.94,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_263.png",
+    "rail_convergence": 0.57,
+    "bar_length": 1.53,
+    "bar_separation": 1.6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_264.png",
+    "rail_convergence": 0.33,
+    "bar_length": 2.74,
+    "bar_separation": 1.74,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_265.png",
+    "rail_convergence": 0.36,
+    "bar_length": 3.33,
+    "bar_separation": 2.99,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_266.png",
+    "rail_convergence": 0.47,
+    "bar_length": 2.62,
+    "bar_separation": 1.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_267.png",
+    "rail_convergence": 0.32,
+    "bar_length": 2.2,
+    "bar_separation": 1.59,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_268.png",
+    "rail_convergence": 0.16,
+    "bar_length": 3.37,
+    "bar_separation": 2.66,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_269.png",
+    "rail_convergence": 0.56,
+    "bar_length": 2.68,
+    "bar_separation": 2.36,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_270.png",
+    "rail_convergence": 0.35,
+    "bar_length": 2.88,
+    "bar_separation": 2.71,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_271.png",
+    "rail_convergence": 0.57,
+    "bar_length": 3.12,
+    "bar_separation": 1.41,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_272.png",
+    "rail_convergence": 0.55,
+    "bar_length": 1.74,
+    "bar_separation": 2.66,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_273.png",
+    "rail_convergence": 0.54,
+    "bar_length": 3.19,
+    "bar_separation": 1.44,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_274.png",
+    "rail_convergence": 0.33,
+    "bar_length": 1.59,
+    "bar_separation": 1.58,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_275.png",
+    "rail_convergence": 0.46,
+    "bar_length": 1.87,
+    "bar_separation": 1.42,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_276.png",
+    "rail_convergence": 0.56,
+    "bar_length": 3.23,
+    "bar_separation": 2.19,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_277.png",
+    "rail_convergence": 0.32,
+    "bar_length": 1.86,
+    "bar_separation": 1.93,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_278.png",
+    "rail_convergence": 0.25,
+    "bar_length": 2.11,
+    "bar_separation": 1.48,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_279.png",
+    "rail_convergence": 0.49,
+    "bar_length": 2.25,
+    "bar_separation": 2.88,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_280.png",
+    "rail_convergence": 0.54,
+    "bar_length": 1.52,
+    "bar_separation": 1.38,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_281.png",
+    "rail_convergence": 0.45,
+    "bar_length": 1.56,
+    "bar_separation": 1.51,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_282.png",
+    "rail_convergence": 0.24,
+    "bar_length": 3.22,
+    "bar_separation": 2.87,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_283.png",
+    "rail_convergence": 0.17,
+    "bar_length": 1.86,
+    "bar_separation": 1.77,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_284.png",
+    "rail_convergence": 0.49,
+    "bar_length": 3.28,
+    "bar_separation": 1.59,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_285.png",
+    "rail_convergence": 0.55,
+    "bar_length": 2.58,
+    "bar_separation": 2.06,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_286.png",
+    "rail_convergence": 0.37,
+    "bar_length": 1.91,
+    "bar_separation": 1.27,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_287.png",
+    "rail_convergence": 0.46,
+    "bar_length": 3.17,
+    "bar_separation": 2.29,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_288.png",
+    "rail_convergence": 0.45,
+    "bar_length": 1.52,
+    "bar_separation": 1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_289.png",
+    "rail_convergence": 0.41,
+    "bar_length": 1.89,
+    "bar_separation": 1.9,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_290.png",
+    "rail_convergence": 0.39,
+    "bar_length": 2.75,
+    "bar_separation": 2.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_291.png",
+    "rail_convergence": 0.56,
+    "bar_length": 2.29,
+    "bar_separation": 1.9,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_292.png",
+    "rail_convergence": 0.16,
+    "bar_length": 3.5,
+    "bar_separation": 2.5,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_293.png",
+    "rail_convergence": 0.21,
+    "bar_length": 2.04,
+    "bar_separation": 1.54,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_294.png",
+    "rail_convergence": 0.57,
+    "bar_length": 3.02,
+    "bar_separation": 2.83,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_295.png",
+    "rail_convergence": 0.18,
+    "bar_length": 3.17,
+    "bar_separation": 1.5,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_296.png",
+    "rail_convergence": 0.56,
+    "bar_length": 2.79,
+    "bar_separation": 2.82,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_297.png",
+    "rail_convergence": 0.45,
+    "bar_length": 2.78,
+    "bar_separation": 1.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_298.png",
+    "rail_convergence": 0.45,
+    "bar_length": 2.43,
+    "bar_separation": 2.33,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_299.png",
+    "rail_convergence": 0.42,
+    "bar_length": 2.4,
+    "bar_separation": 1.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_300.png",
+    "rail_convergence": 0.47,
+    "bar_length": 2.95,
+    "bar_separation": 1.15,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_301.png",
+    "rail_convergence": 0.24,
+    "bar_length": 2.76,
+    "bar_separation": 2.6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_302.png",
+    "rail_convergence": 0.55,
+    "bar_length": 2.7,
+    "bar_separation": 2.51,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_303.png",
+    "rail_convergence": 0.29,
+    "bar_length": 2.69,
+    "bar_separation": 1.72,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_304.png",
+    "rail_convergence": 0.22,
+    "bar_length": 2.35,
+    "bar_separation": 1.04,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_305.png",
+    "rail_convergence": 0.36,
+    "bar_length": 2.99,
+    "bar_separation": 1.31,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_306.png",
+    "rail_convergence": 0.23,
+    "bar_length": 3.17,
+    "bar_separation": 1.27,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_307.png",
+    "rail_convergence": 0.47,
+    "bar_length": 2.34,
+    "bar_separation": 2.5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_308.png",
+    "rail_convergence": 0.28,
+    "bar_length": 3.07,
+    "bar_separation": 2.47,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_309.png",
+    "rail_convergence": 0.26,
+    "bar_length": 2.78,
+    "bar_separation": 2.51,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_310.png",
+    "rail_convergence": 0.49,
+    "bar_length": 2.85,
+    "bar_separation": 1.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_311.png",
+    "rail_convergence": 0.46,
+    "bar_length": 2.81,
+    "bar_separation": 2.73,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_312.png",
+    "rail_convergence": 0.43,
+    "bar_length": 2.72,
+    "bar_separation": 2.18,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_313.png",
+    "rail_convergence": 0.3,
+    "bar_length": 2.11,
+    "bar_separation": 2.08,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_314.png",
+    "rail_convergence": 0.3,
+    "bar_length": 2.88,
+    "bar_separation": 2.36,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_315.png",
+    "rail_convergence": 0.56,
+    "bar_length": 2.96,
+    "bar_separation": 1.54,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_316.png",
+    "rail_convergence": 0.43,
+    "bar_length": 1.58,
+    "bar_separation": 1.62,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_317.png",
+    "rail_convergence": 0.5,
+    "bar_length": 2.95,
+    "bar_separation": 1.83,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_318.png",
+    "rail_convergence": 0.23,
+    "bar_length": 2.76,
+    "bar_separation": 1.18,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_319.png",
+    "rail_convergence": 0.42,
+    "bar_length": 2.31,
+    "bar_separation": 1.01,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_320.png",
+    "rail_convergence": 0.28,
+    "bar_length": 3.22,
+    "bar_separation": 2.47,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_321.png",
+    "rail_convergence": 0.59,
+    "bar_length": 1.68,
+    "bar_separation": 1.36,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_322.png",
+    "rail_convergence": 0.56,
+    "bar_length": 2.33,
+    "bar_separation": 2.26,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_323.png",
+    "rail_convergence": 0.46,
+    "bar_length": 1.54,
+    "bar_separation": 2.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_324.png",
+    "rail_convergence": 0.5,
+    "bar_length": 1.99,
+    "bar_separation": 1.69,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_325.png",
+    "rail_convergence": 0.52,
+    "bar_length": 2.83,
+    "bar_separation": 2.94,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_326.png",
+    "rail_convergence": 0.4,
+    "bar_length": 1.73,
+    "bar_separation": 1.33,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_327.png",
+    "rail_convergence": 0.33,
+    "bar_length": 2.74,
+    "bar_separation": 1.27,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_328.png",
+    "rail_convergence": 0.48,
+    "bar_length": 3.27,
+    "bar_separation": 1.42,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_329.png",
+    "rail_convergence": 0.54,
+    "bar_length": 2.69,
+    "bar_separation": 2.93,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_330.png",
+    "rail_convergence": 0.42,
+    "bar_length": 2.26,
+    "bar_separation": 1.48,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_331.png",
+    "rail_convergence": 0.44,
+    "bar_length": 2.53,
+    "bar_separation": 1.18,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_332.png",
+    "rail_convergence": 0.27,
+    "bar_length": 1.51,
+    "bar_separation": 1.72,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_333.png",
+    "rail_convergence": 0.39,
+    "bar_length": 2.76,
+    "bar_separation": 2.51,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_334.png",
+    "rail_convergence": 0.22,
+    "bar_length": 2.66,
+    "bar_separation": 2.96,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_335.png",
+    "rail_convergence": 0.27,
+    "bar_length": 2.05,
+    "bar_separation": 2.91,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_336.png",
+    "rail_convergence": 0.24,
+    "bar_length": 3.42,
+    "bar_separation": 2.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_337.png",
+    "rail_convergence": 0.43,
+    "bar_length": 2.48,
+    "bar_separation": 1.59,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_338.png",
+    "rail_convergence": 0.58,
+    "bar_length": 2.43,
+    "bar_separation": 2.57,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_339.png",
+    "rail_convergence": 0.5,
+    "bar_length": 3.04,
+    "bar_separation": 1.76,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_340.png",
+    "rail_convergence": 0.38,
+    "bar_length": 3.32,
+    "bar_separation": 2.72,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_341.png",
+    "rail_convergence": 0.53,
+    "bar_length": 2.74,
+    "bar_separation": 2.46,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_342.png",
+    "rail_convergence": 0.54,
+    "bar_length": 3.12,
+    "bar_separation": 1.74,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_343.png",
+    "rail_convergence": 0.58,
+    "bar_length": 2.23,
+    "bar_separation": 1.2,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_344.png",
+    "rail_convergence": 0.46,
+    "bar_length": 1.6,
+    "bar_separation": 2.49,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_345.png",
+    "rail_convergence": 0.54,
+    "bar_length": 3.09,
+    "bar_separation": 2.58,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_346.png",
+    "rail_convergence": 0.35,
+    "bar_length": 3.45,
+    "bar_separation": 1.58,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_347.png",
+    "rail_convergence": 0.21,
+    "bar_length": 3.15,
+    "bar_separation": 2.25,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_348.png",
+    "rail_convergence": 0.38,
+    "bar_length": 2.88,
+    "bar_separation": 1.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_349.png",
+    "rail_convergence": 0.17,
+    "bar_length": 3.17,
+    "bar_separation": 2.81,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_350.png",
+    "rail_convergence": 0.24,
+    "bar_length": 2.08,
+    "bar_separation": 1.6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_351.png",
+    "rail_convergence": 0.27,
+    "bar_length": 3.04,
+    "bar_separation": 2.58,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_352.png",
+    "rail_convergence": 0.56,
+    "bar_length": 2.16,
+    "bar_separation": 2.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_353.png",
+    "rail_convergence": 0.15,
+    "bar_length": 3.05,
+    "bar_separation": 2.61,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_354.png",
+    "rail_convergence": 0.27,
+    "bar_length": 1.77,
+    "bar_separation": 1.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_355.png",
+    "rail_convergence": 0.41,
+    "bar_length": 3,
+    "bar_separation": 2.43,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_356.png",
+    "rail_convergence": 0.4,
+    "bar_length": 2.01,
+    "bar_separation": 1.15,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_357.png",
+    "rail_convergence": 0.21,
+    "bar_length": 2.47,
+    "bar_separation": 2.29,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_358.png",
+    "rail_convergence": 0.36,
+    "bar_length": 3.25,
+    "bar_separation": 2.7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_359.png",
+    "rail_convergence": 0.25,
+    "bar_length": 1.54,
+    "bar_separation": 2.83,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_360.png",
+    "rail_convergence": 0.53,
+    "bar_length": 2.68,
+    "bar_separation": 1.58,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_361.png",
+    "rail_convergence": 0.41,
+    "bar_length": 3.22,
+    "bar_separation": 2.71,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_362.png",
+    "rail_convergence": 0.52,
+    "bar_length": 1.74,
+    "bar_separation": 1.86,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_363.png",
+    "rail_convergence": 0.33,
+    "bar_length": 1.91,
+    "bar_separation": 2.92,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_364.png",
+    "rail_convergence": 0.25,
+    "bar_length": 2.82,
+    "bar_separation": 1.89,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_365.png",
+    "rail_convergence": 0.37,
+    "bar_length": 2.33,
+    "bar_separation": 1.55,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_366.png",
+    "rail_convergence": 0.26,
+    "bar_length": 1.53,
+    "bar_separation": 1.53,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_367.png",
+    "rail_convergence": 0.53,
+    "bar_length": 1.58,
+    "bar_separation": 1.35,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_368.png",
+    "rail_convergence": 0.17,
+    "bar_length": 2.27,
+    "bar_separation": 1.76,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_369.png",
+    "rail_convergence": 0.33,
+    "bar_length": 1.5,
+    "bar_separation": 1.03,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_370.png",
+    "rail_convergence": 0.4,
+    "bar_length": 2.81,
+    "bar_separation": 2.17,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_371.png",
+    "rail_convergence": 0.43,
+    "bar_length": 3.17,
+    "bar_separation": 1.04,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_372.png",
+    "rail_convergence": 0.25,
+    "bar_length": 3.22,
+    "bar_separation": 1.66,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_373.png",
+    "rail_convergence": 0.29,
+    "bar_length": 2.58,
+    "bar_separation": 1.73,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_374.png",
+    "rail_convergence": 0.51,
+    "bar_length": 2.77,
+    "bar_separation": 1.5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_375.png",
+    "rail_convergence": 0.36,
+    "bar_length": 2.72,
+    "bar_separation": 1.12,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_376.png",
+    "rail_convergence": 0.44,
+    "bar_length": 3.41,
+    "bar_separation": 2.43,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_377.png",
+    "rail_convergence": 0.16,
+    "bar_length": 1.96,
+    "bar_separation": 1.72,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_378.png",
+    "rail_convergence": 0.46,
+    "bar_length": 1.98,
+    "bar_separation": 2.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_379.png",
+    "rail_convergence": 0.27,
+    "bar_length": 3.37,
+    "bar_separation": 1.82,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_380.png",
+    "rail_convergence": 0.42,
+    "bar_length": 2.63,
+    "bar_separation": 2.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_381.png",
+    "rail_convergence": 0.46,
+    "bar_length": 2.72,
+    "bar_separation": 1.99,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_382.png",
+    "rail_convergence": 0.22,
+    "bar_length": 3.01,
+    "bar_separation": 1.92,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_383.png",
+    "rail_convergence": 0.19,
+    "bar_length": 2.63,
+    "bar_separation": 2.48,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_384.png",
+    "rail_convergence": 0.59,
+    "bar_length": 2.31,
+    "bar_separation": 1.76,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_385.png",
+    "rail_convergence": 0.33,
+    "bar_length": 2.28,
+    "bar_separation": 2.59,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_386.png",
+    "rail_convergence": 0.58,
+    "bar_length": 2.26,
+    "bar_separation": 1.79,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_387.png",
+    "rail_convergence": 0.24,
+    "bar_length": 3.21,
+    "bar_separation": 1.07,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_388.png",
+    "rail_convergence": 0.17,
+    "bar_length": 2.71,
+    "bar_separation": 2.58,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_389.png",
+    "rail_convergence": 0.25,
+    "bar_length": 2.13,
+    "bar_separation": 1.1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_390.png",
+    "rail_convergence": 0.59,
+    "bar_length": 3.11,
+    "bar_separation": 1.47,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_391.png",
+    "rail_convergence": 0.46,
+    "bar_length": 2.78,
+    "bar_separation": 1.81,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_392.png",
+    "rail_convergence": 0.54,
+    "bar_length": 2.56,
+    "bar_separation": 1.52,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_393.png",
+    "rail_convergence": 0.36,
+    "bar_length": 2.18,
+    "bar_separation": 2.05,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_394.png",
+    "rail_convergence": 0.29,
+    "bar_length": 2.81,
+    "bar_separation": 2.58,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_395.png",
+    "rail_convergence": 0.52,
+    "bar_length": 2.42,
+    "bar_separation": 1.19,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_396.png",
+    "rail_convergence": 0.51,
+    "bar_length": 2.7,
+    "bar_separation": 1.98,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_397.png",
+    "rail_convergence": 0.47,
+    "bar_length": 2.89,
+    "bar_separation": 2.53,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_398.png",
+    "rail_convergence": 0.58,
+    "bar_length": 2.91,
+    "bar_separation": 1.9,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_399.png",
+    "rail_convergence": 0.4,
+    "bar_length": 2.47,
+    "bar_separation": 1.72,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_400.png",
+    "rail_convergence": 0.45,
+    "bar_length": 2.04,
+    "bar_separation": 2.25,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_401.png",
+    "rail_convergence": 0.43,
+    "bar_length": 2.96,
+    "bar_separation": 1.67,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_402.png",
+    "rail_convergence": 0.19,
+    "bar_length": 1.77,
+    "bar_separation": 2.56,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_403.png",
+    "rail_convergence": 0.15,
+    "bar_length": 3.48,
+    "bar_separation": 1.66,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_404.png",
+    "rail_convergence": 0.47,
+    "bar_length": 1.75,
+    "bar_separation": 2.54,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_405.png",
+    "rail_convergence": 0.33,
+    "bar_length": 3.31,
+    "bar_separation": 2.05,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_406.png",
+    "rail_convergence": 0.51,
+    "bar_length": 2.83,
+    "bar_separation": 2.44,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_407.png",
+    "rail_convergence": 0.46,
+    "bar_length": 3.1,
+    "bar_separation": 1.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_408.png",
+    "rail_convergence": 0.28,
+    "bar_length": 3,
+    "bar_separation": 2.37,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_409.png",
+    "rail_convergence": 0.36,
+    "bar_length": 2.68,
+    "bar_separation": 1.81,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_410.png",
+    "rail_convergence": 0.59,
+    "bar_length": 2.75,
+    "bar_separation": 2.85,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_411.png",
+    "rail_convergence": 0.58,
+    "bar_length": 3.24,
+    "bar_separation": 1.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_412.png",
+    "rail_convergence": 0.38,
+    "bar_length": 2.73,
+    "bar_separation": 2.01,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_413.png",
+    "rail_convergence": 0.41,
+    "bar_length": 1.8,
+    "bar_separation": 1.69,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_414.png",
+    "rail_convergence": 0.39,
+    "bar_length": 2.14,
+    "bar_separation": 2.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_415.png",
+    "rail_convergence": 0.23,
+    "bar_length": 3.5,
+    "bar_separation": 1.83,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_416.png",
+    "rail_convergence": 0.24,
+    "bar_length": 2.69,
+    "bar_separation": 1.59,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_417.png",
+    "rail_convergence": 0.29,
+    "bar_length": 3.01,
+    "bar_separation": 2.67,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_418.png",
+    "rail_convergence": 0.55,
+    "bar_length": 1.74,
+    "bar_separation": 1.46,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_419.png",
+    "rail_convergence": 0.51,
+    "bar_length": 2.14,
+    "bar_separation": 1.75,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_420.png",
+    "rail_convergence": 0.49,
+    "bar_length": 3.36,
+    "bar_separation": 1.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_421.png",
+    "rail_convergence": 0.33,
+    "bar_length": 3.2,
+    "bar_separation": 2.64,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_422.png",
+    "rail_convergence": 0.55,
+    "bar_length": 1.77,
+    "bar_separation": 2.04,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_423.png",
+    "rail_convergence": 0.59,
+    "bar_length": 3.41,
+    "bar_separation": 2.22,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_424.png",
+    "rail_convergence": 0.58,
+    "bar_length": 2.49,
+    "bar_separation": 1.95,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_425.png",
+    "rail_convergence": 0.23,
+    "bar_length": 2.69,
+    "bar_separation": 2.86,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_426.png",
+    "rail_convergence": 0.54,
+    "bar_length": 3.32,
+    "bar_separation": 2.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_427.png",
+    "rail_convergence": 0.39,
+    "bar_length": 1.76,
+    "bar_separation": 1.37,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_428.png",
+    "rail_convergence": 0.27,
+    "bar_length": 2.89,
+    "bar_separation": 1.71,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_429.png",
+    "rail_convergence": 0.27,
+    "bar_length": 2.9,
+    "bar_separation": 2.5,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_430.png",
+    "rail_convergence": 0.43,
+    "bar_length": 3.36,
+    "bar_separation": 2.09,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_431.png",
+    "rail_convergence": 0.21,
+    "bar_length": 3.23,
+    "bar_separation": 1.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_432.png",
+    "rail_convergence": 0.26,
+    "bar_length": 2.45,
+    "bar_separation": 2.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_433.png",
+    "rail_convergence": 0.43,
+    "bar_length": 1.8,
+    "bar_separation": 1.83,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_434.png",
+    "rail_convergence": 0.41,
+    "bar_length": 1.93,
+    "bar_separation": 1.49,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_435.png",
+    "rail_convergence": 0.47,
+    "bar_length": 2.56,
+    "bar_separation": 1.71,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_436.png",
+    "rail_convergence": 0.36,
+    "bar_length": 2.89,
+    "bar_separation": 2.77,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_437.png",
+    "rail_convergence": 0.34,
+    "bar_length": 2.4,
+    "bar_separation": 1.85,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_438.png",
+    "rail_convergence": 0.3,
+    "bar_length": 2.2,
+    "bar_separation": 2.35,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_439.png",
+    "rail_convergence": 0.6,
+    "bar_length": 3.01,
+    "bar_separation": 2.03,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_440.png",
+    "rail_convergence": 0.22,
+    "bar_length": 2.15,
+    "bar_separation": 1.22,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_441.png",
+    "rail_convergence": 0.56,
+    "bar_length": 1.73,
+    "bar_separation": 1.15,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_442.png",
+    "rail_convergence": 0.27,
+    "bar_length": 1.71,
+    "bar_separation": 2.72,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_443.png",
+    "rail_convergence": 0.5,
+    "bar_length": 1.76,
+    "bar_separation": 1.51,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_444.png",
+    "rail_convergence": 0.4,
+    "bar_length": 1.95,
+    "bar_separation": 2.26,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_445.png",
+    "rail_convergence": 0.58,
+    "bar_length": 1.58,
+    "bar_separation": 2.63,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_446.png",
+    "rail_convergence": 0.59,
+    "bar_length": 3.39,
+    "bar_separation": 1.66,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_447.png",
+    "rail_convergence": 0.34,
+    "bar_length": 1.93,
+    "bar_separation": 1.02,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_448.png",
+    "rail_convergence": 0.26,
+    "bar_length": 1.82,
+    "bar_separation": 1.73,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_449.png",
+    "rail_convergence": 0.48,
+    "bar_length": 3.08,
+    "bar_separation": 1.46,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_450.png",
+    "rail_convergence": 0.41,
+    "bar_length": 2.97,
+    "bar_separation": 2.43,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_451.png",
+    "rail_convergence": 0.17,
+    "bar_length": 3.07,
+    "bar_separation": 2.19,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_452.png",
+    "rail_convergence": 0.47,
+    "bar_length": 3.2,
+    "bar_separation": 2.85,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_453.png",
+    "rail_convergence": 0.25,
+    "bar_length": 2.66,
+    "bar_separation": 2.01,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_454.png",
+    "rail_convergence": 0.28,
+    "bar_length": 3.14,
+    "bar_separation": 2.54,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_455.png",
+    "rail_convergence": 0.18,
+    "bar_length": 1.73,
+    "bar_separation": 1.12,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_456.png",
+    "rail_convergence": 0.37,
+    "bar_length": 1.63,
+    "bar_separation": 2.79,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_457.png",
+    "rail_convergence": 0.35,
+    "bar_length": 3.33,
+    "bar_separation": 2.26,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_458.png",
+    "rail_convergence": 0.6,
+    "bar_length": 3.46,
+    "bar_separation": 1.77,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_459.png",
+    "rail_convergence": 0.51,
+    "bar_length": 3.43,
+    "bar_separation": 2.98,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_460.png",
+    "rail_convergence": 0.32,
+    "bar_length": 1.55,
+    "bar_separation": 2.59,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_461.png",
+    "rail_convergence": 0.44,
+    "bar_length": 3.29,
+    "bar_separation": 1.76,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_462.png",
+    "rail_convergence": 0.34,
+    "bar_length": 3.42,
+    "bar_separation": 2.49,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_463.png",
+    "rail_convergence": 0.42,
+    "bar_length": 1.63,
+    "bar_separation": 2.59,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_464.png",
+    "rail_convergence": 0.35,
+    "bar_length": 3.09,
+    "bar_separation": 2.88,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_465.png",
+    "rail_convergence": 0.38,
+    "bar_length": 3.4,
+    "bar_separation": 2.62,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_466.png",
+    "rail_convergence": 0.48,
+    "bar_length": 3.31,
+    "bar_separation": 1.78,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_467.png",
+    "rail_convergence": 0.3,
+    "bar_length": 3.43,
+    "bar_separation": 2.85,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_468.png",
+    "rail_convergence": 0.24,
+    "bar_length": 2.03,
+    "bar_separation": 1.72,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_469.png",
+    "rail_convergence": 0.41,
+    "bar_length": 3.19,
+    "bar_separation": 1.37,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_470.png",
+    "rail_convergence": 0.31,
+    "bar_length": 1.63,
+    "bar_separation": 1.36,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_471.png",
+    "rail_convergence": 0.31,
+    "bar_length": 2.33,
+    "bar_separation": 2.6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_472.png",
+    "rail_convergence": 0.36,
+    "bar_length": 2.3,
+    "bar_separation": 2.73,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_473.png",
+    "rail_convergence": 0.45,
+    "bar_length": 2.88,
+    "bar_separation": 1.62,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_474.png",
+    "rail_convergence": 0.36,
+    "bar_length": 2.87,
+    "bar_separation": 1.05,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_475.png",
+    "rail_convergence": 0.4,
+    "bar_length": 3.18,
+    "bar_separation": 2.12,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_476.png",
+    "rail_convergence": 0.34,
+    "bar_length": 1.55,
+    "bar_separation": 1.84,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_477.png",
+    "rail_convergence": 0.55,
+    "bar_length": 2.92,
+    "bar_separation": 2.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_478.png",
+    "rail_convergence": 0.51,
+    "bar_length": 3.12,
+    "bar_separation": 2.05,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_479.png",
+    "rail_convergence": 0.47,
+    "bar_length": 3.41,
+    "bar_separation": 2.04,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_480.png",
+    "rail_convergence": 0.46,
+    "bar_length": 2.78,
+    "bar_separation": 2.7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_481.png",
+    "rail_convergence": 0.53,
+    "bar_length": 2.91,
+    "bar_separation": 2.57,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_482.png",
+    "rail_convergence": 0.45,
+    "bar_length": 2.83,
+    "bar_separation": 1.1,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_483.png",
+    "rail_convergence": 0.26,
+    "bar_length": 2.99,
+    "bar_separation": 2.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_484.png",
+    "rail_convergence": 0.57,
+    "bar_length": 2.16,
+    "bar_separation": 2.37,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_485.png",
+    "rail_convergence": 0.56,
+    "bar_length": 2.89,
+    "bar_separation": 1.5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_486.png",
+    "rail_convergence": 0.23,
+    "bar_length": 1.66,
+    "bar_separation": 1.4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_487.png",
+    "rail_convergence": 0.43,
+    "bar_length": 1.93,
+    "bar_separation": 1.49,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_488.png",
+    "rail_convergence": 0.26,
+    "bar_length": 1.76,
+    "bar_separation": 1.59,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_489.png",
+    "rail_convergence": 0.46,
+    "bar_length": 3.29,
+    "bar_separation": 2.79,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_490.png",
+    "rail_convergence": 0.45,
+    "bar_length": 3.44,
+    "bar_separation": 1.58,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_491.png",
+    "rail_convergence": 0.44,
+    "bar_length": 2.38,
+    "bar_separation": 1.37,
+    "is_illusion_active": false
+  },
+  {
+    "image": "ponzo_492.png",
+    "rail_convergence": 0.18,
+    "bar_length": 2.13,
+    "bar_separation": 2.27,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_493.png",
+    "rail_convergence": 0.28,
+    "bar_length": 2.84,
+    "bar_separation": 1.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_494.png",
+    "rail_convergence": 0.21,
+    "bar_length": 1.8,
+    "bar_separation": 1.98,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_495.png",
+    "rail_convergence": 0.48,
+    "bar_length": 2,
+    "bar_separation": 1.65,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_496.png",
+    "rail_convergence": 0.19,
+    "bar_length": 2.12,
+    "bar_separation": 1.7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_497.png",
+    "rail_convergence": 0.38,
+    "bar_length": 2.69,
+    "bar_separation": 2.72,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_498.png",
+    "rail_convergence": 0.53,
+    "bar_length": 1.52,
+    "bar_separation": 1.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_499.png",
+    "rail_convergence": 0.31,
+    "bar_length": 2.95,
+    "bar_separation": 1.67,
+    "is_illusion_active": true
+  },
+  {
+    "image": "ponzo_500.png",
+    "rail_convergence": 0.39,
+    "bar_length": 3.19,
+    "bar_separation": 1.28,
+    "is_illusion_active": true
+  }
+]

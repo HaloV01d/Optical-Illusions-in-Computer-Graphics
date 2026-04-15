@@ -1,0 +1,3502 @@
+[
+  {
+    "image": "mach_band_001.png",
+    "contrast": 0.57,
+    "band_count": 4,
+    "min_luminance": 0.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_002.png",
+    "contrast": 0.36,
+    "band_count": 4,
+    "min_luminance": 0.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_003.png",
+    "contrast": 0.38,
+    "band_count": 6,
+    "min_luminance": 0.29,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_004.png",
+    "contrast": 0.87,
+    "band_count": 9,
+    "min_luminance": 0.14,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_005.png",
+    "contrast": 0.99,
+    "band_count": 6,
+    "min_luminance": 0.05,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_006.png",
+    "contrast": 0.41,
+    "band_count": 10,
+    "min_luminance": 0.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_007.png",
+    "contrast": 0.46,
+    "band_count": 5,
+    "min_luminance": 0.17,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_008.png",
+    "contrast": 0.55,
+    "band_count": 7,
+    "min_luminance": 0.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_009.png",
+    "contrast": 0.94,
+    "band_count": 7,
+    "min_luminance": 0.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_010.png",
+    "contrast": 0.83,
+    "band_count": 9,
+    "min_luminance": 0.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_011.png",
+    "contrast": 0.46,
+    "band_count": 4,
+    "min_luminance": 0.1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_012.png",
+    "contrast": 0.97,
+    "band_count": 5,
+    "min_luminance": 0.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_013.png",
+    "contrast": 0.96,
+    "band_count": 4,
+    "min_luminance": 0.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_014.png",
+    "contrast": 0.97,
+    "band_count": 8,
+    "min_luminance": 0.1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_015.png",
+    "contrast": 0.56,
+    "band_count": 9,
+    "min_luminance": 0.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_016.png",
+    "contrast": 0.74,
+    "band_count": 10,
+    "min_luminance": 0.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_017.png",
+    "contrast": 0.43,
+    "band_count": 10,
+    "min_luminance": 0.19,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_018.png",
+    "contrast": 0.67,
+    "band_count": 5,
+    "min_luminance": 0.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_019.png",
+    "contrast": 0.74,
+    "band_count": 9,
+    "min_luminance": 0.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_020.png",
+    "contrast": 0.7,
+    "band_count": 10,
+    "min_luminance": 0.16,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_021.png",
+    "contrast": 0.9,
+    "band_count": 10,
+    "min_luminance": 0.15,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_022.png",
+    "contrast": 0.46,
+    "band_count": 9,
+    "min_luminance": 0.06,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_023.png",
+    "contrast": 0.65,
+    "band_count": 9,
+    "min_luminance": 0.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_024.png",
+    "contrast": 0.91,
+    "band_count": 8,
+    "min_luminance": 0.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_025.png",
+    "contrast": 0.69,
+    "band_count": 9,
+    "min_luminance": 0.22,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_026.png",
+    "contrast": 0.67,
+    "band_count": 4,
+    "min_luminance": 0.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_027.png",
+    "contrast": 0.62,
+    "band_count": 5,
+    "min_luminance": 0.07,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_028.png",
+    "contrast": 0.9,
+    "band_count": 9,
+    "min_luminance": 0.06,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_029.png",
+    "contrast": 0.94,
+    "band_count": 9,
+    "min_luminance": 0.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_030.png",
+    "contrast": 0.65,
+    "band_count": 10,
+    "min_luminance": 0.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_031.png",
+    "contrast": 0.45,
+    "band_count": 6,
+    "min_luminance": 0.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_032.png",
+    "contrast": 0.99,
+    "band_count": 9,
+    "min_luminance": 0.14,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_033.png",
+    "contrast": 0.87,
+    "band_count": 10,
+    "min_luminance": 0.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_034.png",
+    "contrast": 0.79,
+    "band_count": 5,
+    "min_luminance": 0.19,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_035.png",
+    "contrast": 0.84,
+    "band_count": 9,
+    "min_luminance": 0.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_036.png",
+    "contrast": 0.62,
+    "band_count": 8,
+    "min_luminance": 0.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_037.png",
+    "contrast": 0.5,
+    "band_count": 7,
+    "min_luminance": 0.12,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_038.png",
+    "contrast": 0.68,
+    "band_count": 10,
+    "min_luminance": 0.15,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_039.png",
+    "contrast": 0.81,
+    "band_count": 7,
+    "min_luminance": 0.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_040.png",
+    "contrast": 0.47,
+    "band_count": 7,
+    "min_luminance": 0.1,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_041.png",
+    "contrast": 0.31,
+    "band_count": 9,
+    "min_luminance": 0.26,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_042.png",
+    "contrast": 0.88,
+    "band_count": 5,
+    "min_luminance": 0.19,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_043.png",
+    "contrast": 0.78,
+    "band_count": 9,
+    "min_luminance": 0.06,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_044.png",
+    "contrast": 0.86,
+    "band_count": 8,
+    "min_luminance": 0.08,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_045.png",
+    "contrast": 0.35,
+    "band_count": 10,
+    "min_luminance": 0.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_046.png",
+    "contrast": 0.39,
+    "band_count": 7,
+    "min_luminance": 0.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_047.png",
+    "contrast": 0.8,
+    "band_count": 9,
+    "min_luminance": 0.2,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_048.png",
+    "contrast": 0.49,
+    "band_count": 5,
+    "min_luminance": 0.15,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_049.png",
+    "contrast": 0.39,
+    "band_count": 7,
+    "min_luminance": 0.15,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_050.png",
+    "contrast": 0.92,
+    "band_count": 10,
+    "min_luminance": 0.09,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_051.png",
+    "contrast": 1,
+    "band_count": 7,
+    "min_luminance": 0.29,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_052.png",
+    "contrast": 0.62,
+    "band_count": 4,
+    "min_luminance": 0.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_053.png",
+    "contrast": 0.31,
+    "band_count": 5,
+    "min_luminance": 0.24,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_054.png",
+    "contrast": 0.6,
+    "band_count": 4,
+    "min_luminance": 0.11,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_055.png",
+    "contrast": 0.45,
+    "band_count": 9,
+    "min_luminance": 0.2,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_056.png",
+    "contrast": 0.52,
+    "band_count": 5,
+    "min_luminance": 0.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_057.png",
+    "contrast": 0.49,
+    "band_count": 4,
+    "min_luminance": 0.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_058.png",
+    "contrast": 0.87,
+    "band_count": 5,
+    "min_luminance": 0.11,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_059.png",
+    "contrast": 0.57,
+    "band_count": 5,
+    "min_luminance": 0.29,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_060.png",
+    "contrast": 0.68,
+    "band_count": 9,
+    "min_luminance": 0.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_061.png",
+    "contrast": 0.66,
+    "band_count": 7,
+    "min_luminance": 0.06,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_062.png",
+    "contrast": 0.51,
+    "band_count": 4,
+    "min_luminance": 0.11,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_063.png",
+    "contrast": 0.94,
+    "band_count": 9,
+    "min_luminance": 0.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_064.png",
+    "contrast": 0.67,
+    "band_count": 9,
+    "min_luminance": 0.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_065.png",
+    "contrast": 0.37,
+    "band_count": 4,
+    "min_luminance": 0.29,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_066.png",
+    "contrast": 0.32,
+    "band_count": 8,
+    "min_luminance": 0.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_067.png",
+    "contrast": 0.69,
+    "band_count": 5,
+    "min_luminance": 0.17,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_068.png",
+    "contrast": 0.9,
+    "band_count": 7,
+    "min_luminance": 0.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_069.png",
+    "contrast": 0.46,
+    "band_count": 6,
+    "min_luminance": 0.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_070.png",
+    "contrast": 0.95,
+    "band_count": 10,
+    "min_luminance": 0.07,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_071.png",
+    "contrast": 0.61,
+    "band_count": 4,
+    "min_luminance": 0.28,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_072.png",
+    "contrast": 0.37,
+    "band_count": 5,
+    "min_luminance": 0.1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_073.png",
+    "contrast": 0.86,
+    "band_count": 8,
+    "min_luminance": 0.15,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_074.png",
+    "contrast": 0.7,
+    "band_count": 10,
+    "min_luminance": 0.17,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_075.png",
+    "contrast": 0.57,
+    "band_count": 5,
+    "min_luminance": 0.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_076.png",
+    "contrast": 0.39,
+    "band_count": 7,
+    "min_luminance": 0.19,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_077.png",
+    "contrast": 0.48,
+    "band_count": 4,
+    "min_luminance": 0.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_078.png",
+    "contrast": 0.39,
+    "band_count": 8,
+    "min_luminance": 0.27,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_079.png",
+    "contrast": 0.6,
+    "band_count": 8,
+    "min_luminance": 0.17,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_080.png",
+    "contrast": 0.81,
+    "band_count": 9,
+    "min_luminance": 0.15,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_081.png",
+    "contrast": 0.58,
+    "band_count": 9,
+    "min_luminance": 0.07,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_082.png",
+    "contrast": 0.86,
+    "band_count": 10,
+    "min_luminance": 0.09,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_083.png",
+    "contrast": 0.94,
+    "band_count": 7,
+    "min_luminance": 0.08,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_084.png",
+    "contrast": 0.65,
+    "band_count": 8,
+    "min_luminance": 0.27,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_085.png",
+    "contrast": 0.3,
+    "band_count": 9,
+    "min_luminance": 0.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_086.png",
+    "contrast": 0.61,
+    "band_count": 7,
+    "min_luminance": 0.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_087.png",
+    "contrast": 0.37,
+    "band_count": 8,
+    "min_luminance": 0.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_088.png",
+    "contrast": 0.75,
+    "band_count": 6,
+    "min_luminance": 0.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_089.png",
+    "contrast": 0.44,
+    "band_count": 10,
+    "min_luminance": 0.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_090.png",
+    "contrast": 0.85,
+    "band_count": 7,
+    "min_luminance": 0.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_091.png",
+    "contrast": 0.6,
+    "band_count": 9,
+    "min_luminance": 0.26,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_092.png",
+    "contrast": 0.79,
+    "band_count": 4,
+    "min_luminance": 0.11,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_093.png",
+    "contrast": 0.47,
+    "band_count": 6,
+    "min_luminance": 0.27,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_094.png",
+    "contrast": 0.33,
+    "band_count": 7,
+    "min_luminance": 0.27,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_095.png",
+    "contrast": 0.54,
+    "band_count": 4,
+    "min_luminance": 0.28,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_096.png",
+    "contrast": 0.36,
+    "band_count": 5,
+    "min_luminance": 0.09,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_097.png",
+    "contrast": 0.78,
+    "band_count": 9,
+    "min_luminance": 0.08,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_098.png",
+    "contrast": 0.44,
+    "band_count": 5,
+    "min_luminance": 0.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_099.png",
+    "contrast": 0.5,
+    "band_count": 5,
+    "min_luminance": 0.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_100.png",
+    "contrast": 0.84,
+    "band_count": 10,
+    "min_luminance": 0.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_101.png",
+    "contrast": 0.48,
+    "band_count": 9,
+    "min_luminance": 0.08,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_102.png",
+    "contrast": 0.95,
+    "band_count": 8,
+    "min_luminance": 0.1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_103.png",
+    "contrast": 0.41,
+    "band_count": 4,
+    "min_luminance": 0.09,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_104.png",
+    "contrast": 0.31,
+    "band_count": 5,
+    "min_luminance": 0.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_105.png",
+    "contrast": 0.31,
+    "band_count": 10,
+    "min_luminance": 0.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_106.png",
+    "contrast": 0.51,
+    "band_count": 9,
+    "min_luminance": 0.17,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_107.png",
+    "contrast": 0.76,
+    "band_count": 5,
+    "min_luminance": 0.2,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_108.png",
+    "contrast": 0.79,
+    "band_count": 8,
+    "min_luminance": 0.17,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_109.png",
+    "contrast": 0.4,
+    "band_count": 10,
+    "min_luminance": 0.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_110.png",
+    "contrast": 0.37,
+    "band_count": 10,
+    "min_luminance": 0.26,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_111.png",
+    "contrast": 0.65,
+    "band_count": 7,
+    "min_luminance": 0.08,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_112.png",
+    "contrast": 0.43,
+    "band_count": 7,
+    "min_luminance": 0.08,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_113.png",
+    "contrast": 0.39,
+    "band_count": 9,
+    "min_luminance": 0.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_114.png",
+    "contrast": 0.5,
+    "band_count": 7,
+    "min_luminance": 0.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_115.png",
+    "contrast": 0.94,
+    "band_count": 4,
+    "min_luminance": 0.3,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_116.png",
+    "contrast": 0.58,
+    "band_count": 7,
+    "min_luminance": 0.09,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_117.png",
+    "contrast": 0.86,
+    "band_count": 9,
+    "min_luminance": 0.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_118.png",
+    "contrast": 0.51,
+    "band_count": 6,
+    "min_luminance": 0.18,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_119.png",
+    "contrast": 0.66,
+    "band_count": 7,
+    "min_luminance": 0.11,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_120.png",
+    "contrast": 0.81,
+    "band_count": 7,
+    "min_luminance": 0.05,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_121.png",
+    "contrast": 0.86,
+    "band_count": 4,
+    "min_luminance": 0.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_122.png",
+    "contrast": 0.87,
+    "band_count": 5,
+    "min_luminance": 0.29,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_123.png",
+    "contrast": 0.76,
+    "band_count": 7,
+    "min_luminance": 0.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_124.png",
+    "contrast": 0.72,
+    "band_count": 10,
+    "min_luminance": 0.18,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_125.png",
+    "contrast": 0.42,
+    "band_count": 8,
+    "min_luminance": 0.22,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_126.png",
+    "contrast": 0.82,
+    "band_count": 10,
+    "min_luminance": 0.15,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_127.png",
+    "contrast": 0.31,
+    "band_count": 6,
+    "min_luminance": 0.19,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_128.png",
+    "contrast": 0.78,
+    "band_count": 9,
+    "min_luminance": 0.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_129.png",
+    "contrast": 0.6,
+    "band_count": 8,
+    "min_luminance": 0.26,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_130.png",
+    "contrast": 0.56,
+    "band_count": 8,
+    "min_luminance": 0.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_131.png",
+    "contrast": 0.38,
+    "band_count": 6,
+    "min_luminance": 0.17,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_132.png",
+    "contrast": 0.81,
+    "band_count": 10,
+    "min_luminance": 0.2,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_133.png",
+    "contrast": 0.96,
+    "band_count": 4,
+    "min_luminance": 0.07,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_134.png",
+    "contrast": 0.3,
+    "band_count": 5,
+    "min_luminance": 0.09,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_135.png",
+    "contrast": 0.9,
+    "band_count": 5,
+    "min_luminance": 0.17,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_136.png",
+    "contrast": 0.93,
+    "band_count": 6,
+    "min_luminance": 0.16,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_137.png",
+    "contrast": 0.4,
+    "band_count": 6,
+    "min_luminance": 0.1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_138.png",
+    "contrast": 0.56,
+    "band_count": 8,
+    "min_luminance": 0.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_139.png",
+    "contrast": 0.8,
+    "band_count": 5,
+    "min_luminance": 0.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_140.png",
+    "contrast": 0.96,
+    "band_count": 5,
+    "min_luminance": 0.15,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_141.png",
+    "contrast": 0.8,
+    "band_count": 4,
+    "min_luminance": 0.22,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_142.png",
+    "contrast": 0.31,
+    "band_count": 4,
+    "min_luminance": 0.14,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_143.png",
+    "contrast": 0.67,
+    "band_count": 10,
+    "min_luminance": 0.17,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_144.png",
+    "contrast": 0.82,
+    "band_count": 8,
+    "min_luminance": 0.19,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_145.png",
+    "contrast": 0.82,
+    "band_count": 5,
+    "min_luminance": 0.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_146.png",
+    "contrast": 0.78,
+    "band_count": 7,
+    "min_luminance": 0.13,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_147.png",
+    "contrast": 0.82,
+    "band_count": 7,
+    "min_luminance": 0.29,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_148.png",
+    "contrast": 0.84,
+    "band_count": 7,
+    "min_luminance": 0.07,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_149.png",
+    "contrast": 0.64,
+    "band_count": 10,
+    "min_luminance": 0.22,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_150.png",
+    "contrast": 0.61,
+    "band_count": 4,
+    "min_luminance": 0.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_151.png",
+    "contrast": 0.57,
+    "band_count": 5,
+    "min_luminance": 0.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_152.png",
+    "contrast": 0.73,
+    "band_count": 9,
+    "min_luminance": 0.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_153.png",
+    "contrast": 0.33,
+    "band_count": 7,
+    "min_luminance": 0.14,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_154.png",
+    "contrast": 0.75,
+    "band_count": 10,
+    "min_luminance": 0.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_155.png",
+    "contrast": 0.83,
+    "band_count": 10,
+    "min_luminance": 0.09,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_156.png",
+    "contrast": 0.97,
+    "band_count": 10,
+    "min_luminance": 0.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_157.png",
+    "contrast": 0.36,
+    "band_count": 5,
+    "min_luminance": 0.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_158.png",
+    "contrast": 0.99,
+    "band_count": 8,
+    "min_luminance": 0.19,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_159.png",
+    "contrast": 0.32,
+    "band_count": 5,
+    "min_luminance": 0.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_160.png",
+    "contrast": 0.9,
+    "band_count": 10,
+    "min_luminance": 0.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_161.png",
+    "contrast": 0.9,
+    "band_count": 10,
+    "min_luminance": 0.19,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_162.png",
+    "contrast": 0.81,
+    "band_count": 9,
+    "min_luminance": 0.1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_163.png",
+    "contrast": 0.57,
+    "band_count": 10,
+    "min_luminance": 0.29,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_164.png",
+    "contrast": 0.55,
+    "band_count": 7,
+    "min_luminance": 0.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_165.png",
+    "contrast": 0.58,
+    "band_count": 5,
+    "min_luminance": 0.05,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_166.png",
+    "contrast": 0.76,
+    "band_count": 4,
+    "min_luminance": 0.2,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_167.png",
+    "contrast": 0.41,
+    "band_count": 10,
+    "min_luminance": 0.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_168.png",
+    "contrast": 0.4,
+    "band_count": 10,
+    "min_luminance": 0.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_169.png",
+    "contrast": 0.86,
+    "band_count": 8,
+    "min_luminance": 0.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_170.png",
+    "contrast": 0.62,
+    "band_count": 9,
+    "min_luminance": 0.11,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_171.png",
+    "contrast": 0.66,
+    "band_count": 7,
+    "min_luminance": 0.15,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_172.png",
+    "contrast": 0.52,
+    "band_count": 5,
+    "min_luminance": 0.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_173.png",
+    "contrast": 0.98,
+    "band_count": 6,
+    "min_luminance": 0.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_174.png",
+    "contrast": 0.62,
+    "band_count": 7,
+    "min_luminance": 0.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_175.png",
+    "contrast": 0.95,
+    "band_count": 10,
+    "min_luminance": 0.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_176.png",
+    "contrast": 0.87,
+    "band_count": 9,
+    "min_luminance": 0.15,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_177.png",
+    "contrast": 0.54,
+    "band_count": 7,
+    "min_luminance": 0.1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_178.png",
+    "contrast": 0.98,
+    "band_count": 6,
+    "min_luminance": 0.18,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_179.png",
+    "contrast": 0.77,
+    "band_count": 5,
+    "min_luminance": 0.09,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_180.png",
+    "contrast": 0.59,
+    "band_count": 4,
+    "min_luminance": 0.07,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_181.png",
+    "contrast": 0.93,
+    "band_count": 7,
+    "min_luminance": 0.27,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_182.png",
+    "contrast": 0.75,
+    "band_count": 5,
+    "min_luminance": 0.27,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_183.png",
+    "contrast": 0.51,
+    "band_count": 6,
+    "min_luminance": 0.28,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_184.png",
+    "contrast": 0.94,
+    "band_count": 9,
+    "min_luminance": 0.06,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_185.png",
+    "contrast": 0.51,
+    "band_count": 6,
+    "min_luminance": 0.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_186.png",
+    "contrast": 0.7,
+    "band_count": 5,
+    "min_luminance": 0.05,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_187.png",
+    "contrast": 0.97,
+    "band_count": 9,
+    "min_luminance": 0.22,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_188.png",
+    "contrast": 0.34,
+    "band_count": 6,
+    "min_luminance": 0.2,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_189.png",
+    "contrast": 0.33,
+    "band_count": 6,
+    "min_luminance": 0.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_190.png",
+    "contrast": 0.89,
+    "band_count": 9,
+    "min_luminance": 0.15,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_191.png",
+    "contrast": 0.57,
+    "band_count": 4,
+    "min_luminance": 0.19,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_192.png",
+    "contrast": 0.45,
+    "band_count": 9,
+    "min_luminance": 0.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_193.png",
+    "contrast": 0.34,
+    "band_count": 4,
+    "min_luminance": 0.26,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_194.png",
+    "contrast": 0.94,
+    "band_count": 7,
+    "min_luminance": 0.07,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_195.png",
+    "contrast": 0.48,
+    "band_count": 7,
+    "min_luminance": 0.07,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_196.png",
+    "contrast": 0.56,
+    "band_count": 4,
+    "min_luminance": 0.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_197.png",
+    "contrast": 0.4,
+    "band_count": 4,
+    "min_luminance": 0.18,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_198.png",
+    "contrast": 0.7,
+    "band_count": 9,
+    "min_luminance": 0.08,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_199.png",
+    "contrast": 0.96,
+    "band_count": 6,
+    "min_luminance": 0.09,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_200.png",
+    "contrast": 0.71,
+    "band_count": 6,
+    "min_luminance": 0.3,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_201.png",
+    "contrast": 0.95,
+    "band_count": 5,
+    "min_luminance": 0.06,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_202.png",
+    "contrast": 0.84,
+    "band_count": 6,
+    "min_luminance": 0.17,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_203.png",
+    "contrast": 0.64,
+    "band_count": 9,
+    "min_luminance": 0.07,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_204.png",
+    "contrast": 0.86,
+    "band_count": 10,
+    "min_luminance": 0.05,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_205.png",
+    "contrast": 0.43,
+    "band_count": 5,
+    "min_luminance": 0.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_206.png",
+    "contrast": 0.49,
+    "band_count": 9,
+    "min_luminance": 0.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_207.png",
+    "contrast": 0.94,
+    "band_count": 6,
+    "min_luminance": 0.1,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_208.png",
+    "contrast": 0.4,
+    "band_count": 4,
+    "min_luminance": 0.08,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_209.png",
+    "contrast": 0.6,
+    "band_count": 5,
+    "min_luminance": 0.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_210.png",
+    "contrast": 0.87,
+    "band_count": 10,
+    "min_luminance": 0.07,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_211.png",
+    "contrast": 0.61,
+    "band_count": 5,
+    "min_luminance": 0.09,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_212.png",
+    "contrast": 0.45,
+    "band_count": 5,
+    "min_luminance": 0.06,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_213.png",
+    "contrast": 0.98,
+    "band_count": 7,
+    "min_luminance": 0.19,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_214.png",
+    "contrast": 0.54,
+    "band_count": 8,
+    "min_luminance": 0.17,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_215.png",
+    "contrast": 0.85,
+    "band_count": 7,
+    "min_luminance": 0.06,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_216.png",
+    "contrast": 0.32,
+    "band_count": 4,
+    "min_luminance": 0.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_217.png",
+    "contrast": 0.82,
+    "band_count": 9,
+    "min_luminance": 0.05,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_218.png",
+    "contrast": 0.87,
+    "band_count": 7,
+    "min_luminance": 0.15,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_219.png",
+    "contrast": 0.79,
+    "band_count": 8,
+    "min_luminance": 0.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_220.png",
+    "contrast": 0.81,
+    "band_count": 10,
+    "min_luminance": 0.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_221.png",
+    "contrast": 0.57,
+    "band_count": 7,
+    "min_luminance": 0.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_222.png",
+    "contrast": 0.67,
+    "band_count": 4,
+    "min_luminance": 0.17,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_223.png",
+    "contrast": 0.43,
+    "band_count": 5,
+    "min_luminance": 0.29,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_224.png",
+    "contrast": 0.89,
+    "band_count": 6,
+    "min_luminance": 0.18,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_225.png",
+    "contrast": 0.7,
+    "band_count": 4,
+    "min_luminance": 0.24,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_226.png",
+    "contrast": 0.86,
+    "band_count": 8,
+    "min_luminance": 0.26,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_227.png",
+    "contrast": 0.67,
+    "band_count": 8,
+    "min_luminance": 0.07,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_228.png",
+    "contrast": 0.88,
+    "band_count": 9,
+    "min_luminance": 0.05,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_229.png",
+    "contrast": 0.74,
+    "band_count": 9,
+    "min_luminance": 0.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_230.png",
+    "contrast": 0.72,
+    "band_count": 8,
+    "min_luminance": 0.22,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_231.png",
+    "contrast": 0.53,
+    "band_count": 7,
+    "min_luminance": 0.2,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_232.png",
+    "contrast": 0.91,
+    "band_count": 6,
+    "min_luminance": 0.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_233.png",
+    "contrast": 0.42,
+    "band_count": 8,
+    "min_luminance": 0.07,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_234.png",
+    "contrast": 0.42,
+    "band_count": 8,
+    "min_luminance": 0.17,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_235.png",
+    "contrast": 0.73,
+    "band_count": 4,
+    "min_luminance": 0.19,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_236.png",
+    "contrast": 0.36,
+    "band_count": 9,
+    "min_luminance": 0.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_237.png",
+    "contrast": 0.37,
+    "band_count": 6,
+    "min_luminance": 0.09,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_238.png",
+    "contrast": 0.66,
+    "band_count": 7,
+    "min_luminance": 0.18,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_239.png",
+    "contrast": 0.69,
+    "band_count": 5,
+    "min_luminance": 0.17,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_240.png",
+    "contrast": 0.41,
+    "band_count": 7,
+    "min_luminance": 0.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_241.png",
+    "contrast": 0.84,
+    "band_count": 7,
+    "min_luminance": 0.27,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_242.png",
+    "contrast": 0.85,
+    "band_count": 6,
+    "min_luminance": 0.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_243.png",
+    "contrast": 0.56,
+    "band_count": 5,
+    "min_luminance": 0.11,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_244.png",
+    "contrast": 0.93,
+    "band_count": 8,
+    "min_luminance": 0.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_245.png",
+    "contrast": 0.79,
+    "band_count": 7,
+    "min_luminance": 0.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_246.png",
+    "contrast": 0.78,
+    "band_count": 8,
+    "min_luminance": 0.27,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_247.png",
+    "contrast": 0.95,
+    "band_count": 10,
+    "min_luminance": 0.25,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_248.png",
+    "contrast": 0.92,
+    "band_count": 6,
+    "min_luminance": 0.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_249.png",
+    "contrast": 0.58,
+    "band_count": 6,
+    "min_luminance": 0.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_250.png",
+    "contrast": 0.5,
+    "band_count": 8,
+    "min_luminance": 0.18,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_251.png",
+    "contrast": 0.57,
+    "band_count": 8,
+    "min_luminance": 0.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_252.png",
+    "contrast": 0.79,
+    "band_count": 10,
+    "min_luminance": 0.06,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_253.png",
+    "contrast": 0.66,
+    "band_count": 6,
+    "min_luminance": 0.29,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_254.png",
+    "contrast": 0.65,
+    "band_count": 9,
+    "min_luminance": 0.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_255.png",
+    "contrast": 0.86,
+    "band_count": 4,
+    "min_luminance": 0.11,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_256.png",
+    "contrast": 0.89,
+    "band_count": 4,
+    "min_luminance": 0.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_257.png",
+    "contrast": 0.31,
+    "band_count": 6,
+    "min_luminance": 0.09,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_258.png",
+    "contrast": 0.41,
+    "band_count": 9,
+    "min_luminance": 0.06,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_259.png",
+    "contrast": 0.34,
+    "band_count": 7,
+    "min_luminance": 0.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_260.png",
+    "contrast": 0.65,
+    "band_count": 8,
+    "min_luminance": 0.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_261.png",
+    "contrast": 0.58,
+    "band_count": 7,
+    "min_luminance": 0.25,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_262.png",
+    "contrast": 0.8,
+    "band_count": 8,
+    "min_luminance": 0.25,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_263.png",
+    "contrast": 0.75,
+    "band_count": 5,
+    "min_luminance": 0.21,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_264.png",
+    "contrast": 0.89,
+    "band_count": 8,
+    "min_luminance": 0.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_265.png",
+    "contrast": 0.69,
+    "band_count": 6,
+    "min_luminance": 0.13,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_266.png",
+    "contrast": 0.85,
+    "band_count": 5,
+    "min_luminance": 0.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_267.png",
+    "contrast": 0.6,
+    "band_count": 10,
+    "min_luminance": 0.06,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_268.png",
+    "contrast": 0.84,
+    "band_count": 10,
+    "min_luminance": 0.3,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_269.png",
+    "contrast": 0.44,
+    "band_count": 7,
+    "min_luminance": 0.24,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_270.png",
+    "contrast": 0.71,
+    "band_count": 9,
+    "min_luminance": 0.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_271.png",
+    "contrast": 0.5,
+    "band_count": 10,
+    "min_luminance": 0.15,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_272.png",
+    "contrast": 0.4,
+    "band_count": 8,
+    "min_luminance": 0.19,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_273.png",
+    "contrast": 0.6,
+    "band_count": 8,
+    "min_luminance": 0.2,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_274.png",
+    "contrast": 0.49,
+    "band_count": 7,
+    "min_luminance": 0.1,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_275.png",
+    "contrast": 0.52,
+    "band_count": 4,
+    "min_luminance": 0.18,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_276.png",
+    "contrast": 0.81,
+    "band_count": 4,
+    "min_luminance": 0.17,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_277.png",
+    "contrast": 0.79,
+    "band_count": 4,
+    "min_luminance": 0.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_278.png",
+    "contrast": 0.66,
+    "band_count": 5,
+    "min_luminance": 0.29,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_279.png",
+    "contrast": 0.55,
+    "band_count": 9,
+    "min_luminance": 0.11,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_280.png",
+    "contrast": 0.58,
+    "band_count": 10,
+    "min_luminance": 0.22,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_281.png",
+    "contrast": 0.71,
+    "band_count": 4,
+    "min_luminance": 0.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_282.png",
+    "contrast": 0.35,
+    "band_count": 10,
+    "min_luminance": 0.08,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_283.png",
+    "contrast": 0.32,
+    "band_count": 8,
+    "min_luminance": 0.08,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_284.png",
+    "contrast": 0.52,
+    "band_count": 7,
+    "min_luminance": 0.2,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_285.png",
+    "contrast": 0.59,
+    "band_count": 9,
+    "min_luminance": 0.2,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_286.png",
+    "contrast": 0.51,
+    "band_count": 8,
+    "min_luminance": 0.19,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_287.png",
+    "contrast": 0.46,
+    "band_count": 4,
+    "min_luminance": 0.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_288.png",
+    "contrast": 0.49,
+    "band_count": 6,
+    "min_luminance": 0.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_289.png",
+    "contrast": 0.75,
+    "band_count": 6,
+    "min_luminance": 0.2,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_290.png",
+    "contrast": 0.43,
+    "band_count": 10,
+    "min_luminance": 0.18,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_291.png",
+    "contrast": 0.35,
+    "band_count": 4,
+    "min_luminance": 0.08,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_292.png",
+    "contrast": 0.76,
+    "band_count": 8,
+    "min_luminance": 0.11,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_293.png",
+    "contrast": 0.61,
+    "band_count": 4,
+    "min_luminance": 0.3,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_294.png",
+    "contrast": 0.74,
+    "band_count": 8,
+    "min_luminance": 0.08,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_295.png",
+    "contrast": 0.96,
+    "band_count": 10,
+    "min_luminance": 0.29,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_296.png",
+    "contrast": 0.59,
+    "band_count": 10,
+    "min_luminance": 0.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_297.png",
+    "contrast": 0.8,
+    "band_count": 7,
+    "min_luminance": 0.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_298.png",
+    "contrast": 0.52,
+    "band_count": 9,
+    "min_luminance": 0.12,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_299.png",
+    "contrast": 0.84,
+    "band_count": 7,
+    "min_luminance": 0.22,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_300.png",
+    "contrast": 0.92,
+    "band_count": 5,
+    "min_luminance": 0.13,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_301.png",
+    "contrast": 0.87,
+    "band_count": 6,
+    "min_luminance": 0.15,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_302.png",
+    "contrast": 0.82,
+    "band_count": 5,
+    "min_luminance": 0.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_303.png",
+    "contrast": 0.78,
+    "band_count": 4,
+    "min_luminance": 0.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_304.png",
+    "contrast": 0.52,
+    "band_count": 5,
+    "min_luminance": 0.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_305.png",
+    "contrast": 0.97,
+    "band_count": 9,
+    "min_luminance": 0.27,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_306.png",
+    "contrast": 0.98,
+    "band_count": 9,
+    "min_luminance": 0.06,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_307.png",
+    "contrast": 0.66,
+    "band_count": 7,
+    "min_luminance": 0.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_308.png",
+    "contrast": 0.92,
+    "band_count": 5,
+    "min_luminance": 0.15,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_309.png",
+    "contrast": 0.77,
+    "band_count": 5,
+    "min_luminance": 0.11,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_310.png",
+    "contrast": 0.99,
+    "band_count": 6,
+    "min_luminance": 0.15,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_311.png",
+    "contrast": 0.78,
+    "band_count": 10,
+    "min_luminance": 0.19,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_312.png",
+    "contrast": 0.89,
+    "band_count": 4,
+    "min_luminance": 0.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_313.png",
+    "contrast": 0.75,
+    "band_count": 4,
+    "min_luminance": 0.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_314.png",
+    "contrast": 0.58,
+    "band_count": 5,
+    "min_luminance": 0.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_315.png",
+    "contrast": 0.57,
+    "band_count": 6,
+    "min_luminance": 0.29,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_316.png",
+    "contrast": 0.77,
+    "band_count": 4,
+    "min_luminance": 0.05,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_317.png",
+    "contrast": 0.72,
+    "band_count": 7,
+    "min_luminance": 0.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_318.png",
+    "contrast": 0.45,
+    "band_count": 6,
+    "min_luminance": 0.09,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_319.png",
+    "contrast": 0.94,
+    "band_count": 9,
+    "min_luminance": 0.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_320.png",
+    "contrast": 0.92,
+    "band_count": 9,
+    "min_luminance": 0.15,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_321.png",
+    "contrast": 0.51,
+    "band_count": 5,
+    "min_luminance": 0.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_322.png",
+    "contrast": 0.68,
+    "band_count": 5,
+    "min_luminance": 0.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_323.png",
+    "contrast": 0.47,
+    "band_count": 4,
+    "min_luminance": 0.13,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_324.png",
+    "contrast": 0.78,
+    "band_count": 10,
+    "min_luminance": 0.26,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_325.png",
+    "contrast": 0.78,
+    "band_count": 5,
+    "min_luminance": 0.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_326.png",
+    "contrast": 0.72,
+    "band_count": 8,
+    "min_luminance": 0.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_327.png",
+    "contrast": 0.84,
+    "band_count": 5,
+    "min_luminance": 0.23,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_328.png",
+    "contrast": 0.45,
+    "band_count": 5,
+    "min_luminance": 0.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_329.png",
+    "contrast": 0.47,
+    "band_count": 10,
+    "min_luminance": 0.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_330.png",
+    "contrast": 0.67,
+    "band_count": 5,
+    "min_luminance": 0.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_331.png",
+    "contrast": 0.86,
+    "band_count": 5,
+    "min_luminance": 0.18,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_332.png",
+    "contrast": 0.92,
+    "band_count": 4,
+    "min_luminance": 0.2,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_333.png",
+    "contrast": 0.45,
+    "band_count": 4,
+    "min_luminance": 0.1,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_334.png",
+    "contrast": 0.55,
+    "band_count": 8,
+    "min_luminance": 0.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_335.png",
+    "contrast": 0.96,
+    "band_count": 7,
+    "min_luminance": 0.17,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_336.png",
+    "contrast": 0.88,
+    "band_count": 5,
+    "min_luminance": 0.17,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_337.png",
+    "contrast": 0.87,
+    "band_count": 5,
+    "min_luminance": 0.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_338.png",
+    "contrast": 0.88,
+    "band_count": 6,
+    "min_luminance": 0.05,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_339.png",
+    "contrast": 0.93,
+    "band_count": 8,
+    "min_luminance": 0.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_340.png",
+    "contrast": 0.86,
+    "band_count": 5,
+    "min_luminance": 0.3,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_341.png",
+    "contrast": 0.39,
+    "band_count": 6,
+    "min_luminance": 0.09,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_342.png",
+    "contrast": 0.49,
+    "band_count": 8,
+    "min_luminance": 0.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_343.png",
+    "contrast": 0.89,
+    "band_count": 8,
+    "min_luminance": 0.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_344.png",
+    "contrast": 0.78,
+    "band_count": 4,
+    "min_luminance": 0.07,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_345.png",
+    "contrast": 0.51,
+    "band_count": 7,
+    "min_luminance": 0.3,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_346.png",
+    "contrast": 0.55,
+    "band_count": 8,
+    "min_luminance": 0.06,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_347.png",
+    "contrast": 0.69,
+    "band_count": 10,
+    "min_luminance": 0.15,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_348.png",
+    "contrast": 0.54,
+    "band_count": 10,
+    "min_luminance": 0.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_349.png",
+    "contrast": 0.59,
+    "band_count": 10,
+    "min_luminance": 0.26,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_350.png",
+    "contrast": 0.73,
+    "band_count": 7,
+    "min_luminance": 0.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_351.png",
+    "contrast": 0.64,
+    "band_count": 10,
+    "min_luminance": 0.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_352.png",
+    "contrast": 0.44,
+    "band_count": 8,
+    "min_luminance": 0.27,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_353.png",
+    "contrast": 0.38,
+    "band_count": 8,
+    "min_luminance": 0.19,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_354.png",
+    "contrast": 0.67,
+    "band_count": 10,
+    "min_luminance": 0.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_355.png",
+    "contrast": 0.92,
+    "band_count": 10,
+    "min_luminance": 0.08,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_356.png",
+    "contrast": 0.57,
+    "band_count": 9,
+    "min_luminance": 0.18,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_357.png",
+    "contrast": 0.49,
+    "band_count": 7,
+    "min_luminance": 0.17,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_358.png",
+    "contrast": 0.81,
+    "band_count": 8,
+    "min_luminance": 0.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_359.png",
+    "contrast": 0.91,
+    "band_count": 7,
+    "min_luminance": 0.29,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_360.png",
+    "contrast": 0.91,
+    "band_count": 4,
+    "min_luminance": 0.05,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_361.png",
+    "contrast": 0.35,
+    "band_count": 7,
+    "min_luminance": 0.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_362.png",
+    "contrast": 0.82,
+    "band_count": 6,
+    "min_luminance": 0.08,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_363.png",
+    "contrast": 0.67,
+    "band_count": 8,
+    "min_luminance": 0.17,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_364.png",
+    "contrast": 0.39,
+    "band_count": 4,
+    "min_luminance": 0.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_365.png",
+    "contrast": 0.34,
+    "band_count": 6,
+    "min_luminance": 0.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_366.png",
+    "contrast": 0.35,
+    "band_count": 9,
+    "min_luminance": 0.26,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_367.png",
+    "contrast": 0.59,
+    "band_count": 9,
+    "min_luminance": 0.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_368.png",
+    "contrast": 0.55,
+    "band_count": 8,
+    "min_luminance": 0.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_369.png",
+    "contrast": 0.48,
+    "band_count": 4,
+    "min_luminance": 0.08,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_370.png",
+    "contrast": 0.9,
+    "band_count": 6,
+    "min_luminance": 0.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_371.png",
+    "contrast": 0.77,
+    "band_count": 4,
+    "min_luminance": 0.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_372.png",
+    "contrast": 0.77,
+    "band_count": 7,
+    "min_luminance": 0.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_373.png",
+    "contrast": 0.57,
+    "band_count": 8,
+    "min_luminance": 0.27,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_374.png",
+    "contrast": 0.94,
+    "band_count": 4,
+    "min_luminance": 0.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_375.png",
+    "contrast": 0.89,
+    "band_count": 4,
+    "min_luminance": 0.22,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_376.png",
+    "contrast": 0.58,
+    "band_count": 6,
+    "min_luminance": 0.15,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_377.png",
+    "contrast": 0.48,
+    "band_count": 10,
+    "min_luminance": 0.27,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_378.png",
+    "contrast": 0.8,
+    "band_count": 7,
+    "min_luminance": 0.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_379.png",
+    "contrast": 0.44,
+    "band_count": 7,
+    "min_luminance": 0.15,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_380.png",
+    "contrast": 0.76,
+    "band_count": 7,
+    "min_luminance": 0.07,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_381.png",
+    "contrast": 0.82,
+    "band_count": 9,
+    "min_luminance": 0.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_382.png",
+    "contrast": 0.87,
+    "band_count": 10,
+    "min_luminance": 0.15,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_383.png",
+    "contrast": 0.93,
+    "band_count": 9,
+    "min_luminance": 0.16,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_384.png",
+    "contrast": 0.35,
+    "band_count": 5,
+    "min_luminance": 0.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_385.png",
+    "contrast": 0.61,
+    "band_count": 8,
+    "min_luminance": 0.06,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_386.png",
+    "contrast": 0.56,
+    "band_count": 4,
+    "min_luminance": 0.22,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_387.png",
+    "contrast": 0.88,
+    "band_count": 7,
+    "min_luminance": 0.05,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_388.png",
+    "contrast": 0.55,
+    "band_count": 10,
+    "min_luminance": 0.06,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_389.png",
+    "contrast": 0.65,
+    "band_count": 6,
+    "min_luminance": 0.09,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_390.png",
+    "contrast": 0.85,
+    "band_count": 6,
+    "min_luminance": 0.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_391.png",
+    "contrast": 1,
+    "band_count": 7,
+    "min_luminance": 0.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_392.png",
+    "contrast": 0.99,
+    "band_count": 5,
+    "min_luminance": 0.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_393.png",
+    "contrast": 0.71,
+    "band_count": 8,
+    "min_luminance": 0.26,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_394.png",
+    "contrast": 0.75,
+    "band_count": 10,
+    "min_luminance": 0.11,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_395.png",
+    "contrast": 0.86,
+    "band_count": 6,
+    "min_luminance": 0.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_396.png",
+    "contrast": 0.96,
+    "band_count": 9,
+    "min_luminance": 0.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_397.png",
+    "contrast": 0.76,
+    "band_count": 8,
+    "min_luminance": 0.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_398.png",
+    "contrast": 0.84,
+    "band_count": 10,
+    "min_luminance": 0.29,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_399.png",
+    "contrast": 0.42,
+    "band_count": 8,
+    "min_luminance": 0.18,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_400.png",
+    "contrast": 0.48,
+    "band_count": 8,
+    "min_luminance": 0.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_401.png",
+    "contrast": 0.79,
+    "band_count": 9,
+    "min_luminance": 0.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_402.png",
+    "contrast": 0.41,
+    "band_count": 4,
+    "min_luminance": 0.09,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_403.png",
+    "contrast": 0.34,
+    "band_count": 5,
+    "min_luminance": 0.07,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_404.png",
+    "contrast": 0.34,
+    "band_count": 5,
+    "min_luminance": 0.22,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_405.png",
+    "contrast": 0.45,
+    "band_count": 7,
+    "min_luminance": 0.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_406.png",
+    "contrast": 0.83,
+    "band_count": 10,
+    "min_luminance": 0.2,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_407.png",
+    "contrast": 0.44,
+    "band_count": 6,
+    "min_luminance": 0.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_408.png",
+    "contrast": 0.83,
+    "band_count": 9,
+    "min_luminance": 0.29,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_409.png",
+    "contrast": 0.44,
+    "band_count": 8,
+    "min_luminance": 0.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_410.png",
+    "contrast": 0.9,
+    "band_count": 4,
+    "min_luminance": 0.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_411.png",
+    "contrast": 0.44,
+    "band_count": 10,
+    "min_luminance": 0.26,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_412.png",
+    "contrast": 0.59,
+    "band_count": 6,
+    "min_luminance": 0.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_413.png",
+    "contrast": 0.65,
+    "band_count": 6,
+    "min_luminance": 0.19,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_414.png",
+    "contrast": 0.71,
+    "band_count": 8,
+    "min_luminance": 0.23,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_415.png",
+    "contrast": 0.35,
+    "band_count": 7,
+    "min_luminance": 0.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_416.png",
+    "contrast": 0.45,
+    "band_count": 8,
+    "min_luminance": 0.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_417.png",
+    "contrast": 0.9,
+    "band_count": 6,
+    "min_luminance": 0.23,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_418.png",
+    "contrast": 0.49,
+    "band_count": 6,
+    "min_luminance": 0.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_419.png",
+    "contrast": 0.94,
+    "band_count": 10,
+    "min_luminance": 0.3,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_420.png",
+    "contrast": 0.81,
+    "band_count": 9,
+    "min_luminance": 0.05,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_421.png",
+    "contrast": 0.39,
+    "band_count": 10,
+    "min_luminance": 0.17,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_422.png",
+    "contrast": 0.99,
+    "band_count": 4,
+    "min_luminance": 0.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_423.png",
+    "contrast": 0.37,
+    "band_count": 10,
+    "min_luminance": 0.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_424.png",
+    "contrast": 0.58,
+    "band_count": 9,
+    "min_luminance": 0.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_425.png",
+    "contrast": 0.86,
+    "band_count": 8,
+    "min_luminance": 0.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_426.png",
+    "contrast": 0.92,
+    "band_count": 6,
+    "min_luminance": 0.29,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_427.png",
+    "contrast": 0.34,
+    "band_count": 9,
+    "min_luminance": 0.19,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_428.png",
+    "contrast": 0.4,
+    "band_count": 4,
+    "min_luminance": 0.05,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_429.png",
+    "contrast": 0.81,
+    "band_count": 5,
+    "min_luminance": 0.26,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_430.png",
+    "contrast": 0.83,
+    "band_count": 8,
+    "min_luminance": 0.18,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_431.png",
+    "contrast": 0.33,
+    "band_count": 7,
+    "min_luminance": 0.22,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_432.png",
+    "contrast": 0.51,
+    "band_count": 10,
+    "min_luminance": 0.19,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_433.png",
+    "contrast": 0.56,
+    "band_count": 4,
+    "min_luminance": 0.09,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_434.png",
+    "contrast": 0.95,
+    "band_count": 6,
+    "min_luminance": 0.3,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_435.png",
+    "contrast": 0.38,
+    "band_count": 8,
+    "min_luminance": 0.29,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_436.png",
+    "contrast": 0.42,
+    "band_count": 6,
+    "min_luminance": 0.09,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_437.png",
+    "contrast": 0.46,
+    "band_count": 4,
+    "min_luminance": 0.09,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_438.png",
+    "contrast": 0.89,
+    "band_count": 6,
+    "min_luminance": 0.24,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_439.png",
+    "contrast": 0.8,
+    "band_count": 10,
+    "min_luminance": 0.29,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_440.png",
+    "contrast": 0.6,
+    "band_count": 8,
+    "min_luminance": 0.11,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_441.png",
+    "contrast": 0.41,
+    "band_count": 5,
+    "min_luminance": 0.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_442.png",
+    "contrast": 0.92,
+    "band_count": 10,
+    "min_luminance": 0.29,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_443.png",
+    "contrast": 0.83,
+    "band_count": 9,
+    "min_luminance": 0.06,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_444.png",
+    "contrast": 0.39,
+    "band_count": 8,
+    "min_luminance": 0.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_445.png",
+    "contrast": 0.51,
+    "band_count": 7,
+    "min_luminance": 0.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_446.png",
+    "contrast": 0.71,
+    "band_count": 9,
+    "min_luminance": 0.11,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_447.png",
+    "contrast": 0.97,
+    "band_count": 8,
+    "min_luminance": 0.1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_448.png",
+    "contrast": 0.75,
+    "band_count": 10,
+    "min_luminance": 0.08,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_449.png",
+    "contrast": 0.49,
+    "band_count": 7,
+    "min_luminance": 0.1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_450.png",
+    "contrast": 0.7,
+    "band_count": 10,
+    "min_luminance": 0.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_451.png",
+    "contrast": 0.96,
+    "band_count": 9,
+    "min_luminance": 0.2,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_452.png",
+    "contrast": 0.61,
+    "band_count": 7,
+    "min_luminance": 0.29,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_453.png",
+    "contrast": 0.4,
+    "band_count": 6,
+    "min_luminance": 0.1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_454.png",
+    "contrast": 0.93,
+    "band_count": 9,
+    "min_luminance": 0.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_455.png",
+    "contrast": 0.32,
+    "band_count": 10,
+    "min_luminance": 0.27,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_456.png",
+    "contrast": 0.37,
+    "band_count": 7,
+    "min_luminance": 0.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_457.png",
+    "contrast": 0.8,
+    "band_count": 10,
+    "min_luminance": 0.15,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_458.png",
+    "contrast": 0.31,
+    "band_count": 8,
+    "min_luminance": 0.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_459.png",
+    "contrast": 0.5,
+    "band_count": 6,
+    "min_luminance": 0.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_460.png",
+    "contrast": 0.32,
+    "band_count": 5,
+    "min_luminance": 0.17,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_461.png",
+    "contrast": 0.95,
+    "band_count": 7,
+    "min_luminance": 0.09,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_462.png",
+    "contrast": 0.86,
+    "band_count": 6,
+    "min_luminance": 0.25,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_463.png",
+    "contrast": 0.48,
+    "band_count": 5,
+    "min_luminance": 0.05,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_464.png",
+    "contrast": 0.68,
+    "band_count": 7,
+    "min_luminance": 0.08,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_465.png",
+    "contrast": 0.95,
+    "band_count": 8,
+    "min_luminance": 0.29,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_466.png",
+    "contrast": 0.55,
+    "band_count": 6,
+    "min_luminance": 0.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_467.png",
+    "contrast": 0.72,
+    "band_count": 9,
+    "min_luminance": 0.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_468.png",
+    "contrast": 0.68,
+    "band_count": 5,
+    "min_luminance": 0.3,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_469.png",
+    "contrast": 0.87,
+    "band_count": 10,
+    "min_luminance": 0.05,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_470.png",
+    "contrast": 0.61,
+    "band_count": 6,
+    "min_luminance": 0.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_471.png",
+    "contrast": 0.63,
+    "band_count": 6,
+    "min_luminance": 0.22,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_472.png",
+    "contrast": 0.86,
+    "band_count": 10,
+    "min_luminance": 0.2,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_473.png",
+    "contrast": 0.74,
+    "band_count": 8,
+    "min_luminance": 0.17,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_474.png",
+    "contrast": 0.87,
+    "band_count": 5,
+    "min_luminance": 0.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_475.png",
+    "contrast": 0.45,
+    "band_count": 7,
+    "min_luminance": 0.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_476.png",
+    "contrast": 0.82,
+    "band_count": 6,
+    "min_luminance": 0.29,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_477.png",
+    "contrast": 0.71,
+    "band_count": 10,
+    "min_luminance": 0.19,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_478.png",
+    "contrast": 0.87,
+    "band_count": 9,
+    "min_luminance": 0.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_479.png",
+    "contrast": 0.89,
+    "band_count": 8,
+    "min_luminance": 0.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_480.png",
+    "contrast": 0.9,
+    "band_count": 4,
+    "min_luminance": 0.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_481.png",
+    "contrast": 0.94,
+    "band_count": 4,
+    "min_luminance": 0.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_482.png",
+    "contrast": 0.63,
+    "band_count": 8,
+    "min_luminance": 0.07,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_483.png",
+    "contrast": 0.33,
+    "band_count": 10,
+    "min_luminance": 0.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_484.png",
+    "contrast": 0.68,
+    "band_count": 6,
+    "min_luminance": 0.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_485.png",
+    "contrast": 0.95,
+    "band_count": 5,
+    "min_luminance": 0.19,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_486.png",
+    "contrast": 0.79,
+    "band_count": 5,
+    "min_luminance": 0.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_487.png",
+    "contrast": 0.88,
+    "band_count": 7,
+    "min_luminance": 0.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_488.png",
+    "contrast": 0.91,
+    "band_count": 7,
+    "min_luminance": 0.26,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_489.png",
+    "contrast": 0.68,
+    "band_count": 9,
+    "min_luminance": 0.1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_490.png",
+    "contrast": 0.76,
+    "band_count": 6,
+    "min_luminance": 0.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_491.png",
+    "contrast": 0.44,
+    "band_count": 6,
+    "min_luminance": 0.27,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_492.png",
+    "contrast": 0.32,
+    "band_count": 9,
+    "min_luminance": 0.17,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_493.png",
+    "contrast": 0.49,
+    "band_count": 8,
+    "min_luminance": 0.07,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_494.png",
+    "contrast": 0.54,
+    "band_count": 4,
+    "min_luminance": 0.15,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_495.png",
+    "contrast": 0.68,
+    "band_count": 7,
+    "min_luminance": 0.2,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_496.png",
+    "contrast": 0.97,
+    "band_count": 6,
+    "min_luminance": 0.19,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_497.png",
+    "contrast": 0.61,
+    "band_count": 9,
+    "min_luminance": 0.06,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_498.png",
+    "contrast": 0.72,
+    "band_count": 8,
+    "min_luminance": 0.11,
+    "is_illusion_active": false
+  },
+  {
+    "image": "mach_band_499.png",
+    "contrast": 0.44,
+    "band_count": 7,
+    "min_luminance": 0.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "mach_band_500.png",
+    "contrast": 0.77,
+    "band_count": 8,
+    "min_luminance": 0.16,
+    "is_illusion_active": true
+  }
+]

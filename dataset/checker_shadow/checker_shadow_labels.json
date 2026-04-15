@@ -1,0 +1,4002 @@
+[
+  {
+    "image": "checker_shadow_001.png",
+    "light_intensity": 8.62,
+    "shadow_opacity": 0.22,
+    "ambient_intensity": 0.2,
+    "board_size": 7,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_002.png",
+    "light_intensity": 3.04,
+    "shadow_opacity": 0.48,
+    "ambient_intensity": 0.19,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_003.png",
+    "light_intensity": 2.72,
+    "shadow_opacity": 0.44,
+    "ambient_intensity": 0.05,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_004.png",
+    "light_intensity": 1.5,
+    "shadow_opacity": 0.22,
+    "ambient_intensity": 0.08,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_005.png",
+    "light_intensity": 4.37,
+    "shadow_opacity": 0.52,
+    "ambient_intensity": 0.19,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_006.png",
+    "light_intensity": 9.8,
+    "shadow_opacity": 0.42,
+    "ambient_intensity": 0.03,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_007.png",
+    "light_intensity": 3.8,
+    "shadow_opacity": 0.15,
+    "ambient_intensity": 0.02,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_008.png",
+    "light_intensity": 4.3,
+    "shadow_opacity": 0.41,
+    "ambient_intensity": 0.03,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_009.png",
+    "light_intensity": 8.05,
+    "shadow_opacity": 0.19,
+    "ambient_intensity": 0.06,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_010.png",
+    "light_intensity": 5.5,
+    "shadow_opacity": 0.36,
+    "ambient_intensity": 0.03,
+    "board_size": 5,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_011.png",
+    "light_intensity": 7.74,
+    "shadow_opacity": 0.49,
+    "ambient_intensity": 0.01,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_012.png",
+    "light_intensity": 9.74,
+    "shadow_opacity": 0.55,
+    "ambient_intensity": 0.03,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_013.png",
+    "light_intensity": 2.99,
+    "shadow_opacity": 0.27,
+    "ambient_intensity": 0.1,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_014.png",
+    "light_intensity": 5.08,
+    "shadow_opacity": 0.22,
+    "ambient_intensity": 0.15,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_015.png",
+    "light_intensity": 4.65,
+    "shadow_opacity": 0.3,
+    "ambient_intensity": 0.16,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_016.png",
+    "light_intensity": 5.94,
+    "shadow_opacity": 0.42,
+    "ambient_intensity": 0.08,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_017.png",
+    "light_intensity": 9.79,
+    "shadow_opacity": 0.4,
+    "ambient_intensity": 0.15,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_018.png",
+    "light_intensity": 9.11,
+    "shadow_opacity": 0.18,
+    "ambient_intensity": 0.08,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_019.png",
+    "light_intensity": 8.08,
+    "shadow_opacity": 0.53,
+    "ambient_intensity": 0.07,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_020.png",
+    "light_intensity": 9.9,
+    "shadow_opacity": 0.5,
+    "ambient_intensity": 0.07,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_021.png",
+    "light_intensity": 1.63,
+    "shadow_opacity": 0.59,
+    "ambient_intensity": 0.19,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_022.png",
+    "light_intensity": 4.26,
+    "shadow_opacity": 0.19,
+    "ambient_intensity": 0.08,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_023.png",
+    "light_intensity": 5.75,
+    "shadow_opacity": 0.57,
+    "ambient_intensity": 0.17,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_024.png",
+    "light_intensity": 3.74,
+    "shadow_opacity": 0.38,
+    "ambient_intensity": 0.02,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_025.png",
+    "light_intensity": 3.66,
+    "shadow_opacity": 0.43,
+    "ambient_intensity": 0.07,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_026.png",
+    "light_intensity": 9.58,
+    "shadow_opacity": 0.19,
+    "ambient_intensity": 0.09,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_027.png",
+    "light_intensity": 3.2,
+    "shadow_opacity": 0.39,
+    "ambient_intensity": 0.15,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_028.png",
+    "light_intensity": 3.74,
+    "shadow_opacity": 0.23,
+    "ambient_intensity": 0.06,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_029.png",
+    "light_intensity": 6.65,
+    "shadow_opacity": 0.21,
+    "ambient_intensity": 0.06,
+    "board_size": 7,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_030.png",
+    "light_intensity": 6.01,
+    "shadow_opacity": 0.4,
+    "ambient_intensity": 0.01,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_031.png",
+    "light_intensity": 1.93,
+    "shadow_opacity": 0.25,
+    "ambient_intensity": 0.15,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_032.png",
+    "light_intensity": 2.47,
+    "shadow_opacity": 0.53,
+    "ambient_intensity": 0.13,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_033.png",
+    "light_intensity": 9.45,
+    "shadow_opacity": 0.43,
+    "ambient_intensity": 0.03,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_034.png",
+    "light_intensity": 9.3,
+    "shadow_opacity": 0.3,
+    "ambient_intensity": 0.04,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_035.png",
+    "light_intensity": 4.28,
+    "shadow_opacity": 0.17,
+    "ambient_intensity": 0.07,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_036.png",
+    "light_intensity": 8.31,
+    "shadow_opacity": 0.44,
+    "ambient_intensity": 0.05,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_037.png",
+    "light_intensity": 9.42,
+    "shadow_opacity": 0.57,
+    "ambient_intensity": 0.04,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_038.png",
+    "light_intensity": 7.56,
+    "shadow_opacity": 0.44,
+    "ambient_intensity": 0.02,
+    "board_size": 6,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_039.png",
+    "light_intensity": 7.33,
+    "shadow_opacity": 0.31,
+    "ambient_intensity": 0.15,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_040.png",
+    "light_intensity": 8.99,
+    "shadow_opacity": 0.15,
+    "ambient_intensity": 0.02,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_041.png",
+    "light_intensity": 9.48,
+    "shadow_opacity": 0.49,
+    "ambient_intensity": 0.01,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_042.png",
+    "light_intensity": 4.21,
+    "shadow_opacity": 0.58,
+    "ambient_intensity": 0.05,
+    "board_size": 5,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_043.png",
+    "light_intensity": 6.27,
+    "shadow_opacity": 0.4,
+    "ambient_intensity": 0.1,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_044.png",
+    "light_intensity": 6.08,
+    "shadow_opacity": 0.38,
+    "ambient_intensity": 0.2,
+    "board_size": 5,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_045.png",
+    "light_intensity": 8.06,
+    "shadow_opacity": 0.26,
+    "ambient_intensity": 0.02,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_046.png",
+    "light_intensity": 5.31,
+    "shadow_opacity": 0.55,
+    "ambient_intensity": 0.08,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_047.png",
+    "light_intensity": 8.4,
+    "shadow_opacity": 0.34,
+    "ambient_intensity": 0.16,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_048.png",
+    "light_intensity": 5.64,
+    "shadow_opacity": 0.57,
+    "ambient_intensity": 0.12,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_049.png",
+    "light_intensity": 3.67,
+    "shadow_opacity": 0.21,
+    "ambient_intensity": 0.09,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_050.png",
+    "light_intensity": 5.66,
+    "shadow_opacity": 0.37,
+    "ambient_intensity": 0.02,
+    "board_size": 4,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_051.png",
+    "light_intensity": 4.95,
+    "shadow_opacity": 0.21,
+    "ambient_intensity": 0.17,
+    "board_size": 6,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_052.png",
+    "light_intensity": 9.91,
+    "shadow_opacity": 0.18,
+    "ambient_intensity": 0.1,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_053.png",
+    "light_intensity": 9.99,
+    "shadow_opacity": 0.53,
+    "ambient_intensity": 0.02,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_054.png",
+    "light_intensity": 4.52,
+    "shadow_opacity": 0.52,
+    "ambient_intensity": 0.19,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_055.png",
+    "light_intensity": 1.45,
+    "shadow_opacity": 0.44,
+    "ambient_intensity": 0.16,
+    "board_size": 4,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_056.png",
+    "light_intensity": 2.64,
+    "shadow_opacity": 0.56,
+    "ambient_intensity": 0.05,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_057.png",
+    "light_intensity": 5.92,
+    "shadow_opacity": 0.3,
+    "ambient_intensity": 0.08,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_058.png",
+    "light_intensity": 5.11,
+    "shadow_opacity": 0.21,
+    "ambient_intensity": 0.03,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_059.png",
+    "light_intensity": 7.36,
+    "shadow_opacity": 0.29,
+    "ambient_intensity": 0.13,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_060.png",
+    "light_intensity": 6.75,
+    "shadow_opacity": 0.21,
+    "ambient_intensity": 0.16,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_061.png",
+    "light_intensity": 5.25,
+    "shadow_opacity": 0.19,
+    "ambient_intensity": 0.09,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_062.png",
+    "light_intensity": 6.71,
+    "shadow_opacity": 0.42,
+    "ambient_intensity": 0.12,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_063.png",
+    "light_intensity": 4.44,
+    "shadow_opacity": 0.43,
+    "ambient_intensity": 0.16,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_064.png",
+    "light_intensity": 1.26,
+    "shadow_opacity": 0.28,
+    "ambient_intensity": 0.13,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_065.png",
+    "light_intensity": 7.42,
+    "shadow_opacity": 0.34,
+    "ambient_intensity": 0.06,
+    "board_size": 5,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_066.png",
+    "light_intensity": 8.24,
+    "shadow_opacity": 0.4,
+    "ambient_intensity": 0.05,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_067.png",
+    "light_intensity": 3.42,
+    "shadow_opacity": 0.29,
+    "ambient_intensity": 0.07,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_068.png",
+    "light_intensity": 9.74,
+    "shadow_opacity": 0.58,
+    "ambient_intensity": 0.04,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_069.png",
+    "light_intensity": 4.3,
+    "shadow_opacity": 0.53,
+    "ambient_intensity": 0.09,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_070.png",
+    "light_intensity": 9.24,
+    "shadow_opacity": 0.52,
+    "ambient_intensity": 0.18,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_071.png",
+    "light_intensity": 7.62,
+    "shadow_opacity": 0.2,
+    "ambient_intensity": 0.09,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_072.png",
+    "light_intensity": 8.08,
+    "shadow_opacity": 0.53,
+    "ambient_intensity": 0.09,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_073.png",
+    "light_intensity": 3.46,
+    "shadow_opacity": 0.36,
+    "ambient_intensity": 0.03,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_074.png",
+    "light_intensity": 3.87,
+    "shadow_opacity": 0.58,
+    "ambient_intensity": 0.17,
+    "board_size": 6,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_075.png",
+    "light_intensity": 4.59,
+    "shadow_opacity": 0.27,
+    "ambient_intensity": 0.16,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_076.png",
+    "light_intensity": 4.73,
+    "shadow_opacity": 0.53,
+    "ambient_intensity": 0.16,
+    "board_size": 7,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_077.png",
+    "light_intensity": 4.28,
+    "shadow_opacity": 0.21,
+    "ambient_intensity": 0.06,
+    "board_size": 4,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_078.png",
+    "light_intensity": 6.31,
+    "shadow_opacity": 0.34,
+    "ambient_intensity": 0.17,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_079.png",
+    "light_intensity": 9.04,
+    "shadow_opacity": 0.19,
+    "ambient_intensity": 0.04,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_080.png",
+    "light_intensity": 1.91,
+    "shadow_opacity": 0.25,
+    "ambient_intensity": 0.17,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_081.png",
+    "light_intensity": 7.2,
+    "shadow_opacity": 0.35,
+    "ambient_intensity": 0.12,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_082.png",
+    "light_intensity": 8.99,
+    "shadow_opacity": 0.44,
+    "ambient_intensity": 0.09,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_083.png",
+    "light_intensity": 8.73,
+    "shadow_opacity": 0.18,
+    "ambient_intensity": 0.13,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_084.png",
+    "light_intensity": 9.36,
+    "shadow_opacity": 0.27,
+    "ambient_intensity": 0.16,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_085.png",
+    "light_intensity": 4.67,
+    "shadow_opacity": 0.58,
+    "ambient_intensity": 0.08,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_086.png",
+    "light_intensity": 6.95,
+    "shadow_opacity": 0.24,
+    "ambient_intensity": 0.18,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_087.png",
+    "light_intensity": 3.83,
+    "shadow_opacity": 0.26,
+    "ambient_intensity": 0.19,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_088.png",
+    "light_intensity": 7.15,
+    "shadow_opacity": 0.2,
+    "ambient_intensity": 0.17,
+    "board_size": 6,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_089.png",
+    "light_intensity": 1.85,
+    "shadow_opacity": 0.32,
+    "ambient_intensity": 0.03,
+    "board_size": 7,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_090.png",
+    "light_intensity": 1.42,
+    "shadow_opacity": 0.33,
+    "ambient_intensity": 0.05,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_091.png",
+    "light_intensity": 9.63,
+    "shadow_opacity": 0.47,
+    "ambient_intensity": 0.09,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_092.png",
+    "light_intensity": 9.78,
+    "shadow_opacity": 0.31,
+    "ambient_intensity": 0.14,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_093.png",
+    "light_intensity": 3.19,
+    "shadow_opacity": 0.38,
+    "ambient_intensity": 0.01,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_094.png",
+    "light_intensity": 2.85,
+    "shadow_opacity": 0.24,
+    "ambient_intensity": 0.19,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_095.png",
+    "light_intensity": 6.85,
+    "shadow_opacity": 0.18,
+    "ambient_intensity": 0.12,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_096.png",
+    "light_intensity": 7.29,
+    "shadow_opacity": 0.43,
+    "ambient_intensity": 0.17,
+    "board_size": 5,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_097.png",
+    "light_intensity": 5.98,
+    "shadow_opacity": 0.59,
+    "ambient_intensity": 0.11,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_098.png",
+    "light_intensity": 9.99,
+    "shadow_opacity": 0.5,
+    "ambient_intensity": 0.07,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_099.png",
+    "light_intensity": 2.98,
+    "shadow_opacity": 0.54,
+    "ambient_intensity": 0.17,
+    "board_size": 6,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_100.png",
+    "light_intensity": 1.29,
+    "shadow_opacity": 0.35,
+    "ambient_intensity": 0.01,
+    "board_size": 4,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_101.png",
+    "light_intensity": 9.92,
+    "shadow_opacity": 0.36,
+    "ambient_intensity": 0.07,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_102.png",
+    "light_intensity": 1.77,
+    "shadow_opacity": 0.44,
+    "ambient_intensity": 0.06,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_103.png",
+    "light_intensity": 6.4,
+    "shadow_opacity": 0.23,
+    "ambient_intensity": 0.07,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_104.png",
+    "light_intensity": 6.34,
+    "shadow_opacity": 0.32,
+    "ambient_intensity": 0.14,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_105.png",
+    "light_intensity": 3.09,
+    "shadow_opacity": 0.37,
+    "ambient_intensity": 0.05,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_106.png",
+    "light_intensity": 9.02,
+    "shadow_opacity": 0.17,
+    "ambient_intensity": 0.15,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_107.png",
+    "light_intensity": 1.5,
+    "shadow_opacity": 0.46,
+    "ambient_intensity": 0.03,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_108.png",
+    "light_intensity": 5.86,
+    "shadow_opacity": 0.52,
+    "ambient_intensity": 0.18,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_109.png",
+    "light_intensity": 2,
+    "shadow_opacity": 0.5,
+    "ambient_intensity": 0.1,
+    "board_size": 5,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_110.png",
+    "light_intensity": 7.99,
+    "shadow_opacity": 0.27,
+    "ambient_intensity": 0.01,
+    "board_size": 6,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_111.png",
+    "light_intensity": 8.62,
+    "shadow_opacity": 0.42,
+    "ambient_intensity": 0.02,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_112.png",
+    "light_intensity": 9.94,
+    "shadow_opacity": 0.23,
+    "ambient_intensity": 0.11,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_113.png",
+    "light_intensity": 5.65,
+    "shadow_opacity": 0.32,
+    "ambient_intensity": 0.1,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_114.png",
+    "light_intensity": 5.78,
+    "shadow_opacity": 0.59,
+    "ambient_intensity": 0.1,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_115.png",
+    "light_intensity": 5.71,
+    "shadow_opacity": 0.32,
+    "ambient_intensity": 0.18,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_116.png",
+    "light_intensity": 5.14,
+    "shadow_opacity": 0.46,
+    "ambient_intensity": 0.13,
+    "board_size": 5,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_117.png",
+    "light_intensity": 3.67,
+    "shadow_opacity": 0.21,
+    "ambient_intensity": 0.1,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_118.png",
+    "light_intensity": 7.77,
+    "shadow_opacity": 0.59,
+    "ambient_intensity": 0.06,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_119.png",
+    "light_intensity": 3.66,
+    "shadow_opacity": 0.22,
+    "ambient_intensity": 0.02,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_120.png",
+    "light_intensity": 1.23,
+    "shadow_opacity": 0.19,
+    "ambient_intensity": 0.08,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_121.png",
+    "light_intensity": 1.2,
+    "shadow_opacity": 0.32,
+    "ambient_intensity": 0.11,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_122.png",
+    "light_intensity": 7.36,
+    "shadow_opacity": 0.32,
+    "ambient_intensity": 0.1,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_123.png",
+    "light_intensity": 1.55,
+    "shadow_opacity": 0.54,
+    "ambient_intensity": 0.16,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_124.png",
+    "light_intensity": 3.83,
+    "shadow_opacity": 0.16,
+    "ambient_intensity": 0.14,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_125.png",
+    "light_intensity": 9.02,
+    "shadow_opacity": 0.27,
+    "ambient_intensity": 0.07,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_126.png",
+    "light_intensity": 8.67,
+    "shadow_opacity": 0.26,
+    "ambient_intensity": 0.05,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_127.png",
+    "light_intensity": 2.94,
+    "shadow_opacity": 0.44,
+    "ambient_intensity": 0.16,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_128.png",
+    "light_intensity": 3.34,
+    "shadow_opacity": 0.5,
+    "ambient_intensity": 0.08,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_129.png",
+    "light_intensity": 8.67,
+    "shadow_opacity": 0.32,
+    "ambient_intensity": 0.03,
+    "board_size": 7,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_130.png",
+    "light_intensity": 6.84,
+    "shadow_opacity": 0.51,
+    "ambient_intensity": 0.1,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_131.png",
+    "light_intensity": 4.83,
+    "shadow_opacity": 0.29,
+    "ambient_intensity": 0.07,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_132.png",
+    "light_intensity": 7.28,
+    "shadow_opacity": 0.25,
+    "ambient_intensity": 0.19,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_133.png",
+    "light_intensity": 8.11,
+    "shadow_opacity": 0.34,
+    "ambient_intensity": 0.13,
+    "board_size": 4,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_134.png",
+    "light_intensity": 5.71,
+    "shadow_opacity": 0.35,
+    "ambient_intensity": 0.13,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_135.png",
+    "light_intensity": 8.08,
+    "shadow_opacity": 0.3,
+    "ambient_intensity": 0.13,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_136.png",
+    "light_intensity": 5.98,
+    "shadow_opacity": 0.24,
+    "ambient_intensity": 0.02,
+    "board_size": 4,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_137.png",
+    "light_intensity": 8.04,
+    "shadow_opacity": 0.21,
+    "ambient_intensity": 0.09,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_138.png",
+    "light_intensity": 4.84,
+    "shadow_opacity": 0.3,
+    "ambient_intensity": 0.12,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_139.png",
+    "light_intensity": 3.37,
+    "shadow_opacity": 0.26,
+    "ambient_intensity": 0.13,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_140.png",
+    "light_intensity": 8.34,
+    "shadow_opacity": 0.21,
+    "ambient_intensity": 0.15,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_141.png",
+    "light_intensity": 8.47,
+    "shadow_opacity": 0.21,
+    "ambient_intensity": 0.19,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_142.png",
+    "light_intensity": 7.71,
+    "shadow_opacity": 0.46,
+    "ambient_intensity": 0.05,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_143.png",
+    "light_intensity": 2.41,
+    "shadow_opacity": 0.52,
+    "ambient_intensity": 0.03,
+    "board_size": 4,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_144.png",
+    "light_intensity": 2.48,
+    "shadow_opacity": 0.22,
+    "ambient_intensity": 0.15,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_145.png",
+    "light_intensity": 9.06,
+    "shadow_opacity": 0.45,
+    "ambient_intensity": 0.09,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_146.png",
+    "light_intensity": 2.81,
+    "shadow_opacity": 0.49,
+    "ambient_intensity": 0.17,
+    "board_size": 7,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_147.png",
+    "light_intensity": 3.23,
+    "shadow_opacity": 0.32,
+    "ambient_intensity": 0.06,
+    "board_size": 7,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_148.png",
+    "light_intensity": 7.42,
+    "shadow_opacity": 0.4,
+    "ambient_intensity": 0.1,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_149.png",
+    "light_intensity": 8.73,
+    "shadow_opacity": 0.28,
+    "ambient_intensity": 0.04,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_150.png",
+    "light_intensity": 5.64,
+    "shadow_opacity": 0.27,
+    "ambient_intensity": 0.15,
+    "board_size": 4,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_151.png",
+    "light_intensity": 6.63,
+    "shadow_opacity": 0.47,
+    "ambient_intensity": 0.12,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_152.png",
+    "light_intensity": 5.65,
+    "shadow_opacity": 0.26,
+    "ambient_intensity": 0.02,
+    "board_size": 4,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_153.png",
+    "light_intensity": 7.24,
+    "shadow_opacity": 0.17,
+    "ambient_intensity": 0.13,
+    "board_size": 5,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_154.png",
+    "light_intensity": 9.72,
+    "shadow_opacity": 0.2,
+    "ambient_intensity": 0.15,
+    "board_size": 4,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_155.png",
+    "light_intensity": 9.13,
+    "shadow_opacity": 0.27,
+    "ambient_intensity": 0.2,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_156.png",
+    "light_intensity": 5.74,
+    "shadow_opacity": 0.38,
+    "ambient_intensity": 0.1,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_157.png",
+    "light_intensity": 9.9,
+    "shadow_opacity": 0.18,
+    "ambient_intensity": 0.13,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_158.png",
+    "light_intensity": 5.54,
+    "shadow_opacity": 0.19,
+    "ambient_intensity": 0.09,
+    "board_size": 5,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_159.png",
+    "light_intensity": 1.64,
+    "shadow_opacity": 0.31,
+    "ambient_intensity": 0.03,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_160.png",
+    "light_intensity": 2.78,
+    "shadow_opacity": 0.42,
+    "ambient_intensity": 0.02,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_161.png",
+    "light_intensity": 5.15,
+    "shadow_opacity": 0.41,
+    "ambient_intensity": 0.07,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_162.png",
+    "light_intensity": 7.88,
+    "shadow_opacity": 0.51,
+    "ambient_intensity": 0.02,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_163.png",
+    "light_intensity": 5.65,
+    "shadow_opacity": 0.57,
+    "ambient_intensity": 0.04,
+    "board_size": 4,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_164.png",
+    "light_intensity": 3.76,
+    "shadow_opacity": 0.36,
+    "ambient_intensity": 0.19,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_165.png",
+    "light_intensity": 9.87,
+    "shadow_opacity": 0.39,
+    "ambient_intensity": 0.05,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_166.png",
+    "light_intensity": 6.06,
+    "shadow_opacity": 0.55,
+    "ambient_intensity": 0.17,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_167.png",
+    "light_intensity": 9.73,
+    "shadow_opacity": 0.41,
+    "ambient_intensity": 0.06,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_168.png",
+    "light_intensity": 5.74,
+    "shadow_opacity": 0.57,
+    "ambient_intensity": 0.14,
+    "board_size": 7,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_169.png",
+    "light_intensity": 8.71,
+    "shadow_opacity": 0.34,
+    "ambient_intensity": 0.07,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_170.png",
+    "light_intensity": 1.69,
+    "shadow_opacity": 0.37,
+    "ambient_intensity": 0.14,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_171.png",
+    "light_intensity": 9.83,
+    "shadow_opacity": 0.5,
+    "ambient_intensity": 0.02,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_172.png",
+    "light_intensity": 6.4,
+    "shadow_opacity": 0.44,
+    "ambient_intensity": 0.19,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_173.png",
+    "light_intensity": 4.71,
+    "shadow_opacity": 0.21,
+    "ambient_intensity": 0.14,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_174.png",
+    "light_intensity": 1.64,
+    "shadow_opacity": 0.5,
+    "ambient_intensity": 0.16,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_175.png",
+    "light_intensity": 1.25,
+    "shadow_opacity": 0.48,
+    "ambient_intensity": 0.16,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_176.png",
+    "light_intensity": 1.99,
+    "shadow_opacity": 0.32,
+    "ambient_intensity": 0.17,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_177.png",
+    "light_intensity": 1.2,
+    "shadow_opacity": 0.39,
+    "ambient_intensity": 0.13,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_178.png",
+    "light_intensity": 4.15,
+    "shadow_opacity": 0.4,
+    "ambient_intensity": 0.06,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_179.png",
+    "light_intensity": 3.06,
+    "shadow_opacity": 0.22,
+    "ambient_intensity": 0.05,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_180.png",
+    "light_intensity": 7.37,
+    "shadow_opacity": 0.56,
+    "ambient_intensity": 0.19,
+    "board_size": 6,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_181.png",
+    "light_intensity": 4.63,
+    "shadow_opacity": 0.37,
+    "ambient_intensity": 0.04,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_182.png",
+    "light_intensity": 4.12,
+    "shadow_opacity": 0.21,
+    "ambient_intensity": 0.04,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_183.png",
+    "light_intensity": 9.23,
+    "shadow_opacity": 0.23,
+    "ambient_intensity": 0.15,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_184.png",
+    "light_intensity": 8.18,
+    "shadow_opacity": 0.26,
+    "ambient_intensity": 0.13,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_185.png",
+    "light_intensity": 8.02,
+    "shadow_opacity": 0.17,
+    "ambient_intensity": 0.07,
+    "board_size": 5,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_186.png",
+    "light_intensity": 5.08,
+    "shadow_opacity": 0.47,
+    "ambient_intensity": 0.15,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_187.png",
+    "light_intensity": 2.21,
+    "shadow_opacity": 0.24,
+    "ambient_intensity": 0.1,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_188.png",
+    "light_intensity": 9.59,
+    "shadow_opacity": 0.45,
+    "ambient_intensity": 0.11,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_189.png",
+    "light_intensity": 9.18,
+    "shadow_opacity": 0.18,
+    "ambient_intensity": 0.12,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_190.png",
+    "light_intensity": 1.72,
+    "shadow_opacity": 0.31,
+    "ambient_intensity": 0.07,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_191.png",
+    "light_intensity": 6.71,
+    "shadow_opacity": 0.28,
+    "ambient_intensity": 0.06,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_192.png",
+    "light_intensity": 4.1,
+    "shadow_opacity": 0.47,
+    "ambient_intensity": 0.04,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_193.png",
+    "light_intensity": 7.77,
+    "shadow_opacity": 0.25,
+    "ambient_intensity": 0.19,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_194.png",
+    "light_intensity": 4.31,
+    "shadow_opacity": 0.28,
+    "ambient_intensity": 0.19,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_195.png",
+    "light_intensity": 5.45,
+    "shadow_opacity": 0.44,
+    "ambient_intensity": 0.17,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_196.png",
+    "light_intensity": 3.48,
+    "shadow_opacity": 0.54,
+    "ambient_intensity": 0.13,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_197.png",
+    "light_intensity": 2.37,
+    "shadow_opacity": 0.22,
+    "ambient_intensity": 0.16,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_198.png",
+    "light_intensity": 2.98,
+    "shadow_opacity": 0.25,
+    "ambient_intensity": 0.06,
+    "board_size": 4,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_199.png",
+    "light_intensity": 1.74,
+    "shadow_opacity": 0.27,
+    "ambient_intensity": 0.16,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_200.png",
+    "light_intensity": 2.42,
+    "shadow_opacity": 0.23,
+    "ambient_intensity": 0.05,
+    "board_size": 4,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_201.png",
+    "light_intensity": 3.59,
+    "shadow_opacity": 0.56,
+    "ambient_intensity": 0.14,
+    "board_size": 6,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_202.png",
+    "light_intensity": 6.34,
+    "shadow_opacity": 0.39,
+    "ambient_intensity": 0.19,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_203.png",
+    "light_intensity": 1.65,
+    "shadow_opacity": 0.26,
+    "ambient_intensity": 0.14,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_204.png",
+    "light_intensity": 5.39,
+    "shadow_opacity": 0.57,
+    "ambient_intensity": 0.2,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_205.png",
+    "light_intensity": 1.82,
+    "shadow_opacity": 0.23,
+    "ambient_intensity": 0.12,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_206.png",
+    "light_intensity": 3.04,
+    "shadow_opacity": 0.57,
+    "ambient_intensity": 0.01,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_207.png",
+    "light_intensity": 8.85,
+    "shadow_opacity": 0.18,
+    "ambient_intensity": 0.19,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_208.png",
+    "light_intensity": 2.67,
+    "shadow_opacity": 0.37,
+    "ambient_intensity": 0.09,
+    "board_size": 5,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_209.png",
+    "light_intensity": 2.18,
+    "shadow_opacity": 0.28,
+    "ambient_intensity": 0.02,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_210.png",
+    "light_intensity": 8.85,
+    "shadow_opacity": 0.5,
+    "ambient_intensity": 0.07,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_211.png",
+    "light_intensity": 9.55,
+    "shadow_opacity": 0.59,
+    "ambient_intensity": 0.2,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_212.png",
+    "light_intensity": 8.17,
+    "shadow_opacity": 0.35,
+    "ambient_intensity": 0.18,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_213.png",
+    "light_intensity": 3.34,
+    "shadow_opacity": 0.19,
+    "ambient_intensity": 0.05,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_214.png",
+    "light_intensity": 2.31,
+    "shadow_opacity": 0.19,
+    "ambient_intensity": 0.03,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_215.png",
+    "light_intensity": 4.72,
+    "shadow_opacity": 0.57,
+    "ambient_intensity": 0.18,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_216.png",
+    "light_intensity": 1.65,
+    "shadow_opacity": 0.22,
+    "ambient_intensity": 0.02,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_217.png",
+    "light_intensity": 7.55,
+    "shadow_opacity": 0.5,
+    "ambient_intensity": 0.09,
+    "board_size": 6,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_218.png",
+    "light_intensity": 7.06,
+    "shadow_opacity": 0.22,
+    "ambient_intensity": 0.19,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_219.png",
+    "light_intensity": 5.71,
+    "shadow_opacity": 0.25,
+    "ambient_intensity": 0.08,
+    "board_size": 7,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_220.png",
+    "light_intensity": 1.22,
+    "shadow_opacity": 0.27,
+    "ambient_intensity": 0.13,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_221.png",
+    "light_intensity": 1.12,
+    "shadow_opacity": 0.33,
+    "ambient_intensity": 0.2,
+    "board_size": 5,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_222.png",
+    "light_intensity": 9.93,
+    "shadow_opacity": 0.36,
+    "ambient_intensity": 0.15,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_223.png",
+    "light_intensity": 7.76,
+    "shadow_opacity": 0.52,
+    "ambient_intensity": 0.01,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_224.png",
+    "light_intensity": 1.53,
+    "shadow_opacity": 0.55,
+    "ambient_intensity": 0.09,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_225.png",
+    "light_intensity": 1.36,
+    "shadow_opacity": 0.28,
+    "ambient_intensity": 0.19,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_226.png",
+    "light_intensity": 1.87,
+    "shadow_opacity": 0.19,
+    "ambient_intensity": 0.06,
+    "board_size": 5,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_227.png",
+    "light_intensity": 6.87,
+    "shadow_opacity": 0.44,
+    "ambient_intensity": 0.1,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_228.png",
+    "light_intensity": 8.62,
+    "shadow_opacity": 0.55,
+    "ambient_intensity": 0.09,
+    "board_size": 4,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_229.png",
+    "light_intensity": 4.24,
+    "shadow_opacity": 0.37,
+    "ambient_intensity": 0.15,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_230.png",
+    "light_intensity": 9.59,
+    "shadow_opacity": 0.44,
+    "ambient_intensity": 0.04,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_231.png",
+    "light_intensity": 1.9,
+    "shadow_opacity": 0.18,
+    "ambient_intensity": 0.04,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_232.png",
+    "light_intensity": 5.14,
+    "shadow_opacity": 0.47,
+    "ambient_intensity": 0.14,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_233.png",
+    "light_intensity": 7.2,
+    "shadow_opacity": 0.38,
+    "ambient_intensity": 0.12,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_234.png",
+    "light_intensity": 2.45,
+    "shadow_opacity": 0.28,
+    "ambient_intensity": 0.04,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_235.png",
+    "light_intensity": 8.78,
+    "shadow_opacity": 0.17,
+    "ambient_intensity": 0.02,
+    "board_size": 6,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_236.png",
+    "light_intensity": 5.01,
+    "shadow_opacity": 0.25,
+    "ambient_intensity": 0.03,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_237.png",
+    "light_intensity": 8.8,
+    "shadow_opacity": 0.29,
+    "ambient_intensity": 0.12,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_238.png",
+    "light_intensity": 5.62,
+    "shadow_opacity": 0.32,
+    "ambient_intensity": 0.17,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_239.png",
+    "light_intensity": 5.09,
+    "shadow_opacity": 0.57,
+    "ambient_intensity": 0.03,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_240.png",
+    "light_intensity": 3.4,
+    "shadow_opacity": 0.15,
+    "ambient_intensity": 0.1,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_241.png",
+    "light_intensity": 8.85,
+    "shadow_opacity": 0.29,
+    "ambient_intensity": 0.17,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_242.png",
+    "light_intensity": 5.52,
+    "shadow_opacity": 0.42,
+    "ambient_intensity": 0.12,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_243.png",
+    "light_intensity": 3.31,
+    "shadow_opacity": 0.22,
+    "ambient_intensity": 0.13,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_244.png",
+    "light_intensity": 8.26,
+    "shadow_opacity": 0.53,
+    "ambient_intensity": 0.15,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_245.png",
+    "light_intensity": 2.82,
+    "shadow_opacity": 0.18,
+    "ambient_intensity": 0.05,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_246.png",
+    "light_intensity": 3.45,
+    "shadow_opacity": 0.24,
+    "ambient_intensity": 0.18,
+    "board_size": 7,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_247.png",
+    "light_intensity": 2.1,
+    "shadow_opacity": 0.56,
+    "ambient_intensity": 0.14,
+    "board_size": 4,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_248.png",
+    "light_intensity": 2.14,
+    "shadow_opacity": 0.47,
+    "ambient_intensity": 0.04,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_249.png",
+    "light_intensity": 3.53,
+    "shadow_opacity": 0.57,
+    "ambient_intensity": 0.02,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_250.png",
+    "light_intensity": 5.13,
+    "shadow_opacity": 0.49,
+    "ambient_intensity": 0.03,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_251.png",
+    "light_intensity": 4.32,
+    "shadow_opacity": 0.21,
+    "ambient_intensity": 0.02,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_252.png",
+    "light_intensity": 7.07,
+    "shadow_opacity": 0.22,
+    "ambient_intensity": 0.08,
+    "board_size": 4,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_253.png",
+    "light_intensity": 7.59,
+    "shadow_opacity": 0.17,
+    "ambient_intensity": 0.03,
+    "board_size": 5,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_254.png",
+    "light_intensity": 8.5,
+    "shadow_opacity": 0.38,
+    "ambient_intensity": 0.16,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_255.png",
+    "light_intensity": 8.01,
+    "shadow_opacity": 0.59,
+    "ambient_intensity": 0.02,
+    "board_size": 4,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_256.png",
+    "light_intensity": 1.82,
+    "shadow_opacity": 0.39,
+    "ambient_intensity": 0.18,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_257.png",
+    "light_intensity": 7.65,
+    "shadow_opacity": 0.17,
+    "ambient_intensity": 0.11,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_258.png",
+    "light_intensity": 8.25,
+    "shadow_opacity": 0.52,
+    "ambient_intensity": 0.19,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_259.png",
+    "light_intensity": 8.19,
+    "shadow_opacity": 0.27,
+    "ambient_intensity": 0.05,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_260.png",
+    "light_intensity": 9.74,
+    "shadow_opacity": 0.31,
+    "ambient_intensity": 0.19,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_261.png",
+    "light_intensity": 8.18,
+    "shadow_opacity": 0.24,
+    "ambient_intensity": 0.04,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_262.png",
+    "light_intensity": 5.87,
+    "shadow_opacity": 0.52,
+    "ambient_intensity": 0.16,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_263.png",
+    "light_intensity": 8.28,
+    "shadow_opacity": 0.41,
+    "ambient_intensity": 0.11,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_264.png",
+    "light_intensity": 2.62,
+    "shadow_opacity": 0.17,
+    "ambient_intensity": 0.04,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_265.png",
+    "light_intensity": 8.15,
+    "shadow_opacity": 0.37,
+    "ambient_intensity": 0.19,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_266.png",
+    "light_intensity": 9.39,
+    "shadow_opacity": 0.56,
+    "ambient_intensity": 0.03,
+    "board_size": 6,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_267.png",
+    "light_intensity": 5.62,
+    "shadow_opacity": 0.2,
+    "ambient_intensity": 0.08,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_268.png",
+    "light_intensity": 5.69,
+    "shadow_opacity": 0.49,
+    "ambient_intensity": 0.14,
+    "board_size": 6,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_269.png",
+    "light_intensity": 4.99,
+    "shadow_opacity": 0.21,
+    "ambient_intensity": 0.03,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_270.png",
+    "light_intensity": 1.85,
+    "shadow_opacity": 0.57,
+    "ambient_intensity": 0.07,
+    "board_size": 7,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_271.png",
+    "light_intensity": 5.98,
+    "shadow_opacity": 0.41,
+    "ambient_intensity": 0.14,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_272.png",
+    "light_intensity": 9.98,
+    "shadow_opacity": 0.3,
+    "ambient_intensity": 0.03,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_273.png",
+    "light_intensity": 7.27,
+    "shadow_opacity": 0.58,
+    "ambient_intensity": 0.1,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_274.png",
+    "light_intensity": 8.65,
+    "shadow_opacity": 0.5,
+    "ambient_intensity": 0.17,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_275.png",
+    "light_intensity": 1.57,
+    "shadow_opacity": 0.41,
+    "ambient_intensity": 0.03,
+    "board_size": 6,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_276.png",
+    "light_intensity": 1.24,
+    "shadow_opacity": 0.56,
+    "ambient_intensity": 0.03,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_277.png",
+    "light_intensity": 3.09,
+    "shadow_opacity": 0.28,
+    "ambient_intensity": 0.12,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_278.png",
+    "light_intensity": 3.26,
+    "shadow_opacity": 0.3,
+    "ambient_intensity": 0.16,
+    "board_size": 7,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_279.png",
+    "light_intensity": 4.12,
+    "shadow_opacity": 0.48,
+    "ambient_intensity": 0.18,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_280.png",
+    "light_intensity": 5.43,
+    "shadow_opacity": 0.39,
+    "ambient_intensity": 0.14,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_281.png",
+    "light_intensity": 4.63,
+    "shadow_opacity": 0.54,
+    "ambient_intensity": 0.1,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_282.png",
+    "light_intensity": 7.97,
+    "shadow_opacity": 0.48,
+    "ambient_intensity": 0.05,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_283.png",
+    "light_intensity": 4.62,
+    "shadow_opacity": 0.5,
+    "ambient_intensity": 0.14,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_284.png",
+    "light_intensity": 9.38,
+    "shadow_opacity": 0.15,
+    "ambient_intensity": 0.09,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_285.png",
+    "light_intensity": 7.55,
+    "shadow_opacity": 0.36,
+    "ambient_intensity": 0.03,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_286.png",
+    "light_intensity": 6.22,
+    "shadow_opacity": 0.2,
+    "ambient_intensity": 0.17,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_287.png",
+    "light_intensity": 8.72,
+    "shadow_opacity": 0.59,
+    "ambient_intensity": 0.12,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_288.png",
+    "light_intensity": 2.37,
+    "shadow_opacity": 0.34,
+    "ambient_intensity": 0.06,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_289.png",
+    "light_intensity": 2.81,
+    "shadow_opacity": 0.55,
+    "ambient_intensity": 0.16,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_290.png",
+    "light_intensity": 2.48,
+    "shadow_opacity": 0.54,
+    "ambient_intensity": 0.05,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_291.png",
+    "light_intensity": 5.73,
+    "shadow_opacity": 0.45,
+    "ambient_intensity": 0.18,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_292.png",
+    "light_intensity": 7.42,
+    "shadow_opacity": 0.27,
+    "ambient_intensity": 0.12,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_293.png",
+    "light_intensity": 2.01,
+    "shadow_opacity": 0.49,
+    "ambient_intensity": 0.16,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_294.png",
+    "light_intensity": 9.98,
+    "shadow_opacity": 0.25,
+    "ambient_intensity": 0.07,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_295.png",
+    "light_intensity": 8.54,
+    "shadow_opacity": 0.29,
+    "ambient_intensity": 0.09,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_296.png",
+    "light_intensity": 6.91,
+    "shadow_opacity": 0.33,
+    "ambient_intensity": 0.19,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_297.png",
+    "light_intensity": 6.71,
+    "shadow_opacity": 0.23,
+    "ambient_intensity": 0.06,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_298.png",
+    "light_intensity": 1.17,
+    "shadow_opacity": 0.26,
+    "ambient_intensity": 0.01,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_299.png",
+    "light_intensity": 3.96,
+    "shadow_opacity": 0.34,
+    "ambient_intensity": 0.17,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_300.png",
+    "light_intensity": 3.57,
+    "shadow_opacity": 0.57,
+    "ambient_intensity": 0.06,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_301.png",
+    "light_intensity": 9.43,
+    "shadow_opacity": 0.4,
+    "ambient_intensity": 0.09,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_302.png",
+    "light_intensity": 3.18,
+    "shadow_opacity": 0.47,
+    "ambient_intensity": 0.15,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_303.png",
+    "light_intensity": 9.24,
+    "shadow_opacity": 0.22,
+    "ambient_intensity": 0.16,
+    "board_size": 6,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_304.png",
+    "light_intensity": 1.79,
+    "shadow_opacity": 0.16,
+    "ambient_intensity": 0.03,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_305.png",
+    "light_intensity": 6.54,
+    "shadow_opacity": 0.56,
+    "ambient_intensity": 0.13,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_306.png",
+    "light_intensity": 3.04,
+    "shadow_opacity": 0.55,
+    "ambient_intensity": 0.16,
+    "board_size": 6,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_307.png",
+    "light_intensity": 5.72,
+    "shadow_opacity": 0.38,
+    "ambient_intensity": 0.03,
+    "board_size": 4,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_308.png",
+    "light_intensity": 2.38,
+    "shadow_opacity": 0.38,
+    "ambient_intensity": 0.19,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_309.png",
+    "light_intensity": 2.71,
+    "shadow_opacity": 0.37,
+    "ambient_intensity": 0.14,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_310.png",
+    "light_intensity": 1.06,
+    "shadow_opacity": 0.3,
+    "ambient_intensity": 0.16,
+    "board_size": 4,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_311.png",
+    "light_intensity": 5.84,
+    "shadow_opacity": 0.59,
+    "ambient_intensity": 0.11,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_312.png",
+    "light_intensity": 3.82,
+    "shadow_opacity": 0.19,
+    "ambient_intensity": 0.08,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_313.png",
+    "light_intensity": 8.38,
+    "shadow_opacity": 0.24,
+    "ambient_intensity": 0.06,
+    "board_size": 6,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_314.png",
+    "light_intensity": 2.81,
+    "shadow_opacity": 0.58,
+    "ambient_intensity": 0.18,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_315.png",
+    "light_intensity": 8.56,
+    "shadow_opacity": 0.37,
+    "ambient_intensity": 0.11,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_316.png",
+    "light_intensity": 5.58,
+    "shadow_opacity": 0.3,
+    "ambient_intensity": 0.05,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_317.png",
+    "light_intensity": 2.95,
+    "shadow_opacity": 0.5,
+    "ambient_intensity": 0.18,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_318.png",
+    "light_intensity": 4.69,
+    "shadow_opacity": 0.15,
+    "ambient_intensity": 0.17,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_319.png",
+    "light_intensity": 8.16,
+    "shadow_opacity": 0.23,
+    "ambient_intensity": 0.19,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_320.png",
+    "light_intensity": 1.81,
+    "shadow_opacity": 0.27,
+    "ambient_intensity": 0.11,
+    "board_size": 6,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_321.png",
+    "light_intensity": 2.7,
+    "shadow_opacity": 0.49,
+    "ambient_intensity": 0.1,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_322.png",
+    "light_intensity": 5.54,
+    "shadow_opacity": 0.47,
+    "ambient_intensity": 0.07,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_323.png",
+    "light_intensity": 6.28,
+    "shadow_opacity": 0.47,
+    "ambient_intensity": 0.08,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_324.png",
+    "light_intensity": 9.03,
+    "shadow_opacity": 0.34,
+    "ambient_intensity": 0.05,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_325.png",
+    "light_intensity": 6.13,
+    "shadow_opacity": 0.3,
+    "ambient_intensity": 0.02,
+    "board_size": 5,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_326.png",
+    "light_intensity": 8.27,
+    "shadow_opacity": 0.33,
+    "ambient_intensity": 0.04,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_327.png",
+    "light_intensity": 7.99,
+    "shadow_opacity": 0.41,
+    "ambient_intensity": 0.05,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_328.png",
+    "light_intensity": 5.65,
+    "shadow_opacity": 0.43,
+    "ambient_intensity": 0.11,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_329.png",
+    "light_intensity": 2.02,
+    "shadow_opacity": 0.39,
+    "ambient_intensity": 0.08,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_330.png",
+    "light_intensity": 3.57,
+    "shadow_opacity": 0.56,
+    "ambient_intensity": 0.08,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_331.png",
+    "light_intensity": 8.21,
+    "shadow_opacity": 0.6,
+    "ambient_intensity": 0.02,
+    "board_size": 7,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_332.png",
+    "light_intensity": 3.45,
+    "shadow_opacity": 0.53,
+    "ambient_intensity": 0.13,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_333.png",
+    "light_intensity": 1.3,
+    "shadow_opacity": 0.29,
+    "ambient_intensity": 0.19,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_334.png",
+    "light_intensity": 6.55,
+    "shadow_opacity": 0.45,
+    "ambient_intensity": 0.03,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_335.png",
+    "light_intensity": 2.58,
+    "shadow_opacity": 0.37,
+    "ambient_intensity": 0.04,
+    "board_size": 4,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_336.png",
+    "light_intensity": 4.87,
+    "shadow_opacity": 0.52,
+    "ambient_intensity": 0.02,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_337.png",
+    "light_intensity": 3.25,
+    "shadow_opacity": 0.31,
+    "ambient_intensity": 0.07,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_338.png",
+    "light_intensity": 4.01,
+    "shadow_opacity": 0.25,
+    "ambient_intensity": 0.11,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_339.png",
+    "light_intensity": 8.95,
+    "shadow_opacity": 0.19,
+    "ambient_intensity": 0.02,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_340.png",
+    "light_intensity": 4.55,
+    "shadow_opacity": 0.4,
+    "ambient_intensity": 0.19,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_341.png",
+    "light_intensity": 4.98,
+    "shadow_opacity": 0.59,
+    "ambient_intensity": 0.06,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_342.png",
+    "light_intensity": 9.83,
+    "shadow_opacity": 0.49,
+    "ambient_intensity": 0.02,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_343.png",
+    "light_intensity": 1.93,
+    "shadow_opacity": 0.4,
+    "ambient_intensity": 0.11,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_344.png",
+    "light_intensity": 1.73,
+    "shadow_opacity": 0.39,
+    "ambient_intensity": 0.05,
+    "board_size": 4,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_345.png",
+    "light_intensity": 1.77,
+    "shadow_opacity": 0.51,
+    "ambient_intensity": 0.1,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_346.png",
+    "light_intensity": 4.33,
+    "shadow_opacity": 0.29,
+    "ambient_intensity": 0.1,
+    "board_size": 5,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_347.png",
+    "light_intensity": 4.51,
+    "shadow_opacity": 0.51,
+    "ambient_intensity": 0.14,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_348.png",
+    "light_intensity": 1.48,
+    "shadow_opacity": 0.38,
+    "ambient_intensity": 0.11,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_349.png",
+    "light_intensity": 9.83,
+    "shadow_opacity": 0.5,
+    "ambient_intensity": 0.12,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_350.png",
+    "light_intensity": 8.2,
+    "shadow_opacity": 0.53,
+    "ambient_intensity": 0.07,
+    "board_size": 5,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_351.png",
+    "light_intensity": 1.49,
+    "shadow_opacity": 0.51,
+    "ambient_intensity": 0.08,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_352.png",
+    "light_intensity": 4.01,
+    "shadow_opacity": 0.24,
+    "ambient_intensity": 0.1,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_353.png",
+    "light_intensity": 8.47,
+    "shadow_opacity": 0.29,
+    "ambient_intensity": 0.03,
+    "board_size": 6,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_354.png",
+    "light_intensity": 6.21,
+    "shadow_opacity": 0.57,
+    "ambient_intensity": 0.04,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_355.png",
+    "light_intensity": 4.32,
+    "shadow_opacity": 0.52,
+    "ambient_intensity": 0.1,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_356.png",
+    "light_intensity": 9.07,
+    "shadow_opacity": 0.33,
+    "ambient_intensity": 0.04,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_357.png",
+    "light_intensity": 1.49,
+    "shadow_opacity": 0.43,
+    "ambient_intensity": 0.09,
+    "board_size": 5,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_358.png",
+    "light_intensity": 7.94,
+    "shadow_opacity": 0.44,
+    "ambient_intensity": 0.08,
+    "board_size": 5,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_359.png",
+    "light_intensity": 6.95,
+    "shadow_opacity": 0.39,
+    "ambient_intensity": 0.2,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_360.png",
+    "light_intensity": 9.33,
+    "shadow_opacity": 0.59,
+    "ambient_intensity": 0.03,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_361.png",
+    "light_intensity": 3.22,
+    "shadow_opacity": 0.22,
+    "ambient_intensity": 0.15,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_362.png",
+    "light_intensity": 1.43,
+    "shadow_opacity": 0.3,
+    "ambient_intensity": 0.04,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_363.png",
+    "light_intensity": 9.02,
+    "shadow_opacity": 0.29,
+    "ambient_intensity": 0.17,
+    "board_size": 4,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_364.png",
+    "light_intensity": 3.81,
+    "shadow_opacity": 0.46,
+    "ambient_intensity": 0.11,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_365.png",
+    "light_intensity": 7.65,
+    "shadow_opacity": 0.57,
+    "ambient_intensity": 0.05,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_366.png",
+    "light_intensity": 9.12,
+    "shadow_opacity": 0.42,
+    "ambient_intensity": 0.1,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_367.png",
+    "light_intensity": 1.81,
+    "shadow_opacity": 0.38,
+    "ambient_intensity": 0.05,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_368.png",
+    "light_intensity": 8.15,
+    "shadow_opacity": 0.41,
+    "ambient_intensity": 0.04,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_369.png",
+    "light_intensity": 1.34,
+    "shadow_opacity": 0.52,
+    "ambient_intensity": 0.2,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_370.png",
+    "light_intensity": 3.02,
+    "shadow_opacity": 0.44,
+    "ambient_intensity": 0.07,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_371.png",
+    "light_intensity": 6,
+    "shadow_opacity": 0.24,
+    "ambient_intensity": 0.19,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_372.png",
+    "light_intensity": 3.71,
+    "shadow_opacity": 0.47,
+    "ambient_intensity": 0.08,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_373.png",
+    "light_intensity": 7.7,
+    "shadow_opacity": 0.25,
+    "ambient_intensity": 0.15,
+    "board_size": 4,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_374.png",
+    "light_intensity": 3.31,
+    "shadow_opacity": 0.57,
+    "ambient_intensity": 0.01,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_375.png",
+    "light_intensity": 6.08,
+    "shadow_opacity": 0.23,
+    "ambient_intensity": 0.09,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_376.png",
+    "light_intensity": 5.15,
+    "shadow_opacity": 0.37,
+    "ambient_intensity": 0.14,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_377.png",
+    "light_intensity": 4.22,
+    "shadow_opacity": 0.43,
+    "ambient_intensity": 0.19,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_378.png",
+    "light_intensity": 3.29,
+    "shadow_opacity": 0.42,
+    "ambient_intensity": 0.16,
+    "board_size": 4,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_379.png",
+    "light_intensity": 1.25,
+    "shadow_opacity": 0.57,
+    "ambient_intensity": 0.04,
+    "board_size": 4,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_380.png",
+    "light_intensity": 6.43,
+    "shadow_opacity": 0.25,
+    "ambient_intensity": 0.1,
+    "board_size": 4,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_381.png",
+    "light_intensity": 6.59,
+    "shadow_opacity": 0.25,
+    "ambient_intensity": 0.02,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_382.png",
+    "light_intensity": 5.05,
+    "shadow_opacity": 0.36,
+    "ambient_intensity": 0.04,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_383.png",
+    "light_intensity": 3.47,
+    "shadow_opacity": 0.35,
+    "ambient_intensity": 0.04,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_384.png",
+    "light_intensity": 6.18,
+    "shadow_opacity": 0.28,
+    "ambient_intensity": 0.18,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_385.png",
+    "light_intensity": 1.26,
+    "shadow_opacity": 0.22,
+    "ambient_intensity": 0.13,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_386.png",
+    "light_intensity": 3.32,
+    "shadow_opacity": 0.18,
+    "ambient_intensity": 0.19,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_387.png",
+    "light_intensity": 8.4,
+    "shadow_opacity": 0.49,
+    "ambient_intensity": 0.19,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_388.png",
+    "light_intensity": 8.91,
+    "shadow_opacity": 0.56,
+    "ambient_intensity": 0.12,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_389.png",
+    "light_intensity": 6.15,
+    "shadow_opacity": 0.36,
+    "ambient_intensity": 0.17,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_390.png",
+    "light_intensity": 5.96,
+    "shadow_opacity": 0.4,
+    "ambient_intensity": 0.16,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_391.png",
+    "light_intensity": 5.1,
+    "shadow_opacity": 0.41,
+    "ambient_intensity": 0.12,
+    "board_size": 4,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_392.png",
+    "light_intensity": 1.79,
+    "shadow_opacity": 0.29,
+    "ambient_intensity": 0.03,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_393.png",
+    "light_intensity": 5.43,
+    "shadow_opacity": 0.25,
+    "ambient_intensity": 0.09,
+    "board_size": 7,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_394.png",
+    "light_intensity": 7.12,
+    "shadow_opacity": 0.32,
+    "ambient_intensity": 0.01,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_395.png",
+    "light_intensity": 4.4,
+    "shadow_opacity": 0.48,
+    "ambient_intensity": 0.15,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_396.png",
+    "light_intensity": 1.61,
+    "shadow_opacity": 0.37,
+    "ambient_intensity": 0.14,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_397.png",
+    "light_intensity": 2.45,
+    "shadow_opacity": 0.39,
+    "ambient_intensity": 0.19,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_398.png",
+    "light_intensity": 1.64,
+    "shadow_opacity": 0.29,
+    "ambient_intensity": 0.09,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_399.png",
+    "light_intensity": 4.26,
+    "shadow_opacity": 0.28,
+    "ambient_intensity": 0.02,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_400.png",
+    "light_intensity": 5.82,
+    "shadow_opacity": 0.27,
+    "ambient_intensity": 0.01,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_401.png",
+    "light_intensity": 8.08,
+    "shadow_opacity": 0.56,
+    "ambient_intensity": 0.09,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_402.png",
+    "light_intensity": 7.15,
+    "shadow_opacity": 0.57,
+    "ambient_intensity": 0.03,
+    "board_size": 7,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_403.png",
+    "light_intensity": 5.81,
+    "shadow_opacity": 0.4,
+    "ambient_intensity": 0.1,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_404.png",
+    "light_intensity": 1.84,
+    "shadow_opacity": 0.24,
+    "ambient_intensity": 0.09,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_405.png",
+    "light_intensity": 6.51,
+    "shadow_opacity": 0.52,
+    "ambient_intensity": 0.13,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_406.png",
+    "light_intensity": 2.02,
+    "shadow_opacity": 0.24,
+    "ambient_intensity": 0.12,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_407.png",
+    "light_intensity": 2.44,
+    "shadow_opacity": 0.18,
+    "ambient_intensity": 0.12,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_408.png",
+    "light_intensity": 4.48,
+    "shadow_opacity": 0.3,
+    "ambient_intensity": 0.19,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_409.png",
+    "light_intensity": 5.68,
+    "shadow_opacity": 0.23,
+    "ambient_intensity": 0.18,
+    "board_size": 7,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_410.png",
+    "light_intensity": 5.84,
+    "shadow_opacity": 0.52,
+    "ambient_intensity": 0.13,
+    "board_size": 4,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_411.png",
+    "light_intensity": 3.76,
+    "shadow_opacity": 0.46,
+    "ambient_intensity": 0.11,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_412.png",
+    "light_intensity": 8.55,
+    "shadow_opacity": 0.43,
+    "ambient_intensity": 0.16,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_413.png",
+    "light_intensity": 5.36,
+    "shadow_opacity": 0.59,
+    "ambient_intensity": 0.02,
+    "board_size": 7,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_414.png",
+    "light_intensity": 7.22,
+    "shadow_opacity": 0.4,
+    "ambient_intensity": 0.17,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_415.png",
+    "light_intensity": 5.27,
+    "shadow_opacity": 0.52,
+    "ambient_intensity": 0.07,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_416.png",
+    "light_intensity": 8.94,
+    "shadow_opacity": 0.27,
+    "ambient_intensity": 0.03,
+    "board_size": 4,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_417.png",
+    "light_intensity": 2.71,
+    "shadow_opacity": 0.55,
+    "ambient_intensity": 0.04,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_418.png",
+    "light_intensity": 7.24,
+    "shadow_opacity": 0.45,
+    "ambient_intensity": 0.06,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_419.png",
+    "light_intensity": 4.52,
+    "shadow_opacity": 0.34,
+    "ambient_intensity": 0.12,
+    "board_size": 6,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_420.png",
+    "light_intensity": 8.6,
+    "shadow_opacity": 0.47,
+    "ambient_intensity": 0.1,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_421.png",
+    "light_intensity": 5.08,
+    "shadow_opacity": 0.54,
+    "ambient_intensity": 0.02,
+    "board_size": 7,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_422.png",
+    "light_intensity": 8.16,
+    "shadow_opacity": 0.49,
+    "ambient_intensity": 0.13,
+    "board_size": 6,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_423.png",
+    "light_intensity": 3.76,
+    "shadow_opacity": 0.54,
+    "ambient_intensity": 0.19,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_424.png",
+    "light_intensity": 4.74,
+    "shadow_opacity": 0.26,
+    "ambient_intensity": 0.19,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_425.png",
+    "light_intensity": 9.51,
+    "shadow_opacity": 0.35,
+    "ambient_intensity": 0.06,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_426.png",
+    "light_intensity": 4.68,
+    "shadow_opacity": 0.25,
+    "ambient_intensity": 0.07,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_427.png",
+    "light_intensity": 5.33,
+    "shadow_opacity": 0.6,
+    "ambient_intensity": 0.17,
+    "board_size": 6,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_428.png",
+    "light_intensity": 9.81,
+    "shadow_opacity": 0.15,
+    "ambient_intensity": 0.04,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_429.png",
+    "light_intensity": 3.81,
+    "shadow_opacity": 0.2,
+    "ambient_intensity": 0.15,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_430.png",
+    "light_intensity": 3.93,
+    "shadow_opacity": 0.52,
+    "ambient_intensity": 0.15,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_431.png",
+    "light_intensity": 6.74,
+    "shadow_opacity": 0.52,
+    "ambient_intensity": 0.12,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_432.png",
+    "light_intensity": 3.21,
+    "shadow_opacity": 0.24,
+    "ambient_intensity": 0.11,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_433.png",
+    "light_intensity": 9.05,
+    "shadow_opacity": 0.48,
+    "ambient_intensity": 0.03,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_434.png",
+    "light_intensity": 4.29,
+    "shadow_opacity": 0.5,
+    "ambient_intensity": 0.08,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_435.png",
+    "light_intensity": 5.82,
+    "shadow_opacity": 0.55,
+    "ambient_intensity": 0.1,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_436.png",
+    "light_intensity": 6.35,
+    "shadow_opacity": 0.26,
+    "ambient_intensity": 0.18,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_437.png",
+    "light_intensity": 9.28,
+    "shadow_opacity": 0.27,
+    "ambient_intensity": 0.15,
+    "board_size": 6,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_438.png",
+    "light_intensity": 3.47,
+    "shadow_opacity": 0.3,
+    "ambient_intensity": 0.18,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_439.png",
+    "light_intensity": 6.05,
+    "shadow_opacity": 0.43,
+    "ambient_intensity": 0.13,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_440.png",
+    "light_intensity": 4.78,
+    "shadow_opacity": 0.16,
+    "ambient_intensity": 0.05,
+    "board_size": 7,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_441.png",
+    "light_intensity": 6.58,
+    "shadow_opacity": 0.56,
+    "ambient_intensity": 0.14,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_442.png",
+    "light_intensity": 9.36,
+    "shadow_opacity": 0.19,
+    "ambient_intensity": 0.14,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_443.png",
+    "light_intensity": 4.98,
+    "shadow_opacity": 0.36,
+    "ambient_intensity": 0.03,
+    "board_size": 6,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_444.png",
+    "light_intensity": 8.24,
+    "shadow_opacity": 0.23,
+    "ambient_intensity": 0.09,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_445.png",
+    "light_intensity": 9.31,
+    "shadow_opacity": 0.31,
+    "ambient_intensity": 0.13,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_446.png",
+    "light_intensity": 9.92,
+    "shadow_opacity": 0.53,
+    "ambient_intensity": 0.07,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_447.png",
+    "light_intensity": 8,
+    "shadow_opacity": 0.39,
+    "ambient_intensity": 0.07,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_448.png",
+    "light_intensity": 2.55,
+    "shadow_opacity": 0.2,
+    "ambient_intensity": 0.17,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_449.png",
+    "light_intensity": 6.18,
+    "shadow_opacity": 0.37,
+    "ambient_intensity": 0.09,
+    "board_size": 5,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_450.png",
+    "light_intensity": 2.42,
+    "shadow_opacity": 0.34,
+    "ambient_intensity": 0.19,
+    "board_size": 7,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_451.png",
+    "light_intensity": 4.32,
+    "shadow_opacity": 0.29,
+    "ambient_intensity": 0.11,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_452.png",
+    "light_intensity": 8.13,
+    "shadow_opacity": 0.18,
+    "ambient_intensity": 0.07,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_453.png",
+    "light_intensity": 3.71,
+    "shadow_opacity": 0.31,
+    "ambient_intensity": 0.13,
+    "board_size": 4,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_454.png",
+    "light_intensity": 5.41,
+    "shadow_opacity": 0.43,
+    "ambient_intensity": 0.09,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_455.png",
+    "light_intensity": 4.09,
+    "shadow_opacity": 0.53,
+    "ambient_intensity": 0.04,
+    "board_size": 6,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_456.png",
+    "light_intensity": 8.31,
+    "shadow_opacity": 0.29,
+    "ambient_intensity": 0.08,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_457.png",
+    "light_intensity": 8.07,
+    "shadow_opacity": 0.32,
+    "ambient_intensity": 0.06,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_458.png",
+    "light_intensity": 2.8,
+    "shadow_opacity": 0.38,
+    "ambient_intensity": 0.04,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_459.png",
+    "light_intensity": 4.94,
+    "shadow_opacity": 0.36,
+    "ambient_intensity": 0.07,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_460.png",
+    "light_intensity": 5.35,
+    "shadow_opacity": 0.42,
+    "ambient_intensity": 0.03,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_461.png",
+    "light_intensity": 5.92,
+    "shadow_opacity": 0.4,
+    "ambient_intensity": 0.13,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_462.png",
+    "light_intensity": 7.2,
+    "shadow_opacity": 0.26,
+    "ambient_intensity": 0.16,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_463.png",
+    "light_intensity": 8.59,
+    "shadow_opacity": 0.45,
+    "ambient_intensity": 0.19,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_464.png",
+    "light_intensity": 3.37,
+    "shadow_opacity": 0.15,
+    "ambient_intensity": 0.18,
+    "board_size": 5,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_465.png",
+    "light_intensity": 2.69,
+    "shadow_opacity": 0.36,
+    "ambient_intensity": 0.03,
+    "board_size": 5,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_466.png",
+    "light_intensity": 8.96,
+    "shadow_opacity": 0.48,
+    "ambient_intensity": 0.19,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_467.png",
+    "light_intensity": 4.42,
+    "shadow_opacity": 0.55,
+    "ambient_intensity": 0.01,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_468.png",
+    "light_intensity": 9.85,
+    "shadow_opacity": 0.37,
+    "ambient_intensity": 0.12,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_469.png",
+    "light_intensity": 8.55,
+    "shadow_opacity": 0.31,
+    "ambient_intensity": 0.07,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_470.png",
+    "light_intensity": 2.04,
+    "shadow_opacity": 0.27,
+    "ambient_intensity": 0.12,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_471.png",
+    "light_intensity": 5.89,
+    "shadow_opacity": 0.38,
+    "ambient_intensity": 0.11,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_472.png",
+    "light_intensity": 9.14,
+    "shadow_opacity": 0.46,
+    "ambient_intensity": 0.15,
+    "board_size": 6,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_473.png",
+    "light_intensity": 7.65,
+    "shadow_opacity": 0.35,
+    "ambient_intensity": 0.08,
+    "board_size": 6,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_474.png",
+    "light_intensity": 6.82,
+    "shadow_opacity": 0.4,
+    "ambient_intensity": 0.09,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_475.png",
+    "light_intensity": 1.26,
+    "shadow_opacity": 0.24,
+    "ambient_intensity": 0.08,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_476.png",
+    "light_intensity": 4.03,
+    "shadow_opacity": 0.17,
+    "ambient_intensity": 0.13,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_477.png",
+    "light_intensity": 5.48,
+    "shadow_opacity": 0.24,
+    "ambient_intensity": 0.01,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_478.png",
+    "light_intensity": 7.73,
+    "shadow_opacity": 0.52,
+    "ambient_intensity": 0.08,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_479.png",
+    "light_intensity": 2.46,
+    "shadow_opacity": 0.32,
+    "ambient_intensity": 0.08,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_480.png",
+    "light_intensity": 8.59,
+    "shadow_opacity": 0.5,
+    "ambient_intensity": 0.16,
+    "board_size": 5,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_481.png",
+    "light_intensity": 3.59,
+    "shadow_opacity": 0.23,
+    "ambient_intensity": 0.12,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_482.png",
+    "light_intensity": 1.03,
+    "shadow_opacity": 0.32,
+    "ambient_intensity": 0.1,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_483.png",
+    "light_intensity": 5.88,
+    "shadow_opacity": 0.59,
+    "ambient_intensity": 0.05,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_484.png",
+    "light_intensity": 8.03,
+    "shadow_opacity": 0.48,
+    "ambient_intensity": 0.13,
+    "board_size": 4,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_485.png",
+    "light_intensity": 9.58,
+    "shadow_opacity": 0.29,
+    "ambient_intensity": 0.05,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_486.png",
+    "light_intensity": 4.21,
+    "shadow_opacity": 0.55,
+    "ambient_intensity": 0.15,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_487.png",
+    "light_intensity": 5.26,
+    "shadow_opacity": 0.19,
+    "ambient_intensity": 0.19,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_488.png",
+    "light_intensity": 1.01,
+    "shadow_opacity": 0.46,
+    "ambient_intensity": 0.13,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_489.png",
+    "light_intensity": 8.25,
+    "shadow_opacity": 0.3,
+    "ambient_intensity": 0.1,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_490.png",
+    "light_intensity": 2.05,
+    "shadow_opacity": 0.35,
+    "ambient_intensity": 0.18,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_491.png",
+    "light_intensity": 3.16,
+    "shadow_opacity": 0.41,
+    "ambient_intensity": 0.15,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_492.png",
+    "light_intensity": 2.61,
+    "shadow_opacity": 0.17,
+    "ambient_intensity": 0.19,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_493.png",
+    "light_intensity": 2.66,
+    "shadow_opacity": 0.3,
+    "ambient_intensity": 0.15,
+    "board_size": 7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_494.png",
+    "light_intensity": 4.31,
+    "shadow_opacity": 0.39,
+    "ambient_intensity": 0.1,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_495.png",
+    "light_intensity": 5.93,
+    "shadow_opacity": 0.45,
+    "ambient_intensity": 0.01,
+    "board_size": 5,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_496.png",
+    "light_intensity": 8.88,
+    "shadow_opacity": 0.51,
+    "ambient_intensity": 0.06,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_497.png",
+    "light_intensity": 6.06,
+    "shadow_opacity": 0.56,
+    "ambient_intensity": 0.09,
+    "board_size": 6,
+    "is_illusion_active": false
+  },
+  {
+    "image": "checker_shadow_498.png",
+    "light_intensity": 1.95,
+    "shadow_opacity": 0.2,
+    "ambient_intensity": 0.13,
+    "board_size": 6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_499.png",
+    "light_intensity": 1.07,
+    "shadow_opacity": 0.29,
+    "ambient_intensity": 0.1,
+    "board_size": 4,
+    "is_illusion_active": true
+  },
+  {
+    "image": "checker_shadow_500.png",
+    "light_intensity": 8.1,
+    "shadow_opacity": 0.27,
+    "ambient_intensity": 0.05,
+    "board_size": 4,
+    "is_illusion_active": true
+  }
+]

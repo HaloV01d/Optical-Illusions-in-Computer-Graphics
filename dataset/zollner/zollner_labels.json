@@ -1,0 +1,4002 @@
+[
+  {
+    "image": "zollner_001.png",
+    "cross_angle": 47.3,
+    "stroke_length": 0.63,
+    "line_spacing": 1.04,
+    "stroke_spacing": 0.86,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_002.png",
+    "cross_angle": 46,
+    "stroke_length": 0.49,
+    "line_spacing": 0.84,
+    "stroke_spacing": 0.62,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_003.png",
+    "cross_angle": 51.7,
+    "stroke_length": 0.69,
+    "line_spacing": 1.19,
+    "stroke_spacing": 1.04,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_004.png",
+    "cross_angle": 47.1,
+    "stroke_length": 0.41,
+    "line_spacing": 0.78,
+    "stroke_spacing": 1.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_005.png",
+    "cross_angle": 45.3,
+    "stroke_length": 0.85,
+    "line_spacing": 1.4,
+    "stroke_spacing": 1.07,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_006.png",
+    "cross_angle": 32,
+    "stroke_length": 0.97,
+    "line_spacing": 0.5,
+    "stroke_spacing": 0.76,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_007.png",
+    "cross_angle": 51.9,
+    "stroke_length": 0.37,
+    "line_spacing": 0.6,
+    "stroke_spacing": 0.77,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_008.png",
+    "cross_angle": 41.3,
+    "stroke_length": 0.68,
+    "line_spacing": 1.32,
+    "stroke_spacing": 1.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_009.png",
+    "cross_angle": 33.7,
+    "stroke_length": 0.32,
+    "line_spacing": 1.42,
+    "stroke_spacing": 0.99,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_010.png",
+    "cross_angle": 49.5,
+    "stroke_length": 0.51,
+    "line_spacing": 0.97,
+    "stroke_spacing": 0.73,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_011.png",
+    "cross_angle": 30.4,
+    "stroke_length": 0.48,
+    "line_spacing": 1.36,
+    "stroke_spacing": 0.76,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_012.png",
+    "cross_angle": 16.1,
+    "stroke_length": 0.57,
+    "line_spacing": 1.07,
+    "stroke_spacing": 1.19,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_013.png",
+    "cross_angle": 44.8,
+    "stroke_length": 0.5,
+    "line_spacing": 1.48,
+    "stroke_spacing": 1.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_014.png",
+    "cross_angle": 39.9,
+    "stroke_length": 0.51,
+    "line_spacing": 1.43,
+    "stroke_spacing": 1.23,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_015.png",
+    "cross_angle": 20.5,
+    "stroke_length": 0.58,
+    "line_spacing": 0.95,
+    "stroke_spacing": 0.93,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_016.png",
+    "cross_angle": 20,
+    "stroke_length": 0.58,
+    "line_spacing": 0.57,
+    "stroke_spacing": 0.96,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_017.png",
+    "cross_angle": 47.4,
+    "stroke_length": 0.43,
+    "line_spacing": 1.26,
+    "stroke_spacing": 0.87,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_018.png",
+    "cross_angle": 41.8,
+    "stroke_length": 0.55,
+    "line_spacing": 0.87,
+    "stroke_spacing": 0.86,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_019.png",
+    "cross_angle": 45.9,
+    "stroke_length": 0.52,
+    "line_spacing": 0.68,
+    "stroke_spacing": 0.72,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_020.png",
+    "cross_angle": 45.6,
+    "stroke_length": 0.64,
+    "line_spacing": 1.48,
+    "stroke_spacing": 1.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_021.png",
+    "cross_angle": 25.2,
+    "stroke_length": 0.85,
+    "line_spacing": 1.39,
+    "stroke_spacing": 1.01,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_022.png",
+    "cross_angle": 30.4,
+    "stroke_length": 0.98,
+    "line_spacing": 0.86,
+    "stroke_spacing": 1.02,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_023.png",
+    "cross_angle": 49.3,
+    "stroke_length": 0.54,
+    "line_spacing": 1.3,
+    "stroke_spacing": 1.14,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_024.png",
+    "cross_angle": 29.9,
+    "stroke_length": 0.8,
+    "line_spacing": 0.62,
+    "stroke_spacing": 0.73,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_025.png",
+    "cross_angle": 23.4,
+    "stroke_length": 0.73,
+    "line_spacing": 0.53,
+    "stroke_spacing": 1.1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_026.png",
+    "cross_angle": 41.5,
+    "stroke_length": 0.93,
+    "line_spacing": 0.97,
+    "stroke_spacing": 0.69,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_027.png",
+    "cross_angle": 27.6,
+    "stroke_length": 0.51,
+    "line_spacing": 1.49,
+    "stroke_spacing": 1.17,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_028.png",
+    "cross_angle": 52.2,
+    "stroke_length": 0.55,
+    "line_spacing": 0.8,
+    "stroke_spacing": 1.22,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_029.png",
+    "cross_angle": 17.5,
+    "stroke_length": 0.59,
+    "line_spacing": 0.52,
+    "stroke_spacing": 0.85,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_030.png",
+    "cross_angle": 48,
+    "stroke_length": 0.31,
+    "line_spacing": 0.61,
+    "stroke_spacing": 1.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_031.png",
+    "cross_angle": 41.8,
+    "stroke_length": 0.77,
+    "line_spacing": 0.84,
+    "stroke_spacing": 1.2,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_032.png",
+    "cross_angle": 41.5,
+    "stroke_length": 0.9,
+    "line_spacing": 1.32,
+    "stroke_spacing": 0.69,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_033.png",
+    "cross_angle": 37.9,
+    "stroke_length": 0.66,
+    "line_spacing": 0.91,
+    "stroke_spacing": 0.84,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_034.png",
+    "cross_angle": 44.1,
+    "stroke_length": 0.91,
+    "line_spacing": 1.2,
+    "stroke_spacing": 0.92,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_035.png",
+    "cross_angle": 26.8,
+    "stroke_length": 0.32,
+    "line_spacing": 1.32,
+    "stroke_spacing": 1.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_036.png",
+    "cross_angle": 48.7,
+    "stroke_length": 0.43,
+    "line_spacing": 1.08,
+    "stroke_spacing": 1.29,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_037.png",
+    "cross_angle": 36.8,
+    "stroke_length": 0.85,
+    "line_spacing": 0.84,
+    "stroke_spacing": 0.74,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_038.png",
+    "cross_angle": 37.5,
+    "stroke_length": 0.46,
+    "line_spacing": 1.29,
+    "stroke_spacing": 1.07,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_039.png",
+    "cross_angle": 29.8,
+    "stroke_length": 0.9,
+    "line_spacing": 1,
+    "stroke_spacing": 1.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_040.png",
+    "cross_angle": 47.5,
+    "stroke_length": 0.68,
+    "line_spacing": 0.91,
+    "stroke_spacing": 0.8,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_041.png",
+    "cross_angle": 16.2,
+    "stroke_length": 0.53,
+    "line_spacing": 1.39,
+    "stroke_spacing": 1.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_042.png",
+    "cross_angle": 48.7,
+    "stroke_length": 0.73,
+    "line_spacing": 0.55,
+    "stroke_spacing": 0.89,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_043.png",
+    "cross_angle": 31.8,
+    "stroke_length": 0.82,
+    "line_spacing": 0.6,
+    "stroke_spacing": 1.26,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_044.png",
+    "cross_angle": 36.1,
+    "stroke_length": 0.86,
+    "line_spacing": 0.69,
+    "stroke_spacing": 0.67,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_045.png",
+    "cross_angle": 20,
+    "stroke_length": 0.62,
+    "line_spacing": 1.46,
+    "stroke_spacing": 0.8,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_046.png",
+    "cross_angle": 34.2,
+    "stroke_length": 0.57,
+    "line_spacing": 0.92,
+    "stroke_spacing": 1.22,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_047.png",
+    "cross_angle": 25,
+    "stroke_length": 0.3,
+    "line_spacing": 0.7,
+    "stroke_spacing": 1.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_048.png",
+    "cross_angle": 20,
+    "stroke_length": 0.41,
+    "line_spacing": 0.81,
+    "stroke_spacing": 0.89,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_049.png",
+    "cross_angle": 47.5,
+    "stroke_length": 0.47,
+    "line_spacing": 1.37,
+    "stroke_spacing": 1.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_050.png",
+    "cross_angle": 44.6,
+    "stroke_length": 0.85,
+    "line_spacing": 0.7,
+    "stroke_spacing": 0.92,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_051.png",
+    "cross_angle": 29.2,
+    "stroke_length": 0.66,
+    "line_spacing": 1.31,
+    "stroke_spacing": 0.87,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_052.png",
+    "cross_angle": 20,
+    "stroke_length": 0.61,
+    "line_spacing": 1.14,
+    "stroke_spacing": 0.86,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_053.png",
+    "cross_angle": 19.2,
+    "stroke_length": 0.52,
+    "line_spacing": 0.9,
+    "stroke_spacing": 0.74,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_054.png",
+    "cross_angle": 37.1,
+    "stroke_length": 0.63,
+    "line_spacing": 0.92,
+    "stroke_spacing": 0.95,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_055.png",
+    "cross_angle": 26.1,
+    "stroke_length": 0.32,
+    "line_spacing": 0.83,
+    "stroke_spacing": 0.78,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_056.png",
+    "cross_angle": 20.9,
+    "stroke_length": 0.69,
+    "line_spacing": 1.48,
+    "stroke_spacing": 0.96,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_057.png",
+    "cross_angle": 33.1,
+    "stroke_length": 0.99,
+    "line_spacing": 1.22,
+    "stroke_spacing": 1.17,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_058.png",
+    "cross_angle": 25.6,
+    "stroke_length": 0.84,
+    "line_spacing": 1.41,
+    "stroke_spacing": 0.8,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_059.png",
+    "cross_angle": 33.8,
+    "stroke_length": 0.52,
+    "line_spacing": 0.91,
+    "stroke_spacing": 1.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_060.png",
+    "cross_angle": 43.5,
+    "stroke_length": 0.96,
+    "line_spacing": 0.66,
+    "stroke_spacing": 1.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_061.png",
+    "cross_angle": 46.8,
+    "stroke_length": 0.57,
+    "line_spacing": 1.25,
+    "stroke_spacing": 1.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_062.png",
+    "cross_angle": 35.1,
+    "stroke_length": 0.62,
+    "line_spacing": 0.5,
+    "stroke_spacing": 0.7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_063.png",
+    "cross_angle": 51.1,
+    "stroke_length": 0.56,
+    "line_spacing": 0.57,
+    "stroke_spacing": 0.69,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_064.png",
+    "cross_angle": 22,
+    "stroke_length": 0.35,
+    "line_spacing": 0.71,
+    "stroke_spacing": 1.07,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_065.png",
+    "cross_angle": 46.1,
+    "stroke_length": 0.67,
+    "line_spacing": 0.5,
+    "stroke_spacing": 1.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_066.png",
+    "cross_angle": 40.2,
+    "stroke_length": 0.99,
+    "line_spacing": 1.23,
+    "stroke_spacing": 1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_067.png",
+    "cross_angle": 29,
+    "stroke_length": 0.39,
+    "line_spacing": 0.93,
+    "stroke_spacing": 0.92,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_068.png",
+    "cross_angle": 26.3,
+    "stroke_length": 0.62,
+    "line_spacing": 0.8,
+    "stroke_spacing": 0.63,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_069.png",
+    "cross_angle": 52.7,
+    "stroke_length": 0.94,
+    "line_spacing": 1.43,
+    "stroke_spacing": 1.22,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_070.png",
+    "cross_angle": 27.8,
+    "stroke_length": 0.73,
+    "line_spacing": 0.95,
+    "stroke_spacing": 0.95,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_071.png",
+    "cross_angle": 38,
+    "stroke_length": 0.89,
+    "line_spacing": 0.73,
+    "stroke_spacing": 0.85,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_072.png",
+    "cross_angle": 24,
+    "stroke_length": 0.6,
+    "line_spacing": 1.4,
+    "stroke_spacing": 0.76,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_073.png",
+    "cross_angle": 26,
+    "stroke_length": 0.38,
+    "line_spacing": 0.96,
+    "stroke_spacing": 1.02,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_074.png",
+    "cross_angle": 47.7,
+    "stroke_length": 0.84,
+    "line_spacing": 1.18,
+    "stroke_spacing": 0.88,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_075.png",
+    "cross_angle": 43.7,
+    "stroke_length": 0.8,
+    "line_spacing": 1.24,
+    "stroke_spacing": 0.61,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_076.png",
+    "cross_angle": 32.9,
+    "stroke_length": 0.75,
+    "line_spacing": 1.23,
+    "stroke_spacing": 1.18,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_077.png",
+    "cross_angle": 21.3,
+    "stroke_length": 0.85,
+    "line_spacing": 1.35,
+    "stroke_spacing": 1.26,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_078.png",
+    "cross_angle": 32.2,
+    "stroke_length": 0.91,
+    "line_spacing": 1.16,
+    "stroke_spacing": 0.8,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_079.png",
+    "cross_angle": 22.6,
+    "stroke_length": 0.66,
+    "line_spacing": 0.51,
+    "stroke_spacing": 1.18,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_080.png",
+    "cross_angle": 41.2,
+    "stroke_length": 0.7,
+    "line_spacing": 1.3,
+    "stroke_spacing": 1.07,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_081.png",
+    "cross_angle": 30.6,
+    "stroke_length": 0.66,
+    "line_spacing": 1.48,
+    "stroke_spacing": 1.28,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_082.png",
+    "cross_angle": 54.6,
+    "stroke_length": 0.86,
+    "line_spacing": 0.86,
+    "stroke_spacing": 0.66,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_083.png",
+    "cross_angle": 30.8,
+    "stroke_length": 0.35,
+    "line_spacing": 1.28,
+    "stroke_spacing": 1.04,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_084.png",
+    "cross_angle": 47.7,
+    "stroke_length": 0.54,
+    "line_spacing": 1.36,
+    "stroke_spacing": 1.29,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_085.png",
+    "cross_angle": 53.6,
+    "stroke_length": 0.43,
+    "line_spacing": 1.18,
+    "stroke_spacing": 1.06,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_086.png",
+    "cross_angle": 23.3,
+    "stroke_length": 0.75,
+    "line_spacing": 0.71,
+    "stroke_spacing": 0.6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_087.png",
+    "cross_angle": 32.5,
+    "stroke_length": 0.99,
+    "line_spacing": 0.78,
+    "stroke_spacing": 1.08,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_088.png",
+    "cross_angle": 32.7,
+    "stroke_length": 0.63,
+    "line_spacing": 0.86,
+    "stroke_spacing": 0.65,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_089.png",
+    "cross_angle": 20.4,
+    "stroke_length": 0.96,
+    "line_spacing": 0.97,
+    "stroke_spacing": 0.75,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_090.png",
+    "cross_angle": 37.2,
+    "stroke_length": 0.91,
+    "line_spacing": 0.85,
+    "stroke_spacing": 1.15,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_091.png",
+    "cross_angle": 36.9,
+    "stroke_length": 0.95,
+    "line_spacing": 0.65,
+    "stroke_spacing": 0.76,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_092.png",
+    "cross_angle": 43.8,
+    "stroke_length": 0.6,
+    "line_spacing": 1.35,
+    "stroke_spacing": 0.92,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_093.png",
+    "cross_angle": 46.2,
+    "stroke_length": 0.52,
+    "line_spacing": 1.14,
+    "stroke_spacing": 1.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_094.png",
+    "cross_angle": 19.7,
+    "stroke_length": 0.45,
+    "line_spacing": 0.75,
+    "stroke_spacing": 0.77,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_095.png",
+    "cross_angle": 28.4,
+    "stroke_length": 0.97,
+    "line_spacing": 1.2,
+    "stroke_spacing": 0.99,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_096.png",
+    "cross_angle": 26.4,
+    "stroke_length": 0.45,
+    "line_spacing": 1.46,
+    "stroke_spacing": 0.93,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_097.png",
+    "cross_angle": 54.3,
+    "stroke_length": 0.59,
+    "line_spacing": 1.07,
+    "stroke_spacing": 0.67,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_098.png",
+    "cross_angle": 16.9,
+    "stroke_length": 0.52,
+    "line_spacing": 0.59,
+    "stroke_spacing": 0.82,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_099.png",
+    "cross_angle": 24.2,
+    "stroke_length": 0.78,
+    "line_spacing": 0.96,
+    "stroke_spacing": 1.07,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_100.png",
+    "cross_angle": 32.5,
+    "stroke_length": 0.9,
+    "line_spacing": 0.78,
+    "stroke_spacing": 0.88,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_101.png",
+    "cross_angle": 20.4,
+    "stroke_length": 0.62,
+    "line_spacing": 1.34,
+    "stroke_spacing": 1.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_102.png",
+    "cross_angle": 31.6,
+    "stroke_length": 0.46,
+    "line_spacing": 0.72,
+    "stroke_spacing": 1.22,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_103.png",
+    "cross_angle": 37.4,
+    "stroke_length": 0.55,
+    "line_spacing": 1.14,
+    "stroke_spacing": 0.81,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_104.png",
+    "cross_angle": 54.7,
+    "stroke_length": 0.86,
+    "line_spacing": 1.49,
+    "stroke_spacing": 1.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_105.png",
+    "cross_angle": 18.7,
+    "stroke_length": 0.9,
+    "line_spacing": 1.4,
+    "stroke_spacing": 0.79,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_106.png",
+    "cross_angle": 52.5,
+    "stroke_length": 0.78,
+    "line_spacing": 0.65,
+    "stroke_spacing": 0.8,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_107.png",
+    "cross_angle": 44,
+    "stroke_length": 0.54,
+    "line_spacing": 1.12,
+    "stroke_spacing": 1.2,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_108.png",
+    "cross_angle": 30.3,
+    "stroke_length": 0.63,
+    "line_spacing": 1.32,
+    "stroke_spacing": 1.1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_109.png",
+    "cross_angle": 37.3,
+    "stroke_length": 0.92,
+    "line_spacing": 1.06,
+    "stroke_spacing": 0.69,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_110.png",
+    "cross_angle": 29.4,
+    "stroke_length": 0.68,
+    "line_spacing": 0.9,
+    "stroke_spacing": 0.99,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_111.png",
+    "cross_angle": 51.5,
+    "stroke_length": 0.46,
+    "line_spacing": 1.04,
+    "stroke_spacing": 1.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_112.png",
+    "cross_angle": 51.3,
+    "stroke_length": 0.32,
+    "line_spacing": 0.75,
+    "stroke_spacing": 0.88,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_113.png",
+    "cross_angle": 35,
+    "stroke_length": 0.64,
+    "line_spacing": 1.41,
+    "stroke_spacing": 1.17,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_114.png",
+    "cross_angle": 36,
+    "stroke_length": 0.88,
+    "line_spacing": 0.81,
+    "stroke_spacing": 0.94,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_115.png",
+    "cross_angle": 23.2,
+    "stroke_length": 0.75,
+    "line_spacing": 0.78,
+    "stroke_spacing": 0.86,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_116.png",
+    "cross_angle": 17.1,
+    "stroke_length": 0.4,
+    "line_spacing": 1.47,
+    "stroke_spacing": 1.11,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_117.png",
+    "cross_angle": 20.1,
+    "stroke_length": 0.82,
+    "line_spacing": 1.12,
+    "stroke_spacing": 1.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_118.png",
+    "cross_angle": 33.3,
+    "stroke_length": 0.61,
+    "line_spacing": 0.8,
+    "stroke_spacing": 1.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_119.png",
+    "cross_angle": 42.6,
+    "stroke_length": 0.59,
+    "line_spacing": 0.7,
+    "stroke_spacing": 0.76,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_120.png",
+    "cross_angle": 17.3,
+    "stroke_length": 0.88,
+    "line_spacing": 0.78,
+    "stroke_spacing": 1.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_121.png",
+    "cross_angle": 36.3,
+    "stroke_length": 0.95,
+    "line_spacing": 0.61,
+    "stroke_spacing": 0.7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_122.png",
+    "cross_angle": 27.3,
+    "stroke_length": 0.36,
+    "line_spacing": 1.43,
+    "stroke_spacing": 1.26,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_123.png",
+    "cross_angle": 15.4,
+    "stroke_length": 0.8,
+    "line_spacing": 0.88,
+    "stroke_spacing": 1.1,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_124.png",
+    "cross_angle": 46.4,
+    "stroke_length": 0.97,
+    "line_spacing": 1.47,
+    "stroke_spacing": 1.1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_125.png",
+    "cross_angle": 40.3,
+    "stroke_length": 0.77,
+    "line_spacing": 1.21,
+    "stroke_spacing": 0.81,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_126.png",
+    "cross_angle": 23.5,
+    "stroke_length": 0.71,
+    "line_spacing": 1.2,
+    "stroke_spacing": 0.83,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_127.png",
+    "cross_angle": 20.6,
+    "stroke_length": 0.8,
+    "line_spacing": 0.84,
+    "stroke_spacing": 0.62,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_128.png",
+    "cross_angle": 31,
+    "stroke_length": 0.6,
+    "line_spacing": 1.45,
+    "stroke_spacing": 0.91,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_129.png",
+    "cross_angle": 46.8,
+    "stroke_length": 0.63,
+    "line_spacing": 1.19,
+    "stroke_spacing": 0.61,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_130.png",
+    "cross_angle": 23.4,
+    "stroke_length": 0.62,
+    "line_spacing": 1.4,
+    "stroke_spacing": 0.75,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_131.png",
+    "cross_angle": 41.7,
+    "stroke_length": 0.96,
+    "line_spacing": 0.71,
+    "stroke_spacing": 0.62,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_132.png",
+    "cross_angle": 37.7,
+    "stroke_length": 0.32,
+    "line_spacing": 1.47,
+    "stroke_spacing": 1.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_133.png",
+    "cross_angle": 36.6,
+    "stroke_length": 0.82,
+    "line_spacing": 1.03,
+    "stroke_spacing": 0.73,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_134.png",
+    "cross_angle": 45.5,
+    "stroke_length": 0.53,
+    "line_spacing": 1.15,
+    "stroke_spacing": 0.76,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_135.png",
+    "cross_angle": 48.3,
+    "stroke_length": 0.81,
+    "line_spacing": 0.58,
+    "stroke_spacing": 1.02,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_136.png",
+    "cross_angle": 37.1,
+    "stroke_length": 0.94,
+    "line_spacing": 0.69,
+    "stroke_spacing": 0.98,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_137.png",
+    "cross_angle": 32.5,
+    "stroke_length": 0.76,
+    "line_spacing": 1.25,
+    "stroke_spacing": 1.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_138.png",
+    "cross_angle": 48,
+    "stroke_length": 0.94,
+    "line_spacing": 0.81,
+    "stroke_spacing": 1.27,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_139.png",
+    "cross_angle": 34.1,
+    "stroke_length": 0.75,
+    "line_spacing": 1.44,
+    "stroke_spacing": 1.07,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_140.png",
+    "cross_angle": 38.6,
+    "stroke_length": 0.9,
+    "line_spacing": 0.74,
+    "stroke_spacing": 1.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_141.png",
+    "cross_angle": 41.7,
+    "stroke_length": 0.92,
+    "line_spacing": 0.69,
+    "stroke_spacing": 0.82,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_142.png",
+    "cross_angle": 23.8,
+    "stroke_length": 0.83,
+    "line_spacing": 1.43,
+    "stroke_spacing": 1.15,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_143.png",
+    "cross_angle": 51.4,
+    "stroke_length": 0.59,
+    "line_spacing": 0.86,
+    "stroke_spacing": 0.62,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_144.png",
+    "cross_angle": 32.7,
+    "stroke_length": 0.86,
+    "line_spacing": 0.71,
+    "stroke_spacing": 0.94,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_145.png",
+    "cross_angle": 50.7,
+    "stroke_length": 0.82,
+    "line_spacing": 1.16,
+    "stroke_spacing": 1.07,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_146.png",
+    "cross_angle": 46.9,
+    "stroke_length": 0.96,
+    "line_spacing": 1.26,
+    "stroke_spacing": 0.7,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_147.png",
+    "cross_angle": 29.7,
+    "stroke_length": 0.85,
+    "line_spacing": 0.54,
+    "stroke_spacing": 0.89,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_148.png",
+    "cross_angle": 49.6,
+    "stroke_length": 0.97,
+    "line_spacing": 1.09,
+    "stroke_spacing": 0.85,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_149.png",
+    "cross_angle": 42.8,
+    "stroke_length": 0.39,
+    "line_spacing": 1.49,
+    "stroke_spacing": 0.92,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_150.png",
+    "cross_angle": 30.8,
+    "stroke_length": 0.37,
+    "line_spacing": 1.48,
+    "stroke_spacing": 1.07,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_151.png",
+    "cross_angle": 25.9,
+    "stroke_length": 0.8,
+    "line_spacing": 0.53,
+    "stroke_spacing": 1.15,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_152.png",
+    "cross_angle": 23.6,
+    "stroke_length": 0.39,
+    "line_spacing": 0.84,
+    "stroke_spacing": 0.77,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_153.png",
+    "cross_angle": 18.3,
+    "stroke_length": 0.43,
+    "line_spacing": 0.65,
+    "stroke_spacing": 1.19,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_154.png",
+    "cross_angle": 28.2,
+    "stroke_length": 0.51,
+    "line_spacing": 1.46,
+    "stroke_spacing": 1.08,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_155.png",
+    "cross_angle": 43.6,
+    "stroke_length": 0.48,
+    "line_spacing": 0.55,
+    "stroke_spacing": 0.64,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_156.png",
+    "cross_angle": 20.7,
+    "stroke_length": 0.89,
+    "line_spacing": 0.77,
+    "stroke_spacing": 0.77,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_157.png",
+    "cross_angle": 20.8,
+    "stroke_length": 0.39,
+    "line_spacing": 0.94,
+    "stroke_spacing": 0.74,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_158.png",
+    "cross_angle": 53.7,
+    "stroke_length": 0.78,
+    "line_spacing": 1.22,
+    "stroke_spacing": 0.92,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_159.png",
+    "cross_angle": 15.7,
+    "stroke_length": 0.91,
+    "line_spacing": 0.86,
+    "stroke_spacing": 0.82,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_160.png",
+    "cross_angle": 34.5,
+    "stroke_length": 0.93,
+    "line_spacing": 0.89,
+    "stroke_spacing": 1.23,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_161.png",
+    "cross_angle": 19.9,
+    "stroke_length": 0.58,
+    "line_spacing": 1.16,
+    "stroke_spacing": 1.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_162.png",
+    "cross_angle": 26.2,
+    "stroke_length": 0.39,
+    "line_spacing": 0.64,
+    "stroke_spacing": 0.9,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_163.png",
+    "cross_angle": 49.2,
+    "stroke_length": 0.95,
+    "line_spacing": 0.99,
+    "stroke_spacing": 1.11,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_164.png",
+    "cross_angle": 34.9,
+    "stroke_length": 0.59,
+    "line_spacing": 1.29,
+    "stroke_spacing": 0.9,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_165.png",
+    "cross_angle": 40.2,
+    "stroke_length": 0.54,
+    "line_spacing": 0.52,
+    "stroke_spacing": 0.93,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_166.png",
+    "cross_angle": 26.3,
+    "stroke_length": 0.71,
+    "line_spacing": 0.53,
+    "stroke_spacing": 0.74,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_167.png",
+    "cross_angle": 29.4,
+    "stroke_length": 0.45,
+    "line_spacing": 0.91,
+    "stroke_spacing": 1.07,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_168.png",
+    "cross_angle": 49.1,
+    "stroke_length": 0.56,
+    "line_spacing": 1.04,
+    "stroke_spacing": 0.77,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_169.png",
+    "cross_angle": 51.9,
+    "stroke_length": 0.63,
+    "line_spacing": 1.33,
+    "stroke_spacing": 0.69,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_170.png",
+    "cross_angle": 27.1,
+    "stroke_length": 0.84,
+    "line_spacing": 0.8,
+    "stroke_spacing": 0.75,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_171.png",
+    "cross_angle": 39.9,
+    "stroke_length": 0.81,
+    "line_spacing": 0.61,
+    "stroke_spacing": 1.26,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_172.png",
+    "cross_angle": 27.5,
+    "stroke_length": 0.44,
+    "line_spacing": 0.6,
+    "stroke_spacing": 1.09,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_173.png",
+    "cross_angle": 50.2,
+    "stroke_length": 0.35,
+    "line_spacing": 1.28,
+    "stroke_spacing": 0.87,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_174.png",
+    "cross_angle": 40.2,
+    "stroke_length": 0.84,
+    "line_spacing": 1.25,
+    "stroke_spacing": 1.19,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_175.png",
+    "cross_angle": 39.9,
+    "stroke_length": 0.36,
+    "line_spacing": 1.35,
+    "stroke_spacing": 1.17,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_176.png",
+    "cross_angle": 38.8,
+    "stroke_length": 0.92,
+    "line_spacing": 1.41,
+    "stroke_spacing": 1.15,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_177.png",
+    "cross_angle": 48.7,
+    "stroke_length": 0.31,
+    "line_spacing": 1.42,
+    "stroke_spacing": 0.81,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_178.png",
+    "cross_angle": 19.1,
+    "stroke_length": 0.85,
+    "line_spacing": 0.92,
+    "stroke_spacing": 0.79,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_179.png",
+    "cross_angle": 34.6,
+    "stroke_length": 0.71,
+    "line_spacing": 0.78,
+    "stroke_spacing": 1.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_180.png",
+    "cross_angle": 15.8,
+    "stroke_length": 0.97,
+    "line_spacing": 0.79,
+    "stroke_spacing": 0.74,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_181.png",
+    "cross_angle": 40.5,
+    "stroke_length": 0.78,
+    "line_spacing": 0.7,
+    "stroke_spacing": 0.82,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_182.png",
+    "cross_angle": 17,
+    "stroke_length": 0.59,
+    "line_spacing": 1.2,
+    "stroke_spacing": 1.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_183.png",
+    "cross_angle": 35.9,
+    "stroke_length": 0.48,
+    "line_spacing": 1.35,
+    "stroke_spacing": 0.84,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_184.png",
+    "cross_angle": 53.9,
+    "stroke_length": 0.45,
+    "line_spacing": 1.24,
+    "stroke_spacing": 0.9,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_185.png",
+    "cross_angle": 32.6,
+    "stroke_length": 0.33,
+    "line_spacing": 0.7,
+    "stroke_spacing": 1.18,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_186.png",
+    "cross_angle": 35.2,
+    "stroke_length": 0.61,
+    "line_spacing": 0.61,
+    "stroke_spacing": 0.71,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_187.png",
+    "cross_angle": 25.7,
+    "stroke_length": 0.43,
+    "line_spacing": 0.74,
+    "stroke_spacing": 1.3,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_188.png",
+    "cross_angle": 36.5,
+    "stroke_length": 0.98,
+    "line_spacing": 0.82,
+    "stroke_spacing": 0.82,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_189.png",
+    "cross_angle": 32.8,
+    "stroke_length": 0.35,
+    "line_spacing": 1.28,
+    "stroke_spacing": 0.69,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_190.png",
+    "cross_angle": 31.8,
+    "stroke_length": 0.62,
+    "line_spacing": 1.21,
+    "stroke_spacing": 0.71,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_191.png",
+    "cross_angle": 36.7,
+    "stroke_length": 0.7,
+    "line_spacing": 1.47,
+    "stroke_spacing": 0.61,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_192.png",
+    "cross_angle": 37.8,
+    "stroke_length": 0.64,
+    "line_spacing": 0.9,
+    "stroke_spacing": 0.63,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_193.png",
+    "cross_angle": 29.8,
+    "stroke_length": 0.73,
+    "line_spacing": 0.52,
+    "stroke_spacing": 1.01,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_194.png",
+    "cross_angle": 18.1,
+    "stroke_length": 0.8,
+    "line_spacing": 1.27,
+    "stroke_spacing": 1.1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_195.png",
+    "cross_angle": 41.2,
+    "stroke_length": 0.52,
+    "line_spacing": 0.75,
+    "stroke_spacing": 0.64,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_196.png",
+    "cross_angle": 51.1,
+    "stroke_length": 0.84,
+    "line_spacing": 1.48,
+    "stroke_spacing": 1.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_197.png",
+    "cross_angle": 45.1,
+    "stroke_length": 0.5,
+    "line_spacing": 0.95,
+    "stroke_spacing": 0.69,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_198.png",
+    "cross_angle": 24.8,
+    "stroke_length": 0.64,
+    "line_spacing": 0.57,
+    "stroke_spacing": 0.88,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_199.png",
+    "cross_angle": 40.9,
+    "stroke_length": 0.79,
+    "line_spacing": 1.21,
+    "stroke_spacing": 0.69,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_200.png",
+    "cross_angle": 53.1,
+    "stroke_length": 0.92,
+    "line_spacing": 1.11,
+    "stroke_spacing": 1.18,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_201.png",
+    "cross_angle": 27.6,
+    "stroke_length": 0.99,
+    "line_spacing": 0.64,
+    "stroke_spacing": 1.15,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_202.png",
+    "cross_angle": 42.6,
+    "stroke_length": 0.63,
+    "line_spacing": 1.44,
+    "stroke_spacing": 0.95,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_203.png",
+    "cross_angle": 45.6,
+    "stroke_length": 0.92,
+    "line_spacing": 0.97,
+    "stroke_spacing": 0.79,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_204.png",
+    "cross_angle": 52.4,
+    "stroke_length": 0.45,
+    "line_spacing": 0.99,
+    "stroke_spacing": 0.92,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_205.png",
+    "cross_angle": 28.5,
+    "stroke_length": 0.66,
+    "line_spacing": 0.99,
+    "stroke_spacing": 1.18,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_206.png",
+    "cross_angle": 16.5,
+    "stroke_length": 0.9,
+    "line_spacing": 1.47,
+    "stroke_spacing": 0.86,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_207.png",
+    "cross_angle": 38.6,
+    "stroke_length": 0.58,
+    "line_spacing": 1.36,
+    "stroke_spacing": 0.81,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_208.png",
+    "cross_angle": 47.4,
+    "stroke_length": 0.74,
+    "line_spacing": 1.48,
+    "stroke_spacing": 1.26,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_209.png",
+    "cross_angle": 41,
+    "stroke_length": 0.57,
+    "line_spacing": 1.42,
+    "stroke_spacing": 1.09,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_210.png",
+    "cross_angle": 30.7,
+    "stroke_length": 0.66,
+    "line_spacing": 0.65,
+    "stroke_spacing": 1.09,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_211.png",
+    "cross_angle": 28,
+    "stroke_length": 0.97,
+    "line_spacing": 0.61,
+    "stroke_spacing": 1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_212.png",
+    "cross_angle": 28.6,
+    "stroke_length": 0.52,
+    "line_spacing": 1.14,
+    "stroke_spacing": 0.88,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_213.png",
+    "cross_angle": 43.7,
+    "stroke_length": 0.81,
+    "line_spacing": 1.46,
+    "stroke_spacing": 1.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_214.png",
+    "cross_angle": 30.3,
+    "stroke_length": 0.75,
+    "line_spacing": 1.47,
+    "stroke_spacing": 1.06,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_215.png",
+    "cross_angle": 28.8,
+    "stroke_length": 0.44,
+    "line_spacing": 1.4,
+    "stroke_spacing": 0.89,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_216.png",
+    "cross_angle": 24.4,
+    "stroke_length": 0.35,
+    "line_spacing": 0.83,
+    "stroke_spacing": 0.95,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_217.png",
+    "cross_angle": 54.4,
+    "stroke_length": 0.42,
+    "line_spacing": 1.02,
+    "stroke_spacing": 1.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_218.png",
+    "cross_angle": 41.2,
+    "stroke_length": 0.53,
+    "line_spacing": 1.06,
+    "stroke_spacing": 1.17,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_219.png",
+    "cross_angle": 43.6,
+    "stroke_length": 0.9,
+    "line_spacing": 1.4,
+    "stroke_spacing": 0.64,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_220.png",
+    "cross_angle": 15,
+    "stroke_length": 0.45,
+    "line_spacing": 0.59,
+    "stroke_spacing": 1.07,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_221.png",
+    "cross_angle": 20.1,
+    "stroke_length": 0.81,
+    "line_spacing": 0.84,
+    "stroke_spacing": 0.83,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_222.png",
+    "cross_angle": 37.8,
+    "stroke_length": 0.46,
+    "line_spacing": 0.56,
+    "stroke_spacing": 0.98,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_223.png",
+    "cross_angle": 39.5,
+    "stroke_length": 0.56,
+    "line_spacing": 1.04,
+    "stroke_spacing": 0.97,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_224.png",
+    "cross_angle": 32,
+    "stroke_length": 0.39,
+    "line_spacing": 0.81,
+    "stroke_spacing": 0.91,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_225.png",
+    "cross_angle": 48.7,
+    "stroke_length": 0.54,
+    "line_spacing": 1.17,
+    "stroke_spacing": 1.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_226.png",
+    "cross_angle": 28.3,
+    "stroke_length": 0.91,
+    "line_spacing": 1.35,
+    "stroke_spacing": 1.09,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_227.png",
+    "cross_angle": 43.2,
+    "stroke_length": 0.72,
+    "line_spacing": 1.2,
+    "stroke_spacing": 0.67,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_228.png",
+    "cross_angle": 45.8,
+    "stroke_length": 0.8,
+    "line_spacing": 0.93,
+    "stroke_spacing": 1.09,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_229.png",
+    "cross_angle": 45.3,
+    "stroke_length": 0.76,
+    "line_spacing": 0.86,
+    "stroke_spacing": 0.7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_230.png",
+    "cross_angle": 28.5,
+    "stroke_length": 0.71,
+    "line_spacing": 0.84,
+    "stroke_spacing": 0.8,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_231.png",
+    "cross_angle": 34.4,
+    "stroke_length": 0.58,
+    "line_spacing": 1.29,
+    "stroke_spacing": 0.97,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_232.png",
+    "cross_angle": 22.4,
+    "stroke_length": 0.95,
+    "line_spacing": 0.52,
+    "stroke_spacing": 1.17,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_233.png",
+    "cross_angle": 31.7,
+    "stroke_length": 0.83,
+    "line_spacing": 1,
+    "stroke_spacing": 1.11,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_234.png",
+    "cross_angle": 17.3,
+    "stroke_length": 0.6,
+    "line_spacing": 1.15,
+    "stroke_spacing": 1.05,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_235.png",
+    "cross_angle": 18.8,
+    "stroke_length": 0.89,
+    "line_spacing": 1.26,
+    "stroke_spacing": 1.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_236.png",
+    "cross_angle": 36.6,
+    "stroke_length": 0.31,
+    "line_spacing": 0.89,
+    "stroke_spacing": 1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_237.png",
+    "cross_angle": 47.7,
+    "stroke_length": 0.96,
+    "line_spacing": 0.71,
+    "stroke_spacing": 1.3,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_238.png",
+    "cross_angle": 15.6,
+    "stroke_length": 0.85,
+    "line_spacing": 0.62,
+    "stroke_spacing": 0.65,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_239.png",
+    "cross_angle": 36.2,
+    "stroke_length": 0.81,
+    "line_spacing": 1.02,
+    "stroke_spacing": 0.64,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_240.png",
+    "cross_angle": 41.6,
+    "stroke_length": 0.72,
+    "line_spacing": 0.94,
+    "stroke_spacing": 0.94,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_241.png",
+    "cross_angle": 42.6,
+    "stroke_length": 0.51,
+    "line_spacing": 1.02,
+    "stroke_spacing": 0.86,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_242.png",
+    "cross_angle": 20.9,
+    "stroke_length": 0.86,
+    "line_spacing": 0.87,
+    "stroke_spacing": 1.2,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_243.png",
+    "cross_angle": 47.2,
+    "stroke_length": 0.63,
+    "line_spacing": 1.25,
+    "stroke_spacing": 1.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_244.png",
+    "cross_angle": 51,
+    "stroke_length": 0.51,
+    "line_spacing": 1.4,
+    "stroke_spacing": 1.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_245.png",
+    "cross_angle": 31.1,
+    "stroke_length": 0.77,
+    "line_spacing": 0.88,
+    "stroke_spacing": 1.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_246.png",
+    "cross_angle": 34.7,
+    "stroke_length": 0.82,
+    "line_spacing": 1.18,
+    "stroke_spacing": 0.68,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_247.png",
+    "cross_angle": 19.2,
+    "stroke_length": 0.86,
+    "line_spacing": 1.22,
+    "stroke_spacing": 1.19,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_248.png",
+    "cross_angle": 49.2,
+    "stroke_length": 0.73,
+    "line_spacing": 0.61,
+    "stroke_spacing": 1.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_249.png",
+    "cross_angle": 21.7,
+    "stroke_length": 0.92,
+    "line_spacing": 1.02,
+    "stroke_spacing": 0.8,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_250.png",
+    "cross_angle": 43.5,
+    "stroke_length": 0.37,
+    "line_spacing": 0.92,
+    "stroke_spacing": 1.3,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_251.png",
+    "cross_angle": 30.5,
+    "stroke_length": 0.43,
+    "line_spacing": 1.23,
+    "stroke_spacing": 1.05,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_252.png",
+    "cross_angle": 42.6,
+    "stroke_length": 0.31,
+    "line_spacing": 1.15,
+    "stroke_spacing": 1.06,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_253.png",
+    "cross_angle": 42.7,
+    "stroke_length": 0.53,
+    "line_spacing": 0.87,
+    "stroke_spacing": 0.86,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_254.png",
+    "cross_angle": 50.5,
+    "stroke_length": 0.9,
+    "line_spacing": 1.19,
+    "stroke_spacing": 1.08,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_255.png",
+    "cross_angle": 54.7,
+    "stroke_length": 0.41,
+    "line_spacing": 0.8,
+    "stroke_spacing": 0.81,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_256.png",
+    "cross_angle": 49.9,
+    "stroke_length": 0.51,
+    "line_spacing": 1.35,
+    "stroke_spacing": 0.76,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_257.png",
+    "cross_angle": 54.8,
+    "stroke_length": 0.44,
+    "line_spacing": 1.35,
+    "stroke_spacing": 1.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_258.png",
+    "cross_angle": 30.9,
+    "stroke_length": 0.37,
+    "line_spacing": 1.21,
+    "stroke_spacing": 0.71,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_259.png",
+    "cross_angle": 17.9,
+    "stroke_length": 0.58,
+    "line_spacing": 0.86,
+    "stroke_spacing": 0.62,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_260.png",
+    "cross_angle": 37.3,
+    "stroke_length": 0.88,
+    "line_spacing": 0.69,
+    "stroke_spacing": 0.84,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_261.png",
+    "cross_angle": 42.4,
+    "stroke_length": 0.84,
+    "line_spacing": 1.46,
+    "stroke_spacing": 1.01,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_262.png",
+    "cross_angle": 21.9,
+    "stroke_length": 0.73,
+    "line_spacing": 1.11,
+    "stroke_spacing": 0.65,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_263.png",
+    "cross_angle": 45.1,
+    "stroke_length": 0.9,
+    "line_spacing": 0.53,
+    "stroke_spacing": 0.74,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_264.png",
+    "cross_angle": 32.8,
+    "stroke_length": 0.66,
+    "line_spacing": 0.59,
+    "stroke_spacing": 0.62,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_265.png",
+    "cross_angle": 42.1,
+    "stroke_length": 0.96,
+    "line_spacing": 1.47,
+    "stroke_spacing": 0.96,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_266.png",
+    "cross_angle": 31.9,
+    "stroke_length": 0.33,
+    "line_spacing": 0.59,
+    "stroke_spacing": 0.65,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_267.png",
+    "cross_angle": 28,
+    "stroke_length": 0.48,
+    "line_spacing": 1.17,
+    "stroke_spacing": 1.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_268.png",
+    "cross_angle": 41,
+    "stroke_length": 0.84,
+    "line_spacing": 0.58,
+    "stroke_spacing": 0.89,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_269.png",
+    "cross_angle": 19.2,
+    "stroke_length": 0.39,
+    "line_spacing": 1.2,
+    "stroke_spacing": 0.84,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_270.png",
+    "cross_angle": 20.7,
+    "stroke_length": 0.47,
+    "line_spacing": 1.19,
+    "stroke_spacing": 0.83,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_271.png",
+    "cross_angle": 37,
+    "stroke_length": 0.77,
+    "line_spacing": 1,
+    "stroke_spacing": 0.83,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_272.png",
+    "cross_angle": 15.8,
+    "stroke_length": 0.9,
+    "line_spacing": 0.79,
+    "stroke_spacing": 0.95,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_273.png",
+    "cross_angle": 31.5,
+    "stroke_length": 0.33,
+    "line_spacing": 0.76,
+    "stroke_spacing": 0.96,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_274.png",
+    "cross_angle": 29.1,
+    "stroke_length": 0.56,
+    "line_spacing": 1.13,
+    "stroke_spacing": 0.96,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_275.png",
+    "cross_angle": 40.7,
+    "stroke_length": 0.85,
+    "line_spacing": 1.02,
+    "stroke_spacing": 1.27,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_276.png",
+    "cross_angle": 42.6,
+    "stroke_length": 0.45,
+    "line_spacing": 1.1,
+    "stroke_spacing": 1.15,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_277.png",
+    "cross_angle": 20.5,
+    "stroke_length": 0.41,
+    "line_spacing": 1.3,
+    "stroke_spacing": 0.84,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_278.png",
+    "cross_angle": 44,
+    "stroke_length": 0.7,
+    "line_spacing": 0.66,
+    "stroke_spacing": 0.63,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_279.png",
+    "cross_angle": 15.6,
+    "stroke_length": 0.94,
+    "line_spacing": 1.2,
+    "stroke_spacing": 1.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_280.png",
+    "cross_angle": 18.4,
+    "stroke_length": 0.38,
+    "line_spacing": 1.38,
+    "stroke_spacing": 0.61,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_281.png",
+    "cross_angle": 16.3,
+    "stroke_length": 0.48,
+    "line_spacing": 0.56,
+    "stroke_spacing": 0.92,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_282.png",
+    "cross_angle": 49.4,
+    "stroke_length": 0.33,
+    "line_spacing": 1.22,
+    "stroke_spacing": 0.83,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_283.png",
+    "cross_angle": 38.7,
+    "stroke_length": 0.8,
+    "line_spacing": 0.95,
+    "stroke_spacing": 1.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_284.png",
+    "cross_angle": 36.5,
+    "stroke_length": 0.74,
+    "line_spacing": 1.33,
+    "stroke_spacing": 0.97,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_285.png",
+    "cross_angle": 32.3,
+    "stroke_length": 0.38,
+    "line_spacing": 0.55,
+    "stroke_spacing": 1.11,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_286.png",
+    "cross_angle": 30.1,
+    "stroke_length": 0.61,
+    "line_spacing": 0.69,
+    "stroke_spacing": 0.63,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_287.png",
+    "cross_angle": 26.3,
+    "stroke_length": 0.47,
+    "line_spacing": 0.86,
+    "stroke_spacing": 0.88,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_288.png",
+    "cross_angle": 29.6,
+    "stroke_length": 0.7,
+    "line_spacing": 1.01,
+    "stroke_spacing": 0.84,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_289.png",
+    "cross_angle": 46.1,
+    "stroke_length": 0.31,
+    "line_spacing": 1.32,
+    "stroke_spacing": 1.26,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_290.png",
+    "cross_angle": 34.9,
+    "stroke_length": 0.78,
+    "line_spacing": 1.46,
+    "stroke_spacing": 0.96,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_291.png",
+    "cross_angle": 51.6,
+    "stroke_length": 0.6,
+    "line_spacing": 1.02,
+    "stroke_spacing": 0.8,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_292.png",
+    "cross_angle": 26.7,
+    "stroke_length": 0.32,
+    "line_spacing": 0.85,
+    "stroke_spacing": 1.03,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_293.png",
+    "cross_angle": 21,
+    "stroke_length": 0.91,
+    "line_spacing": 0.98,
+    "stroke_spacing": 0.71,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_294.png",
+    "cross_angle": 47.6,
+    "stroke_length": 0.73,
+    "line_spacing": 1.48,
+    "stroke_spacing": 0.7,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_295.png",
+    "cross_angle": 45.3,
+    "stroke_length": 0.65,
+    "line_spacing": 0.93,
+    "stroke_spacing": 0.8,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_296.png",
+    "cross_angle": 45.5,
+    "stroke_length": 1,
+    "line_spacing": 0.94,
+    "stroke_spacing": 1.09,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_297.png",
+    "cross_angle": 29.5,
+    "stroke_length": 0.45,
+    "line_spacing": 1.32,
+    "stroke_spacing": 1.02,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_298.png",
+    "cross_angle": 23.4,
+    "stroke_length": 0.68,
+    "line_spacing": 1.03,
+    "stroke_spacing": 1.02,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_299.png",
+    "cross_angle": 33.5,
+    "stroke_length": 0.71,
+    "line_spacing": 0.84,
+    "stroke_spacing": 0.83,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_300.png",
+    "cross_angle": 28.8,
+    "stroke_length": 0.36,
+    "line_spacing": 0.96,
+    "stroke_spacing": 0.86,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_301.png",
+    "cross_angle": 45.6,
+    "stroke_length": 0.62,
+    "line_spacing": 1.39,
+    "stroke_spacing": 0.97,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_302.png",
+    "cross_angle": 28.4,
+    "stroke_length": 0.83,
+    "line_spacing": 0.89,
+    "stroke_spacing": 1.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_303.png",
+    "cross_angle": 26.1,
+    "stroke_length": 0.84,
+    "line_spacing": 0.9,
+    "stroke_spacing": 0.6,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_304.png",
+    "cross_angle": 26.1,
+    "stroke_length": 0.41,
+    "line_spacing": 1.15,
+    "stroke_spacing": 0.66,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_305.png",
+    "cross_angle": 21.4,
+    "stroke_length": 0.62,
+    "line_spacing": 1.21,
+    "stroke_spacing": 0.73,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_306.png",
+    "cross_angle": 29.8,
+    "stroke_length": 0.69,
+    "line_spacing": 0.91,
+    "stroke_spacing": 0.61,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_307.png",
+    "cross_angle": 33.6,
+    "stroke_length": 0.74,
+    "line_spacing": 1.5,
+    "stroke_spacing": 0.91,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_308.png",
+    "cross_angle": 22.3,
+    "stroke_length": 0.36,
+    "line_spacing": 0.61,
+    "stroke_spacing": 1.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_309.png",
+    "cross_angle": 36.3,
+    "stroke_length": 0.92,
+    "line_spacing": 1.45,
+    "stroke_spacing": 1.22,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_310.png",
+    "cross_angle": 26.2,
+    "stroke_length": 0.61,
+    "line_spacing": 0.94,
+    "stroke_spacing": 1.15,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_311.png",
+    "cross_angle": 32.8,
+    "stroke_length": 0.67,
+    "line_spacing": 0.61,
+    "stroke_spacing": 0.71,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_312.png",
+    "cross_angle": 33.9,
+    "stroke_length": 0.88,
+    "line_spacing": 1.29,
+    "stroke_spacing": 1.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_313.png",
+    "cross_angle": 43.1,
+    "stroke_length": 0.54,
+    "line_spacing": 0.59,
+    "stroke_spacing": 1.29,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_314.png",
+    "cross_angle": 35.1,
+    "stroke_length": 0.56,
+    "line_spacing": 1.4,
+    "stroke_spacing": 0.86,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_315.png",
+    "cross_angle": 16.9,
+    "stroke_length": 0.72,
+    "line_spacing": 1.08,
+    "stroke_spacing": 1.26,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_316.png",
+    "cross_angle": 30.3,
+    "stroke_length": 0.66,
+    "line_spacing": 1.36,
+    "stroke_spacing": 1.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_317.png",
+    "cross_angle": 36,
+    "stroke_length": 0.69,
+    "line_spacing": 0.55,
+    "stroke_spacing": 1.1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_318.png",
+    "cross_angle": 44.5,
+    "stroke_length": 0.35,
+    "line_spacing": 1.03,
+    "stroke_spacing": 1.05,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_319.png",
+    "cross_angle": 32.6,
+    "stroke_length": 0.82,
+    "line_spacing": 1.39,
+    "stroke_spacing": 1.29,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_320.png",
+    "cross_angle": 19.5,
+    "stroke_length": 0.56,
+    "line_spacing": 1.27,
+    "stroke_spacing": 0.78,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_321.png",
+    "cross_angle": 23.2,
+    "stroke_length": 0.6,
+    "line_spacing": 0.88,
+    "stroke_spacing": 0.74,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_322.png",
+    "cross_angle": 41.4,
+    "stroke_length": 0.96,
+    "line_spacing": 0.68,
+    "stroke_spacing": 1.26,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_323.png",
+    "cross_angle": 41.7,
+    "stroke_length": 0.56,
+    "line_spacing": 1.36,
+    "stroke_spacing": 0.94,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_324.png",
+    "cross_angle": 40,
+    "stroke_length": 0.63,
+    "line_spacing": 1.35,
+    "stroke_spacing": 0.88,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_325.png",
+    "cross_angle": 27,
+    "stroke_length": 0.91,
+    "line_spacing": 1.39,
+    "stroke_spacing": 1.1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_326.png",
+    "cross_angle": 53.8,
+    "stroke_length": 0.99,
+    "line_spacing": 1.37,
+    "stroke_spacing": 1.09,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_327.png",
+    "cross_angle": 29.7,
+    "stroke_length": 0.74,
+    "line_spacing": 1.23,
+    "stroke_spacing": 0.85,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_328.png",
+    "cross_angle": 40.3,
+    "stroke_length": 0.91,
+    "line_spacing": 1.29,
+    "stroke_spacing": 0.71,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_329.png",
+    "cross_angle": 48.8,
+    "stroke_length": 0.94,
+    "line_spacing": 0.62,
+    "stroke_spacing": 0.67,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_330.png",
+    "cross_angle": 22,
+    "stroke_length": 0.8,
+    "line_spacing": 1.08,
+    "stroke_spacing": 0.85,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_331.png",
+    "cross_angle": 37.5,
+    "stroke_length": 0.6,
+    "line_spacing": 1.45,
+    "stroke_spacing": 0.72,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_332.png",
+    "cross_angle": 43.8,
+    "stroke_length": 0.44,
+    "line_spacing": 1.23,
+    "stroke_spacing": 0.83,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_333.png",
+    "cross_angle": 15.4,
+    "stroke_length": 0.98,
+    "line_spacing": 1.42,
+    "stroke_spacing": 0.82,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_334.png",
+    "cross_angle": 52.8,
+    "stroke_length": 1,
+    "line_spacing": 0.61,
+    "stroke_spacing": 0.66,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_335.png",
+    "cross_angle": 19.4,
+    "stroke_length": 0.42,
+    "line_spacing": 0.81,
+    "stroke_spacing": 1.08,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_336.png",
+    "cross_angle": 19.2,
+    "stroke_length": 0.56,
+    "line_spacing": 1.01,
+    "stroke_spacing": 1.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_337.png",
+    "cross_angle": 35.6,
+    "stroke_length": 0.45,
+    "line_spacing": 1.1,
+    "stroke_spacing": 0.88,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_338.png",
+    "cross_angle": 16.1,
+    "stroke_length": 0.85,
+    "line_spacing": 0.57,
+    "stroke_spacing": 0.93,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_339.png",
+    "cross_angle": 44.6,
+    "stroke_length": 0.38,
+    "line_spacing": 1.22,
+    "stroke_spacing": 0.66,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_340.png",
+    "cross_angle": 52.4,
+    "stroke_length": 0.67,
+    "line_spacing": 1.4,
+    "stroke_spacing": 1.03,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_341.png",
+    "cross_angle": 47.6,
+    "stroke_length": 0.96,
+    "line_spacing": 1.06,
+    "stroke_spacing": 1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_342.png",
+    "cross_angle": 42.5,
+    "stroke_length": 0.96,
+    "line_spacing": 0.66,
+    "stroke_spacing": 0.89,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_343.png",
+    "cross_angle": 34.8,
+    "stroke_length": 0.44,
+    "line_spacing": 1.25,
+    "stroke_spacing": 0.86,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_344.png",
+    "cross_angle": 17,
+    "stroke_length": 0.45,
+    "line_spacing": 0.86,
+    "stroke_spacing": 1.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_345.png",
+    "cross_angle": 54.6,
+    "stroke_length": 0.79,
+    "line_spacing": 1.1,
+    "stroke_spacing": 1.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_346.png",
+    "cross_angle": 37.4,
+    "stroke_length": 0.79,
+    "line_spacing": 1,
+    "stroke_spacing": 1.15,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_347.png",
+    "cross_angle": 27.7,
+    "stroke_length": 0.35,
+    "line_spacing": 0.58,
+    "stroke_spacing": 1.2,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_348.png",
+    "cross_angle": 18.6,
+    "stroke_length": 0.35,
+    "line_spacing": 1.38,
+    "stroke_spacing": 0.87,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_349.png",
+    "cross_angle": 25.2,
+    "stroke_length": 0.46,
+    "line_spacing": 0.52,
+    "stroke_spacing": 0.67,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_350.png",
+    "cross_angle": 47.3,
+    "stroke_length": 0.43,
+    "line_spacing": 0.68,
+    "stroke_spacing": 1.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_351.png",
+    "cross_angle": 21.7,
+    "stroke_length": 0.73,
+    "line_spacing": 1.1,
+    "stroke_spacing": 0.82,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_352.png",
+    "cross_angle": 49.6,
+    "stroke_length": 0.57,
+    "line_spacing": 0.93,
+    "stroke_spacing": 1.2,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_353.png",
+    "cross_angle": 15.7,
+    "stroke_length": 0.32,
+    "line_spacing": 1.18,
+    "stroke_spacing": 0.8,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_354.png",
+    "cross_angle": 39.3,
+    "stroke_length": 0.36,
+    "line_spacing": 1.29,
+    "stroke_spacing": 0.77,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_355.png",
+    "cross_angle": 49.6,
+    "stroke_length": 0.63,
+    "line_spacing": 1.38,
+    "stroke_spacing": 1.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_356.png",
+    "cross_angle": 19.1,
+    "stroke_length": 0.33,
+    "line_spacing": 0.91,
+    "stroke_spacing": 0.66,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_357.png",
+    "cross_angle": 46.8,
+    "stroke_length": 0.86,
+    "line_spacing": 1.45,
+    "stroke_spacing": 1.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_358.png",
+    "cross_angle": 27.4,
+    "stroke_length": 0.66,
+    "line_spacing": 1.02,
+    "stroke_spacing": 1.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_359.png",
+    "cross_angle": 22.7,
+    "stroke_length": 0.44,
+    "line_spacing": 1.3,
+    "stroke_spacing": 1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_360.png",
+    "cross_angle": 45.9,
+    "stroke_length": 0.4,
+    "line_spacing": 1.23,
+    "stroke_spacing": 0.92,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_361.png",
+    "cross_angle": 54.5,
+    "stroke_length": 0.48,
+    "line_spacing": 1.13,
+    "stroke_spacing": 1.29,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_362.png",
+    "cross_angle": 23.4,
+    "stroke_length": 0.69,
+    "line_spacing": 0.72,
+    "stroke_spacing": 1.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_363.png",
+    "cross_angle": 22.7,
+    "stroke_length": 0.56,
+    "line_spacing": 1.3,
+    "stroke_spacing": 1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_364.png",
+    "cross_angle": 37.4,
+    "stroke_length": 0.54,
+    "line_spacing": 1.28,
+    "stroke_spacing": 1.27,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_365.png",
+    "cross_angle": 26.8,
+    "stroke_length": 0.85,
+    "line_spacing": 0.72,
+    "stroke_spacing": 1.2,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_366.png",
+    "cross_angle": 48.3,
+    "stroke_length": 0.52,
+    "line_spacing": 0.91,
+    "stroke_spacing": 1.29,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_367.png",
+    "cross_angle": 23.5,
+    "stroke_length": 0.43,
+    "line_spacing": 1.45,
+    "stroke_spacing": 0.76,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_368.png",
+    "cross_angle": 20.9,
+    "stroke_length": 0.69,
+    "line_spacing": 0.7,
+    "stroke_spacing": 0.95,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_369.png",
+    "cross_angle": 45.1,
+    "stroke_length": 0.8,
+    "line_spacing": 1.08,
+    "stroke_spacing": 0.96,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_370.png",
+    "cross_angle": 32.8,
+    "stroke_length": 0.35,
+    "line_spacing": 1.32,
+    "stroke_spacing": 0.78,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_371.png",
+    "cross_angle": 23.1,
+    "stroke_length": 0.59,
+    "line_spacing": 1.42,
+    "stroke_spacing": 1.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_372.png",
+    "cross_angle": 54.6,
+    "stroke_length": 0.59,
+    "line_spacing": 1.17,
+    "stroke_spacing": 0.79,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_373.png",
+    "cross_angle": 39.5,
+    "stroke_length": 0.31,
+    "line_spacing": 1.48,
+    "stroke_spacing": 0.62,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_374.png",
+    "cross_angle": 25.4,
+    "stroke_length": 0.49,
+    "line_spacing": 0.91,
+    "stroke_spacing": 1.11,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_375.png",
+    "cross_angle": 25.6,
+    "stroke_length": 0.69,
+    "line_spacing": 0.63,
+    "stroke_spacing": 0.89,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_376.png",
+    "cross_angle": 32.6,
+    "stroke_length": 1,
+    "line_spacing": 1.23,
+    "stroke_spacing": 0.83,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_377.png",
+    "cross_angle": 34.3,
+    "stroke_length": 0.42,
+    "line_spacing": 0.52,
+    "stroke_spacing": 1.1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_378.png",
+    "cross_angle": 31.6,
+    "stroke_length": 0.43,
+    "line_spacing": 1.29,
+    "stroke_spacing": 1.22,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_379.png",
+    "cross_angle": 19.6,
+    "stroke_length": 0.85,
+    "line_spacing": 1.31,
+    "stroke_spacing": 0.68,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_380.png",
+    "cross_angle": 29.5,
+    "stroke_length": 0.59,
+    "line_spacing": 1.28,
+    "stroke_spacing": 1.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_381.png",
+    "cross_angle": 21.3,
+    "stroke_length": 0.34,
+    "line_spacing": 0.99,
+    "stroke_spacing": 1.04,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_382.png",
+    "cross_angle": 24.7,
+    "stroke_length": 0.42,
+    "line_spacing": 0.89,
+    "stroke_spacing": 1.01,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_383.png",
+    "cross_angle": 47.9,
+    "stroke_length": 0.87,
+    "line_spacing": 1.19,
+    "stroke_spacing": 0.76,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_384.png",
+    "cross_angle": 47.4,
+    "stroke_length": 0.84,
+    "line_spacing": 0.99,
+    "stroke_spacing": 1.29,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_385.png",
+    "cross_angle": 22.2,
+    "stroke_length": 0.54,
+    "line_spacing": 1.21,
+    "stroke_spacing": 1.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_386.png",
+    "cross_angle": 41.9,
+    "stroke_length": 0.34,
+    "line_spacing": 0.6,
+    "stroke_spacing": 1.26,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_387.png",
+    "cross_angle": 52.3,
+    "stroke_length": 0.86,
+    "line_spacing": 0.69,
+    "stroke_spacing": 1.07,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_388.png",
+    "cross_angle": 17.1,
+    "stroke_length": 0.82,
+    "line_spacing": 1.15,
+    "stroke_spacing": 0.67,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_389.png",
+    "cross_angle": 30.4,
+    "stroke_length": 0.49,
+    "line_spacing": 0.99,
+    "stroke_spacing": 1.03,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_390.png",
+    "cross_angle": 53,
+    "stroke_length": 0.34,
+    "line_spacing": 0.8,
+    "stroke_spacing": 0.98,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_391.png",
+    "cross_angle": 45,
+    "stroke_length": 0.35,
+    "line_spacing": 0.95,
+    "stroke_spacing": 0.97,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_392.png",
+    "cross_angle": 53.5,
+    "stroke_length": 0.63,
+    "line_spacing": 1.06,
+    "stroke_spacing": 1.3,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_393.png",
+    "cross_angle": 22.9,
+    "stroke_length": 0.9,
+    "line_spacing": 1.3,
+    "stroke_spacing": 0.83,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_394.png",
+    "cross_angle": 30.8,
+    "stroke_length": 0.51,
+    "line_spacing": 0.56,
+    "stroke_spacing": 0.85,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_395.png",
+    "cross_angle": 30,
+    "stroke_length": 0.96,
+    "line_spacing": 1.43,
+    "stroke_spacing": 1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_396.png",
+    "cross_angle": 36.7,
+    "stroke_length": 0.79,
+    "line_spacing": 0.84,
+    "stroke_spacing": 1.04,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_397.png",
+    "cross_angle": 51.3,
+    "stroke_length": 0.61,
+    "line_spacing": 1.15,
+    "stroke_spacing": 0.63,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_398.png",
+    "cross_angle": 49.5,
+    "stroke_length": 0.71,
+    "line_spacing": 1.03,
+    "stroke_spacing": 1.01,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_399.png",
+    "cross_angle": 22.5,
+    "stroke_length": 0.74,
+    "line_spacing": 0.84,
+    "stroke_spacing": 1.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_400.png",
+    "cross_angle": 25.4,
+    "stroke_length": 0.76,
+    "line_spacing": 1,
+    "stroke_spacing": 1.3,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_401.png",
+    "cross_angle": 47.6,
+    "stroke_length": 0.49,
+    "line_spacing": 0.73,
+    "stroke_spacing": 0.89,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_402.png",
+    "cross_angle": 48.6,
+    "stroke_length": 0.91,
+    "line_spacing": 0.54,
+    "stroke_spacing": 0.97,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_403.png",
+    "cross_angle": 43.3,
+    "stroke_length": 0.94,
+    "line_spacing": 1.06,
+    "stroke_spacing": 1.17,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_404.png",
+    "cross_angle": 25.2,
+    "stroke_length": 0.4,
+    "line_spacing": 0.75,
+    "stroke_spacing": 1.08,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_405.png",
+    "cross_angle": 49.5,
+    "stroke_length": 0.57,
+    "line_spacing": 0.61,
+    "stroke_spacing": 0.78,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_406.png",
+    "cross_angle": 15.9,
+    "stroke_length": 0.7,
+    "line_spacing": 0.9,
+    "stroke_spacing": 0.73,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_407.png",
+    "cross_angle": 48.9,
+    "stroke_length": 0.97,
+    "line_spacing": 0.61,
+    "stroke_spacing": 1.04,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_408.png",
+    "cross_angle": 45.2,
+    "stroke_length": 0.96,
+    "line_spacing": 0.5,
+    "stroke_spacing": 0.86,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_409.png",
+    "cross_angle": 38.6,
+    "stroke_length": 0.5,
+    "line_spacing": 0.73,
+    "stroke_spacing": 1.25,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_410.png",
+    "cross_angle": 42.6,
+    "stroke_length": 0.78,
+    "line_spacing": 1.14,
+    "stroke_spacing": 1.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_411.png",
+    "cross_angle": 20.6,
+    "stroke_length": 0.62,
+    "line_spacing": 0.72,
+    "stroke_spacing": 0.77,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_412.png",
+    "cross_angle": 38.7,
+    "stroke_length": 0.94,
+    "line_spacing": 1.46,
+    "stroke_spacing": 0.77,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_413.png",
+    "cross_angle": 41.6,
+    "stroke_length": 0.93,
+    "line_spacing": 0.82,
+    "stroke_spacing": 1.1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_414.png",
+    "cross_angle": 30.9,
+    "stroke_length": 0.57,
+    "line_spacing": 0.57,
+    "stroke_spacing": 0.8,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_415.png",
+    "cross_angle": 23.9,
+    "stroke_length": 0.4,
+    "line_spacing": 1.43,
+    "stroke_spacing": 1.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_416.png",
+    "cross_angle": 52.1,
+    "stroke_length": 0.9,
+    "line_spacing": 0.82,
+    "stroke_spacing": 0.87,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_417.png",
+    "cross_angle": 54.1,
+    "stroke_length": 0.72,
+    "line_spacing": 1.21,
+    "stroke_spacing": 1.17,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_418.png",
+    "cross_angle": 38,
+    "stroke_length": 0.76,
+    "line_spacing": 0.79,
+    "stroke_spacing": 1.12,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_419.png",
+    "cross_angle": 22.6,
+    "stroke_length": 0.86,
+    "line_spacing": 0.63,
+    "stroke_spacing": 1.19,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_420.png",
+    "cross_angle": 19.2,
+    "stroke_length": 0.4,
+    "line_spacing": 1.41,
+    "stroke_spacing": 1.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_421.png",
+    "cross_angle": 46.6,
+    "stroke_length": 0.46,
+    "line_spacing": 1.47,
+    "stroke_spacing": 1.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_422.png",
+    "cross_angle": 40.5,
+    "stroke_length": 0.97,
+    "line_spacing": 1.28,
+    "stroke_spacing": 0.77,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_423.png",
+    "cross_angle": 19.4,
+    "stroke_length": 0.55,
+    "line_spacing": 1.19,
+    "stroke_spacing": 0.88,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_424.png",
+    "cross_angle": 43.6,
+    "stroke_length": 0.81,
+    "line_spacing": 0.96,
+    "stroke_spacing": 0.81,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_425.png",
+    "cross_angle": 48.3,
+    "stroke_length": 0.64,
+    "line_spacing": 1.5,
+    "stroke_spacing": 1.21,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_426.png",
+    "cross_angle": 29.5,
+    "stroke_length": 0.39,
+    "line_spacing": 0.75,
+    "stroke_spacing": 0.84,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_427.png",
+    "cross_angle": 54.3,
+    "stroke_length": 0.84,
+    "line_spacing": 1.37,
+    "stroke_spacing": 0.65,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_428.png",
+    "cross_angle": 24.1,
+    "stroke_length": 0.92,
+    "line_spacing": 1.45,
+    "stroke_spacing": 0.63,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_429.png",
+    "cross_angle": 27.8,
+    "stroke_length": 0.48,
+    "line_spacing": 1.07,
+    "stroke_spacing": 1.17,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_430.png",
+    "cross_angle": 39.5,
+    "stroke_length": 0.64,
+    "line_spacing": 0.86,
+    "stroke_spacing": 0.7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_431.png",
+    "cross_angle": 26.1,
+    "stroke_length": 0.92,
+    "line_spacing": 0.77,
+    "stroke_spacing": 1.08,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_432.png",
+    "cross_angle": 52.6,
+    "stroke_length": 0.41,
+    "line_spacing": 0.74,
+    "stroke_spacing": 0.78,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_433.png",
+    "cross_angle": 35.4,
+    "stroke_length": 0.77,
+    "line_spacing": 1.46,
+    "stroke_spacing": 1.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_434.png",
+    "cross_angle": 24.5,
+    "stroke_length": 0.82,
+    "line_spacing": 1.03,
+    "stroke_spacing": 0.87,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_435.png",
+    "cross_angle": 23,
+    "stroke_length": 0.36,
+    "line_spacing": 1.18,
+    "stroke_spacing": 1.11,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_436.png",
+    "cross_angle": 48.7,
+    "stroke_length": 0.98,
+    "line_spacing": 1.36,
+    "stroke_spacing": 0.93,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_437.png",
+    "cross_angle": 49.7,
+    "stroke_length": 0.86,
+    "line_spacing": 0.53,
+    "stroke_spacing": 0.89,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_438.png",
+    "cross_angle": 43.1,
+    "stroke_length": 0.72,
+    "line_spacing": 0.59,
+    "stroke_spacing": 1.22,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_439.png",
+    "cross_angle": 46,
+    "stroke_length": 0.32,
+    "line_spacing": 0.65,
+    "stroke_spacing": 0.87,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_440.png",
+    "cross_angle": 18.8,
+    "stroke_length": 0.35,
+    "line_spacing": 0.59,
+    "stroke_spacing": 1.17,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_441.png",
+    "cross_angle": 30.7,
+    "stroke_length": 0.32,
+    "line_spacing": 0.95,
+    "stroke_spacing": 1.2,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_442.png",
+    "cross_angle": 32.8,
+    "stroke_length": 0.4,
+    "line_spacing": 0.61,
+    "stroke_spacing": 0.96,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_443.png",
+    "cross_angle": 34.4,
+    "stroke_length": 0.78,
+    "line_spacing": 1.05,
+    "stroke_spacing": 0.9,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_444.png",
+    "cross_angle": 18.8,
+    "stroke_length": 0.49,
+    "line_spacing": 1.07,
+    "stroke_spacing": 0.82,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_445.png",
+    "cross_angle": 33.7,
+    "stroke_length": 0.53,
+    "line_spacing": 0.78,
+    "stroke_spacing": 0.82,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_446.png",
+    "cross_angle": 36.7,
+    "stroke_length": 0.45,
+    "line_spacing": 1.28,
+    "stroke_spacing": 1.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_447.png",
+    "cross_angle": 43.3,
+    "stroke_length": 0.39,
+    "line_spacing": 0.5,
+    "stroke_spacing": 1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_448.png",
+    "cross_angle": 32.3,
+    "stroke_length": 0.98,
+    "line_spacing": 1.13,
+    "stroke_spacing": 0.89,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_449.png",
+    "cross_angle": 50.3,
+    "stroke_length": 0.67,
+    "line_spacing": 0.84,
+    "stroke_spacing": 0.72,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_450.png",
+    "cross_angle": 29.1,
+    "stroke_length": 0.39,
+    "line_spacing": 0.64,
+    "stroke_spacing": 1.02,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_451.png",
+    "cross_angle": 47.1,
+    "stroke_length": 0.64,
+    "line_spacing": 1.3,
+    "stroke_spacing": 0.62,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_452.png",
+    "cross_angle": 35.8,
+    "stroke_length": 0.51,
+    "line_spacing": 1.26,
+    "stroke_spacing": 0.97,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_453.png",
+    "cross_angle": 42,
+    "stroke_length": 0.47,
+    "line_spacing": 1.27,
+    "stroke_spacing": 1.11,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_454.png",
+    "cross_angle": 45.8,
+    "stroke_length": 0.66,
+    "line_spacing": 0.82,
+    "stroke_spacing": 1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_455.png",
+    "cross_angle": 18.8,
+    "stroke_length": 0.69,
+    "line_spacing": 1.24,
+    "stroke_spacing": 1.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_456.png",
+    "cross_angle": 54.6,
+    "stroke_length": 0.89,
+    "line_spacing": 1.01,
+    "stroke_spacing": 1.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_457.png",
+    "cross_angle": 47.2,
+    "stroke_length": 0.73,
+    "line_spacing": 0.66,
+    "stroke_spacing": 1.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_458.png",
+    "cross_angle": 27.8,
+    "stroke_length": 0.97,
+    "line_spacing": 0.83,
+    "stroke_spacing": 1.2,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_459.png",
+    "cross_angle": 48.6,
+    "stroke_length": 0.51,
+    "line_spacing": 1.14,
+    "stroke_spacing": 0.94,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_460.png",
+    "cross_angle": 31.9,
+    "stroke_length": 0.7,
+    "line_spacing": 0.83,
+    "stroke_spacing": 1,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_461.png",
+    "cross_angle": 48.8,
+    "stroke_length": 0.53,
+    "line_spacing": 0.9,
+    "stroke_spacing": 0.76,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_462.png",
+    "cross_angle": 15.1,
+    "stroke_length": 0.34,
+    "line_spacing": 0.67,
+    "stroke_spacing": 0.82,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_463.png",
+    "cross_angle": 41.9,
+    "stroke_length": 0.61,
+    "line_spacing": 0.67,
+    "stroke_spacing": 1.12,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_464.png",
+    "cross_angle": 50.9,
+    "stroke_length": 0.74,
+    "line_spacing": 0.68,
+    "stroke_spacing": 1.15,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_465.png",
+    "cross_angle": 15.5,
+    "stroke_length": 0.45,
+    "line_spacing": 1.34,
+    "stroke_spacing": 0.69,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_466.png",
+    "cross_angle": 39.6,
+    "stroke_length": 0.7,
+    "line_spacing": 0.64,
+    "stroke_spacing": 0.75,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_467.png",
+    "cross_angle": 16.2,
+    "stroke_length": 0.63,
+    "line_spacing": 0.93,
+    "stroke_spacing": 0.87,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_468.png",
+    "cross_angle": 52.7,
+    "stroke_length": 0.43,
+    "line_spacing": 0.79,
+    "stroke_spacing": 0.84,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_469.png",
+    "cross_angle": 37.3,
+    "stroke_length": 0.77,
+    "line_spacing": 0.59,
+    "stroke_spacing": 0.81,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_470.png",
+    "cross_angle": 47.4,
+    "stroke_length": 0.79,
+    "line_spacing": 1.16,
+    "stroke_spacing": 1.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_471.png",
+    "cross_angle": 45.8,
+    "stroke_length": 0.77,
+    "line_spacing": 0.59,
+    "stroke_spacing": 0.83,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_472.png",
+    "cross_angle": 41.7,
+    "stroke_length": 0.39,
+    "line_spacing": 0.57,
+    "stroke_spacing": 0.84,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_473.png",
+    "cross_angle": 19.2,
+    "stroke_length": 0.46,
+    "line_spacing": 0.96,
+    "stroke_spacing": 1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_474.png",
+    "cross_angle": 37.8,
+    "stroke_length": 0.36,
+    "line_spacing": 0.55,
+    "stroke_spacing": 1.26,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_475.png",
+    "cross_angle": 37.5,
+    "stroke_length": 0.91,
+    "line_spacing": 1.42,
+    "stroke_spacing": 1.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_476.png",
+    "cross_angle": 20.4,
+    "stroke_length": 0.4,
+    "line_spacing": 0.87,
+    "stroke_spacing": 0.85,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_477.png",
+    "cross_angle": 50.6,
+    "stroke_length": 0.45,
+    "line_spacing": 1.39,
+    "stroke_spacing": 0.76,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_478.png",
+    "cross_angle": 29.3,
+    "stroke_length": 0.42,
+    "line_spacing": 1.4,
+    "stroke_spacing": 0.76,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_479.png",
+    "cross_angle": 19.7,
+    "stroke_length": 0.69,
+    "line_spacing": 0.8,
+    "stroke_spacing": 0.75,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_480.png",
+    "cross_angle": 21.6,
+    "stroke_length": 0.43,
+    "line_spacing": 1.39,
+    "stroke_spacing": 0.98,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_481.png",
+    "cross_angle": 26.4,
+    "stroke_length": 0.93,
+    "line_spacing": 1.42,
+    "stroke_spacing": 0.73,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_482.png",
+    "cross_angle": 54.2,
+    "stroke_length": 0.91,
+    "line_spacing": 1.22,
+    "stroke_spacing": 1.3,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_483.png",
+    "cross_angle": 45.9,
+    "stroke_length": 0.53,
+    "line_spacing": 1.48,
+    "stroke_spacing": 1.16,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_484.png",
+    "cross_angle": 37.1,
+    "stroke_length": 0.99,
+    "line_spacing": 1.29,
+    "stroke_spacing": 1.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_485.png",
+    "cross_angle": 34.6,
+    "stroke_length": 0.88,
+    "line_spacing": 0.76,
+    "stroke_spacing": 1.19,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_486.png",
+    "cross_angle": 33.5,
+    "stroke_length": 0.88,
+    "line_spacing": 1.44,
+    "stroke_spacing": 1.04,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_487.png",
+    "cross_angle": 22.5,
+    "stroke_length": 0.76,
+    "line_spacing": 1.22,
+    "stroke_spacing": 1.19,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_488.png",
+    "cross_angle": 35.9,
+    "stroke_length": 0.95,
+    "line_spacing": 1.42,
+    "stroke_spacing": 0.93,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_489.png",
+    "cross_angle": 33.3,
+    "stroke_length": 0.85,
+    "line_spacing": 1.05,
+    "stroke_spacing": 1.24,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_490.png",
+    "cross_angle": 21.6,
+    "stroke_length": 0.38,
+    "line_spacing": 1.27,
+    "stroke_spacing": 1.27,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_491.png",
+    "cross_angle": 44,
+    "stroke_length": 0.89,
+    "line_spacing": 1.01,
+    "stroke_spacing": 1.06,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_492.png",
+    "cross_angle": 51.7,
+    "stroke_length": 0.76,
+    "line_spacing": 0.75,
+    "stroke_spacing": 1.2,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_493.png",
+    "cross_angle": 52.4,
+    "stroke_length": 0.35,
+    "line_spacing": 1.14,
+    "stroke_spacing": 1.22,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_494.png",
+    "cross_angle": 54.6,
+    "stroke_length": 0.85,
+    "line_spacing": 1.25,
+    "stroke_spacing": 1.09,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_495.png",
+    "cross_angle": 19.6,
+    "stroke_length": 0.41,
+    "line_spacing": 0.77,
+    "stroke_spacing": 1.11,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_496.png",
+    "cross_angle": 44.5,
+    "stroke_length": 0.44,
+    "line_spacing": 1.12,
+    "stroke_spacing": 1.04,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_497.png",
+    "cross_angle": 36.7,
+    "stroke_length": 0.32,
+    "line_spacing": 0.67,
+    "stroke_spacing": 0.92,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_498.png",
+    "cross_angle": 20.8,
+    "stroke_length": 0.35,
+    "line_spacing": 1.02,
+    "stroke_spacing": 1.18,
+    "is_illusion_active": false
+  },
+  {
+    "image": "zollner_499.png",
+    "cross_angle": 43,
+    "stroke_length": 0.78,
+    "line_spacing": 0.65,
+    "stroke_spacing": 0.65,
+    "is_illusion_active": true
+  },
+  {
+    "image": "zollner_500.png",
+    "cross_angle": 38.4,
+    "stroke_length": 0.9,
+    "line_spacing": 1.06,
+    "stroke_spacing": 0.76,
+    "is_illusion_active": true
+  }
+]

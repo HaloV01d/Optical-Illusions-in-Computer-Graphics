@@ -1,0 +1,4002 @@
+[
+  {
+    "image": "rotating_snakes_001.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 0.73,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_002.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 0.87,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_003.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 0.83,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_004.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 1.02,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_005.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 0.93,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_006.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 0.86,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_007.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 1.09,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_008.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 0.76,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_009.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 0.76,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_010.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 1.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_011.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 1.1,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_012.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 0.93,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_013.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 0.74,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_014.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 0.84,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_015.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 0.98,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_016.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 1.06,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_017.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 1.1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_018.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 1.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_019.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 0.71,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_020.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.78,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_021.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 1.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_022.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 0.8,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_023.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 1.22,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_024.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 0.87,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_025.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 1.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_026.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 0.72,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_027.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 1.05,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_028.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.73,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_029.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 1.22,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_030.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 1.05,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_031.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 0.98,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_032.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_033.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 0.84,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_034.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 0.74,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_035.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 1.08,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_036.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 0.89,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_037.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 1.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_038.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 1.27,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_039.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 0.88,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_040.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.99,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_041.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.79,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_042.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 0.73,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_043.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 0.79,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_044.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.09,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_045.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 1.03,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_046.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 1.04,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_047.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 1.29,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_048.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 0.99,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_049.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.73,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_050.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 1.23,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_051.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 0.83,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_052.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 0.99,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_053.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 0.9,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_054.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 0.77,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_055.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 1.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_056.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 0.77,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_057.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.98,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_058.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 1.06,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_059.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 0.76,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_060.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 0.98,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_061.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 0.82,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_062.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 0.79,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_063.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 1.06,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_064.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 0.9,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_065.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 0.89,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_066.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 0.84,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_067.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 1.11,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_068.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 1.15,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_069.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 1.3,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_070.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.85,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_071.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 1.2,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_072.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 0.99,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_073.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 1.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_074.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 0.97,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_075.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 0.84,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_076.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 0.86,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_077.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 0.82,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_078.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 1.09,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_079.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.85,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_080.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 0.82,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_081.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 1.05,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_082.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 1.25,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_083.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 1.07,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_084.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 1.22,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_085.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.2,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_086.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 1.09,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_087.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 1.05,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_088.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 0.82,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_089.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 0.82,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_090.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 1.05,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_091.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 0.74,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_092.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 1.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_093.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 1.13,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_094.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 1.03,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_095.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 1.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_096.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 0.73,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_097.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 0.9,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_098.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.97,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_099.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 1.22,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_100.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 0.75,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_101.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 0.92,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_102.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 0.73,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_103.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.84,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_104.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.11,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_105.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 0.76,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_106.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 1.02,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_107.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.95,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_108.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_109.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 1.01,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_110.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.76,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_111.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.83,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_112.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 1.17,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_113.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 1.04,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_114.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 1.27,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_115.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.8,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_116.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.96,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_117.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 1.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_118.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 1.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_119.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 0.71,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_120.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.28,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_121.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 1.27,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_122.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 1.29,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_123.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 1.19,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_124.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 0.88,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_125.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 0.91,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_126.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 0.88,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_127.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 1.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_128.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 1.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_129.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 0.71,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_130.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 0.99,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_131.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 1.02,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_132.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 0.71,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_133.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 0.86,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_134.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 0.88,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_135.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 0.86,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_136.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 0.72,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_137.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 1.04,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_138.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 0.95,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_139.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 0.87,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_140.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.22,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_141.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 0.95,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_142.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 0.86,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_143.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 0.94,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_144.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.03,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_145.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 1.01,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_146.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 1.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_147.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.07,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_148.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 0.87,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_149.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 0.9,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_150.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 0.89,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_151.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 0.87,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_152.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 1.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_153.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 1.06,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_154.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 1.22,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_155.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 0.96,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_156.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 0.8,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_157.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_158.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 1.26,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_159.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 0.82,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_160.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 0.83,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_161.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 1.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_162.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 0.93,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_163.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.79,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_164.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 1.2,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_165.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 1.18,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_166.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 0.96,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_167.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_168.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 1,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_169.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 0.71,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_170.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.72,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_171.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 0.86,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_172.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 1.29,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_173.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 1.01,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_174.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 1.04,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_175.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 1.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_176.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 1.03,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_177.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 0.8,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_178.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 0.88,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_179.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 0.82,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_180.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.07,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_181.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 1.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_182.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 1.26,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_183.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 1.09,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_184.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 0.75,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_185.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 0.94,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_186.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 1.15,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_187.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 1.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_188.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 0.96,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_189.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 0.72,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_190.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 1.09,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_191.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 0.71,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_192.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 1.02,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_193.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 0.7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_194.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 0.89,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_195.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 1.18,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_196.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 1.21,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_197.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 1.01,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_198.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 1.18,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_199.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_200.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 1.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_201.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 0.87,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_202.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_203.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.71,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_204.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 0.81,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_205.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 1.03,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_206.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 1.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_207.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 0.97,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_208.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 1.26,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_209.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 0.92,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_210.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 0.9,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_211.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 0.77,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_212.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.02,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_213.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 1.3,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_214.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 1.27,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_215.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 0.85,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_216.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.2,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_217.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 1.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_218.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 1.09,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_219.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 1.21,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_220.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 1.17,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_221.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 0.77,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_222.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 0.91,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_223.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.17,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_224.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 0.93,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_225.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.9,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_226.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 1.11,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_227.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 0.85,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_228.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 0.71,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_229.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 0.72,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_230.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 0.93,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_231.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 0.91,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_232.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 0.77,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_233.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 1.05,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_234.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.83,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_235.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 1.07,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_236.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 1.2,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_237.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 1.09,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_238.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 0.75,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_239.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.72,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_240.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 1.15,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_241.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 0.75,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_242.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 0.75,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_243.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 0.98,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_244.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 1.24,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_245.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 1.09,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_246.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 1.18,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_247.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 1.03,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_248.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.06,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_249.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 1.26,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_250.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 1.07,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_251.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 1.06,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_252.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 0.89,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_253.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 1.1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_254.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 0.91,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_255.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 0.91,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_256.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 0.92,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_257.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 1.07,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_258.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 1.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_259.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 1.26,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_260.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 0.78,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_261.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.08,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_262.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 0.79,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_263.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.85,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_264.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 1.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_265.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 1.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_266.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 0.81,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_267.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.19,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_268.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 1.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_269.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 1.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_270.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 0.78,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_271.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.73,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_272.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.96,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_273.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 0.88,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_274.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 0.89,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_275.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 0.77,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_276.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 0.86,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_277.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.81,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_278.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_279.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 1.29,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_280.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 1.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_281.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 1.06,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_282.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 1.26,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_283.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 0.78,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_284.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.27,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_285.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 0.94,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_286.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 0.89,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_287.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 0.89,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_288.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 1.26,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_289.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 1.05,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_290.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 0.86,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_291.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 0.72,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_292.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 1.29,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_293.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 1.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_294.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 0.9,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_295.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 1.17,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_296.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 1.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_297.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 1.09,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_298.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 1.08,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_299.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 0.83,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_300.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.26,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_301.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 1.3,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_302.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 0.74,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_303.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 1.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_304.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 0.77,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_305.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 0.85,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_306.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 0.87,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_307.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 0.79,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_308.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.17,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_309.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 0.74,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_310.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 1.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_311.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 0.85,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_312.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 1.18,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_313.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_314.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 1.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_315.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 0.9,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_316.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 1.22,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_317.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 0.83,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_318.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 0.85,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_319.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 1.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_320.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 1.18,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_321.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 1.13,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_322.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 0.75,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_323.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_324.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 1.07,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_325.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 1.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_326.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 1.06,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_327.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 1.02,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_328.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 0.89,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_329.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 1.09,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_330.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 1.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_331.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 0.79,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_332.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 1.29,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_333.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 0.75,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_334.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 1.1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_335.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 1.19,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_336.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.22,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_337.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 0.8,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_338.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 0.88,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_339.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 0.94,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_340.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 1.2,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_341.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 0.71,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_342.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 1.09,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_343.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.29,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_344.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 0.77,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_345.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 1.19,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_346.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 0.8,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_347.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_348.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 1.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_349.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 0.72,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_350.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 0.84,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_351.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 0.98,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_352.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 0.77,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_353.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 1.09,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_354.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 1.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_355.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 0.99,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_356.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 0.84,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_357.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 1.04,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_358.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 0.97,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_359.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 0.98,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_360.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 1.29,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_361.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 0.77,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_362.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 0.86,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_363.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 1.11,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_364.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 0.75,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_365.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 0.77,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_366.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 1.22,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_367.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 1.18,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_368.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_369.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 0.83,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_370.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 1.09,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_371.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 1.09,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_372.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 0.82,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_373.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 1.1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_374.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 0.84,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_375.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.05,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_376.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 0.73,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_377.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.95,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_378.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 1.02,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_379.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 0.8,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_380.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 1.09,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_381.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 1.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_382.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 1.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_383.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 1.18,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_384.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 0.72,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_385.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 1.29,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_386.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 0.74,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_387.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 0.85,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_388.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 1.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_389.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 1.22,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_390.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 1.03,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_391.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 1,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_392.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 1.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_393.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 0.8,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_394.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 1.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_395.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.83,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_396.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.13,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_397.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.88,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_398.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.91,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_399.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 1.2,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_400.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 0.79,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_401.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_402.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 1.18,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_403.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 0.89,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_404.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 0.78,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_405.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 1.11,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_406.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 0.98,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_407.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.8,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_408.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.19,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_409.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 0.71,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_410.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 1.05,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_411.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 0.83,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_412.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 0.88,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_413.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 1.28,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_414.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 1.26,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_415.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 1.06,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_416.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 1.05,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_417.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.74,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_418.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 0.88,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_419.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 0.7,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_420.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 1.02,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_421.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 0.92,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_422.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 1.04,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_423.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 1.03,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_424.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 1.3,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_425.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 1.01,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_426.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.06,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_427.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 1.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_428.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 1.15,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_429.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.99,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_430.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 1.14,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_431.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 0.83,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_432.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 0.95,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_433.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 0.92,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_434.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 1.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_435.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 0.77,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_436.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 0.85,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_437.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 1.03,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_438.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.05,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_439.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 1.07,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_440.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_441.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 1.17,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_442.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 0.74,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_443.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 0.82,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_444.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 1.1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_445.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 0.76,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_446.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 0.99,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_447.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.06,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_448.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 1.12,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_449.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 0.95,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_450.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 1.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_451.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.98,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_452.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 1.11,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_453.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 1.24,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_454.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 1.21,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_455.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.71,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_456.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 0.91,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_457.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 1.17,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_458.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 0.76,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_459.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 1.02,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_460.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 1.17,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_461.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.98,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_462.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 0.79,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_463.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 1.01,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_464.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 1.23,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_465.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 1.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_466.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 1.19,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_467.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 0.81,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_468.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 1.01,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_469.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 0.92,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_470.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 0.78,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_471.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.03,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_472.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 1.1,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_473.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 1.03,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_474.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 1.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_475.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 1.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_476.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 1.1,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_477.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 1.25,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_478.png",
+    "grid_rows": 4,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 1.27,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_479.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 0.93,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_480.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 1.17,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_481.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 1.17,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_482.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 5,
+    "capsule_scale": 0.72,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_483.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.87,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_484.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 5,
+    "capsule_scale": 1.01,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_485.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 1.18,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_486.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 1.29,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_487.png",
+    "grid_rows": 2,
+    "grid_cols": 4,
+    "ring_count": 3,
+    "capsule_scale": 0.96,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_488.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 4,
+    "capsule_scale": 0.78,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_489.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 1.28,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_490.png",
+    "grid_rows": 3,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 1.03,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_491.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 1.21,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_492.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 1.16,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_493.png",
+    "grid_rows": 3,
+    "grid_cols": 4,
+    "ring_count": 5,
+    "capsule_scale": 0.94,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_494.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 0.99,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_495.png",
+    "grid_rows": 4,
+    "grid_cols": 3,
+    "ring_count": 3,
+    "capsule_scale": 1.2,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_496.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 1.24,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_497.png",
+    "grid_rows": 2,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.97,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_498.png",
+    "grid_rows": 4,
+    "grid_cols": 5,
+    "ring_count": 4,
+    "capsule_scale": 1.06,
+    "is_illusion_active": true
+  },
+  {
+    "image": "rotating_snakes_499.png",
+    "grid_rows": 2,
+    "grid_cols": 5,
+    "ring_count": 3,
+    "capsule_scale": 1.02,
+    "is_illusion_active": false
+  },
+  {
+    "image": "rotating_snakes_500.png",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "ring_count": 4,
+    "capsule_scale": 0.94,
+    "is_illusion_active": true
+  }
+]
