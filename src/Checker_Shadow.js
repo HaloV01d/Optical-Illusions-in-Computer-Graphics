@@ -30,7 +30,7 @@ export class CheckerShadowIllusion extends IllusionBase { // Implementation of t
             for (let z = 0; z < boardSize; z += 1) {
                 const color = (x + z) % 2 === 0 ? 0xcecece : 0x787878;
                 const geometry = new THREE.BoxGeometry(tileSize, 0.5, tileSize);
-                const material = new THREE.MeshStandardMaterial({ color });
+                const material = new THREE.MeshBasicMaterial({ color });
                 const tile = new THREE.Mesh(geometry, material);
 
                 tile.userData.baseColor = new THREE.Color(color);
@@ -39,20 +39,50 @@ export class CheckerShadowIllusion extends IllusionBase { // Implementation of t
                     -0.05,
                     z * tileSize - (boardSize * tileSize) / 2 + tileSize / 2
                 );
-                tile.receiveShadow = true;
+
                 this.boardGroup.add(tile);
             }
         }
+
+        const shadowPlane = new THREE.Mesh(
+            new THREE.PlaneGeometry(boardSize * 1.2, boardSize * 1.2),
+            new THREE.ShadowMaterial({ opacity: 0.417 })
+        );
+        shadowPlane.rotation.x = -Math.PI / 2;
+        shadowPlane.position.y = 0.21; // just above tiles
+        shadowPlane.receiveShadow = true;
+        this.scene.add(shadowPlane);
 
         this.scene.add(this.boardGroup);
 
         const cylinder = new THREE.Mesh(
             new THREE.CylinderGeometry(1, 1, 3, 32),
-            new THREE.MeshStandardMaterial({ color: 0x8ab090 })
+            new THREE.MeshBasicMaterial({ color: 0x6b9e6f })
         );
-        cylinder.position.set(1.2, 1.5, -1.5);
+        cylinder.position.set(1.5, 1.5, -1.5);
         cylinder.castShadow = true;
         this.scene.add(cylinder);
+
+        this.scene.remove(this.light);
+        this.scene.remove(this.ambient);
+
+        this.light = new THREE.SpotLight(0xffffff, 5);
+        this.light.position.set(4, 8, -10);
+        this.light.target.position.set(0, 0, 0);
+        this.light.angle = Math.PI / 6;
+        this.light.penumbra = 0.3;
+        this.light.castShadow = true;
+        this.light.shadow.bias = -0.002;
+        this.light.shadow.mapSize.set(2048, 2048);
+        this.light.shadow.camera.near = 5;
+        this.light.shadow.camera.far = 30;
+        this.scene.add(this.light);
+        this.scene.add(this.light.target);
+
+        this.ambient = new THREE.AmbientLight(0xffffff, 0.03);
+        this.scene.add(this.ambient);
+
+        this.syncLightSlidersFromScene();
     }
 
     onDispose() { // Clean up any resources or event listeners when the illusion is disposed
