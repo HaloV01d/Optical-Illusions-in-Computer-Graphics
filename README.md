@@ -49,6 +49,12 @@ This project demonstrates how perception can be distorted by context, contrast, 
 - Choose a folder once, and the app creates/uses a dataset subfolder for direct saves.
 - If folder access is not available in the browser, capture falls back to a normal file download.
 
+## Dataset Generation
+
+- `DatasetGenerator.js` can programmatically render batches of illusion images with randomized parameters (lighting, contrast, geometry, etc.).
+- Each generated image is saved as a PNG alongside a JSON label file recording the rendering parameters and whether the illusion effect was active.
+- Pre-generated label files live under `dataset/` organized by illusion type (e.g. `dataset/checker_shadow/checker_shadow_labels.json`).
+
 ## Project Structure
 
 ```text
@@ -56,8 +62,20 @@ Optical-Illusions-in-Computer-Graphics/
 |-- index.html
 |-- package.json
 |-- README.md
+|-- dataset/
+|   |-- checker_shadow/
+|   |   `-- checker_shadow_labels.json
+|   |-- mach_band/
+|   |   `-- mach_band_labels.json
+|   |-- ponzo/
+|   |   `-- ponzo_labels.json
+|   |-- rotating_snakes/
+|   |   `-- rotating_snakes_labels.json
+|   `-- zollner/
+|       `-- zollner_labels.json
 `-- src/
     |-- Checker_Shadow.js
+    |-- DatasetGenerator.js
     |-- IllusionBase.js
     |-- MachBand.js
     |-- Ponzo.js
