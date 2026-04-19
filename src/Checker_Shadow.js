@@ -140,7 +140,7 @@ export class CheckerShadowIllusion extends IllusionBase { // Implementation of t
             });
             const outline = new THREE.LineSegments(outlineGeometry, outlineMaterial);
             outline.scale.setScalar(1.03);
-            outline.visible = false;
+            outline.raycast = () => {};
             tile.add(outline);
             tile.userData.selectionOutline = outline;
         }
@@ -149,9 +149,12 @@ export class CheckerShadowIllusion extends IllusionBase { // Implementation of t
         tile.userData.selectionOutline.visible = true;
     }
 
-    clearTileHighlight(tile) { // Clear the highlight from a tile by hiding its selection outline, if it exists
+    clearTileHighlight(tile) { // Clear the highlight from a tile by removing its selection outline geometry from the scene to prevent stale outlines from interfering with raycasting
         if (tile.userData.selectionOutline) {
-            tile.userData.selectionOutline.visible = false;
+            tile.remove(tile.userData.selectionOutline);
+            tile.userData.selectionOutline.geometry.dispose();
+            tile.userData.selectionOutline.material.dispose();
+            tile.userData.selectionOutline = null;
         }
     }
 
