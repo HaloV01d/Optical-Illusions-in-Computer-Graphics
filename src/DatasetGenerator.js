@@ -157,7 +157,7 @@ export class DatasetGenerator {
         spotlight.penumbra = 0.3;
         spotlight.castShadow = true;
         spotlight.shadow.bias = -0.002;
-        spotlight.shadow.mapSize.set(2048, 2048);
+        spotlight.shadow.mapSize.set(1024, 1024);
         spotlight.shadow.camera.near = 5;
         spotlight.shadow.camera.far = 30;
         scene.add(spotlight);
@@ -542,10 +542,13 @@ export class DatasetGenerator {
         const totalImages = illusions.length * this.imagesPerIllusion;
         let globalCount = 0;
 
+        const WRITE_BATCH = 20;
+
         try {
             for (const illusion of illusions) {
                 let subDir = await dirHandle.getDirectoryHandle(illusion.name, { create: true });
                 const labels = [];
+                let pendingWrites = [];
 
                 for (let i = 0; i < this.imagesPerIllusion; i++) {
                     if (i > 0 && i % 50 === 0) {
@@ -564,14 +567,20 @@ export class DatasetGenerator {
                     this.renderScene(scene, camera);
 
                     const blob = await this.canvasToBlob(this.renderer.domElement);
-                    await this.saveBlob(subDir, filename, blob);
+                    pendingWrites.push(this.saveBlob(subDir, filename, blob));
 
                     labels.push({ image: filename, ...params });
                     this.disposeScene(scene);
 
-                    if (i % 5 === 0) {
+                    if (pendingWrites.length >= WRITE_BATCH) {
+                        await Promise.all(pendingWrites);
+                        pendingWrites = [];
                         await new Promise((resolve) => setTimeout(resolve, 0));
                     }
+                }
+
+                if (pendingWrites.length > 0) {
+                    await Promise.all(pendingWrites);
                 }
 
                 subDir = await dirHandle.getDirectoryHandle(illusion.name, { create: true });
@@ -630,6 +639,8 @@ export class DatasetGenerator {
         try {
             let subDir = await dirHandle.getDirectoryHandle(illusionKey, { create: true });
             const labels = [];
+            const WRITE_BATCH = 20;
+            let pendingWrites = [];
 
             for (let i = 0; i < this.imagesPerIllusion; i++) {
                 if (i > 0 && i % 50 === 0) {
@@ -645,14 +656,20 @@ export class DatasetGenerator {
                 this.renderScene(scene, camera);
 
                 const blob = await this.canvasToBlob(this.renderer.domElement);
-                await this.saveBlob(subDir, filename, blob);
+                pendingWrites.push(this.saveBlob(subDir, filename, blob));
 
                 labels.push({ image: filename, ...params });
                 this.disposeScene(scene);
 
-                if (i % 5 === 0) {
+                if (pendingWrites.length >= WRITE_BATCH) {
+                    await Promise.all(pendingWrites);
+                    pendingWrites = [];
                     await new Promise((resolve) => setTimeout(resolve, 0));
                 }
+            }
+
+            if (pendingWrites.length > 0) {
+                await Promise.all(pendingWrites);
             }
 
             subDir = await dirHandle.getDirectoryHandle(illusionKey, { create: true });
